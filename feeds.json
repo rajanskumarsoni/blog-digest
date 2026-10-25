@@ -1,47 +1,272 @@
 [
-  { "name": "TechCrunch", "category": "Tech", "url": "https://techcrunch.com/feed/" },
-  { "name": "The Verge", "category": "Tech", "url": "https://www.theverge.com/rss/index.xml" },
-  { "name": "Ars Technica", "category": "Tech", "url": "https://feeds.arstechnica.com/arstechnica/index" },
-  { "name": "Wired", "category": "Tech", "url": "https://www.wired.com/feed/rss" },
-  { "name": "Engadget", "category": "Tech", "url": "https://www.engadget.com/rss.xml" },
-  { "name": "Stratechery", "category": "Tech", "url": "https://stratechery.com/feed/" },
-  { "name": "Daring Fireball", "category": "Tech", "url": "https://daringfireball.net/feeds/main" },
-  { "name": "Schneier on Security", "category": "Tech", "url": "https://www.schneier.com/feed/atom/" },
-
-  { "name": "OpenAI", "category": "AI", "url": "https://openai.com/news/rss.xml" },
-  { "name": "Google AI", "category": "AI", "url": "https://blog.google/technology/ai/rss/" },
-  { "name": "Hugging Face", "category": "AI", "url": "https://huggingface.co/blog/feed.xml" },
-  { "name": "NVIDIA", "category": "AI", "url": "https://blogs.nvidia.com/feed/" },
-
-  { "name": "Netflix Tech Blog", "category": "Engineering", "url": "https://netflixtechblog.com/feed" },
-  { "name": "Cloudflare", "category": "Engineering", "url": "https://blog.cloudflare.com/rss/" },
-  { "name": "GitHub Blog", "category": "Engineering", "url": "https://github.blog/feed/" },
-  { "name": "AWS News", "category": "Engineering", "url": "https://aws.amazon.com/blogs/aws/feed/" },
-  { "name": "Uber Engineering", "category": "Engineering", "url": "https://www.uber.com/blog/engineering/rss/" },
-  { "name": "Spotify Engineering", "category": "Engineering", "url": "https://engineering.atspotify.com/feed/" },
-  { "name": "Shopify Engineering", "category": "Engineering", "url": "https://shopify.engineering/blog.atom" },
-  { "name": "Mozilla Hacks", "category": "Engineering", "url": "https://hacks.mozilla.org/feed/" },
-  { "name": "Docker", "category": "Engineering", "url": "https://www.docker.com/blog/feed/" },
-
-  { "name": "Seth Godin", "category": "Ideas", "url": "https://seths.blog/feed/" },
-  { "name": "Marginal Revolution", "category": "Ideas", "url": "https://marginalrevolution.com/feed" },
-  { "name": "Astral Codex Ten", "category": "Ideas", "url": "https://www.astralcodexten.com/feed" },
-  { "name": "Wait But Why", "category": "Ideas", "url": "https://waitbutwhy.com/feed" },
-  { "name": "The Marginalian", "category": "Ideas", "url": "https://www.themarginalian.org/feed/" },
-  { "name": "James Clear", "category": "Ideas", "url": "https://jamesclear.com/feed" },
-  { "name": "Zen Habits", "category": "Ideas", "url": "https://zenhabits.net/feed/" },
-
-  { "name": "Mr. Money Mustache", "category": "Finance", "url": "https://www.mrmoneymustache.com/feed/" },
-  { "name": "Zerodha Z-Connect", "category": "Finance", "url": "https://zerodha.com/z-connect/feed" },
-
-  { "name": "HubSpot Marketing", "category": "Marketing", "url": "https://blog.hubspot.com/marketing/rss.xml" },
-  { "name": "Search Engine Journal", "category": "Marketing", "url": "https://www.searchenginejournal.com/feed/" },
-  { "name": "Copyblogger", "category": "Marketing", "url": "https://copyblogger.com/feed/" },
-
-  { "name": "YourStory", "category": "India", "url": "https://yourstory.com/feed" },
-  { "name": "Labnol", "category": "India", "url": "https://www.labnol.org/feed/" },
-  { "name": "ShoutMeLoud", "category": "India", "url": "https://www.shoutmeloud.com/feed" },
-
-  { "name": "Smitten Kitchen", "category": "Lifestyle", "url": "https://smittenkitchen.com/feed/" },
-  { "name": "Nomadic Matt", "category": "Lifestyle", "url": "https://www.nomadicmatt.com/feed/" }
+  {
+    "name": "TechCrunch",
+    "category": "Tech",
+    "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "The Verge",
+    "category": "Tech",
+    "url": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+    "name": "Ars Technica",
+    "category": "Tech",
+    "url": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+    "name": "Wired",
+    "category": "Tech",
+    "url": "https://www.wired.com/feed/rss"
+  },
+  {
+    "name": "Engadget",
+    "category": "Tech",
+    "url": "https://www.engadget.com/rss.xml"
+  },
+  {
+    "name": "Stratechery",
+    "category": "Tech",
+    "url": "https://stratechery.com/feed/"
+  },
+  {
+    "name": "Daring Fireball",
+    "category": "Tech",
+    "url": "https://daringfireball.net/feeds/main"
+  },
+  {
+    "name": "Schneier on Security",
+    "category": "Tech",
+    "url": "https://www.schneier.com/feed/atom/"
+  },
+  {
+    "name": "OpenAI",
+    "category": "AI & ML",
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "name": "Google AI",
+    "category": "AI & ML",
+    "url": "https://blog.google/technology/ai/rss/"
+  },
+  {
+    "name": "Hugging Face",
+    "category": "AI & ML",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+    "name": "NVIDIA",
+    "category": "AI & ML",
+    "url": "https://blogs.nvidia.com/feed/"
+  },
+  {
+    "name": "Netflix Tech Blog",
+    "category": "Software Engineering",
+    "url": "https://netflixtechblog.com/feed"
+  },
+  {
+    "name": "Cloudflare",
+    "category": "Software Engineering",
+    "url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "name": "GitHub Blog",
+    "category": "Software Engineering",
+    "url": "https://github.blog/feed/"
+  },
+  {
+    "name": "AWS News",
+    "category": "Software Engineering",
+    "url": "https://aws.amazon.com/blogs/aws/feed/"
+  },
+  {
+    "name": "Spotify Engineering",
+    "category": "Software Engineering",
+    "url": "https://engineering.atspotify.com/feed/"
+  },
+  {
+    "name": "Shopify Engineering",
+    "category": "Software Engineering",
+    "url": "https://shopify.engineering/blog.atom"
+  },
+  {
+    "name": "Mozilla Hacks",
+    "category": "Software Engineering",
+    "url": "https://hacks.mozilla.org/feed/"
+  },
+  {
+    "name": "Docker",
+    "category": "Software Engineering",
+    "url": "https://www.docker.com/blog/feed/"
+  },
+  {
+    "name": "Seth Godin",
+    "category": "Ideas",
+    "url": "https://seths.blog/feed/"
+  },
+  {
+    "name": "Marginal Revolution",
+    "category": "Ideas",
+    "url": "https://marginalrevolution.com/feed"
+  },
+  {
+    "name": "Astral Codex Ten",
+    "category": "Ideas",
+    "url": "https://www.astralcodexten.com/feed"
+  },
+  {
+    "name": "The Marginalian",
+    "category": "Ideas",
+    "url": "https://www.themarginalian.org/feed/"
+  },
+  {
+    "name": "James Clear",
+    "category": "Ideas",
+    "url": "https://jamesclear.com/feed"
+  },
+  {
+    "name": "Mr. Money Mustache",
+    "category": "Finance",
+    "url": "https://www.mrmoneymustache.com/feed/"
+  },
+  {
+    "name": "Zerodha Z-Connect",
+    "category": "Finance",
+    "url": "https://zerodha.com/z-connect/feed"
+  },
+  {
+    "name": "HubSpot Marketing",
+    "category": "Marketing",
+    "url": "https://blog.hubspot.com/marketing/rss.xml"
+  },
+  {
+    "name": "Search Engine Journal",
+    "category": "Marketing",
+    "url": "https://www.searchenginejournal.com/feed/"
+  },
+  {
+    "name": "Copyblogger",
+    "category": "Marketing",
+    "url": "https://copyblogger.com/feed/"
+  },
+  {
+    "name": "YourStory",
+    "category": "India",
+    "url": "https://yourstory.com/feed"
+  },
+  {
+    "name": "ShoutMeLoud",
+    "category": "India",
+    "url": "https://www.shoutmeloud.com/feed"
+  },
+  {
+    "name": "Smitten Kitchen",
+    "category": "Lifestyle",
+    "url": "https://smittenkitchen.com/feed/"
+  },
+  {
+    "name": "Nomadic Matt",
+    "category": "Lifestyle",
+    "url": "https://www.nomadicmatt.com/feed/"
+  },
+  {
+    "name": "Lilian Weng",
+    "category": "AI Agents",
+    "url": "https://lilianweng.github.io/index.xml"
+  },
+  {
+    "name": "Latent Space",
+    "category": "AI Agents",
+    "url": "https://www.latent.space/feed"
+  },
+  {
+    "name": "Eugene Yan",
+    "category": "AI Agents",
+    "url": "https://eugeneyan.com/rss/"
+  },
+  {
+    "name": "Simon Willison",
+    "category": "AI Agents",
+    "url": "https://simonwillison.net/atom/everything/"
+  },
+  {
+    "name": "Interconnects",
+    "category": "AI Agents",
+    "url": "https://www.interconnects.ai/feed"
+  },
+  {
+    "name": "Hamel Husain",
+    "category": "AI Agents",
+    "url": "https://hamel.dev/index.xml"
+  },
+  {
+    "name": "Sebastian Raschka",
+    "category": "AI & ML",
+    "url": "https://magazine.sebastianraschka.com/feed"
+  },
+  {
+    "name": "Deep Learning Focus",
+    "category": "AI & ML",
+    "url": "https://cameronrwolfe.substack.com/feed"
+  },
+  {
+    "name": "The Gradient",
+    "category": "AI & ML",
+    "url": "https://thegradient.pub/rss/"
+  },
+  {
+    "name": "Jay Alammar",
+    "category": "AI & ML",
+    "url": "https://jalammar.github.io/feed.xml"
+  },
+  {
+    "name": "Towards Data Science",
+    "category": "Data Science",
+    "url": "https://towardsdatascience.com/feed"
+  },
+  {
+    "name": "Benn Stancil",
+    "category": "Data Science",
+    "url": "https://benn.substack.com/feed"
+  },
+  {
+    "name": "DuckDB Blog",
+    "category": "Data Science",
+    "url": "https://duckdb.org/feed.xml"
+  },
+  {
+    "name": "Databricks",
+    "category": "Data Science",
+    "url": "https://www.databricks.com/feed"
+  },
+  {
+    "name": "SeattleDataGuy",
+    "category": "Data Science",
+    "url": "https://www.theseattledataguy.com/feed"
+  },
+  {
+    "name": "Pragmatic Engineer",
+    "category": "Software Engineering",
+    "url": "https://newsletter.pragmaticengineer.com/feed"
+  },
+  {
+    "name": "ByteByteGo",
+    "category": "Software Engineering",
+    "url": "https://blog.bytebytego.com/feed"
+  },
+  {
+    "name": "Martin Fowler",
+    "category": "Software Engineering",
+    "url": "https://martinfowler.com/feed.atom"
+  },
+  {
+    "name": "Meta Engineering",
+    "category": "Software Engineering",
+    "url": "https://engineering.fb.com/feed/"
+  },
+  {
+    "name": "AWS Architecture",
+    "category": "Software Engineering",
+    "url": "https://aws.amazon.com/blogs/architecture/feed/"
+  }
 ]
