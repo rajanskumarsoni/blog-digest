@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Blog Digest</title>
 <link rel="alternate icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,81 +21,107 @@
       color-scheme: dark;
     }
   }
-  * { box-sizing: border-box; }
+  * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
   html { scroll-padding-top: 8rem; }
   body {
     margin: 0; background: var(--bg); color: var(--ink);
-    font: 17px/1.5 "Atkinson Hyperlegible", system-ui, sans-serif;
+    font: 16px/1.5 "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
   a { color: inherit; }
-  a:focus-visible, button:focus-visible, input:focus-visible {
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
     outline: 3px solid var(--accent); outline-offset: 2px;
   }
   header {
-    position: sticky; top: 0; z-index: 5; background: var(--bg);
+    position: sticky; top: 0; z-index: 10; background: var(--bg);
     border-bottom: 1px solid var(--line);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
   }
   .wrap { max-width: 62rem; margin: 0 auto; padding: 0 1.25rem; }
-  .top { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; padding: 1rem 0 .5rem; flex-wrap: wrap; }
-  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
-  .meta { color: var(--muted); font-size: .9rem; }
-  .tools { display: flex; gap: .65rem; flex-wrap: wrap; padding-bottom: .9rem; align-items: center; }
-  .search-box { flex: 1 1 13rem; min-width: 0; }
+  .top { display: flex; align-items: baseline; justify-content: space-between; gap: .75rem; padding: .85rem 0 .4rem; flex-wrap: wrap; }
+  h1 { margin: 0; font-size: 1.55rem; letter-spacing: -.01em; }
+  .meta { color: var(--muted); font-size: .88rem; }
+  
+  .tools { display: flex; flex-direction: column; gap: .55rem; padding-bottom: .75rem; }
+  .tools-row1 { display: flex; gap: .55rem; flex-wrap: wrap; align-items: center; }
+  .search-box { flex: 1 1 12rem; min-width: 0; }
   input[type=search] {
-    width: 100%; font: inherit; color: var(--ink);
-    background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: .5rem .75rem;
+    width: 100%; font: inherit; font-size: 16px; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+    padding: .5rem .75rem; height: 38px;
   }
+  .select-box { flex: 0 1 auto; }
   .filter-select {
-    font: inherit; font-size: .9rem; color: var(--ink);
-    background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
-    padding: .5rem 2rem .5rem .75rem; cursor: pointer; appearance: none;
+    font: inherit; font-size: 16px; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+    padding: .45rem 2rem .45rem .75rem; cursor: pointer; appearance: none;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%235e6b66' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right .75rem center;
     max-width: 100%;
+    height: 38px;
   }
   .filter-select:hover { border-color: var(--accent); }
+  
   .read-group {
     display: inline-flex; background: var(--surface); border: 1px solid var(--line);
-    border-radius: 8px; padding: 2px; gap: 2px;
+    border-radius: 8px; padding: 2px; gap: 2px; height: 38px; align-items: center;
   }
   .read-tab {
     font: inherit; font-size: .83rem; font-weight: 500; color: var(--muted);
     background: transparent; border: none; border-radius: 6px; padding: .35rem .65rem;
-    cursor: pointer; transition: all .15s ease; white-space: nowrap;
+    cursor: pointer; transition: all .15s ease; white-space: nowrap; height: 32px;
   }
   .read-tab[aria-pressed=true] {
     background: var(--ink); color: var(--bg); font-weight: 700;
   }
   .read-tab:hover:not([aria-pressed=true]) { color: var(--ink); }
-  .chips-row { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; width: 100%; }
-  .chips { display: flex; gap: .4rem; flex-wrap: wrap; }
+
+  .tools-row2 {
+    display: flex; gap: .55rem; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; width: 100%;
+  }
+  .chips-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 2px 0;
+  }
+  .chips-scroll::-webkit-scrollbar { display: none; }
+  .chips { display: flex; gap: .4rem; flex-wrap: nowrap; width: max-content; }
   .chip {
-    font: inherit; font-size: .9rem; color: var(--ink); background: transparent; cursor: pointer;
-    border: 1px solid var(--line); border-radius: 999px; padding: .2rem .8rem;
+    font: inherit; font-size: .88rem; color: var(--ink); background: transparent; cursor: pointer;
+    border: 1px solid var(--line); border-radius: 999px; padding: .25rem .75rem;
     transition: background-color .15s ease, color .15s ease, border-color .15s ease;
+    flex-shrink: 0; white-space: nowrap; height: 32px; display: inline-flex; align-items: center;
   }
   .chip[aria-pressed=true] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+  .actions-group { display: flex; gap: .35rem; align-items: center; flex-shrink: 0; flex-wrap: wrap; }
   .action-btn {
-    font: inherit; font-size: .82rem; color: var(--muted);
+    font: inherit; font-size: .8rem; color: var(--muted);
     background: transparent; border: 1px solid var(--line);
-    border-radius: 999px; padding: .2rem .75rem; cursor: pointer;
+    border-radius: 999px; padding: .2rem .65rem; cursor: pointer;
     display: inline-flex; align-items: center; gap: .25rem;
-    transition: all .15s ease; white-space: nowrap;
+    transition: all .15s ease; white-space: nowrap; height: 32px;
   }
   .action-btn:hover { color: var(--ink); border-color: var(--ink); background: var(--surface); }
   .reset-btn {
-    font: inherit; font-size: .82rem; color: var(--muted);
+    font: inherit; font-size: .8rem; color: var(--muted);
     background: transparent; border: 1px dashed var(--line);
-    border-radius: 999px; padding: .2rem .75rem; cursor: pointer;
+    border-radius: 999px; padding: .2rem .65rem; cursor: pointer;
     display: inline-flex; align-items: center; gap: .25rem;
-    transition: all .15s ease; white-space: nowrap;
+    transition: all .15s ease; white-space: nowrap; height: 32px;
   }
   .reset-btn:hover { color: var(--ink); border-color: var(--ink); background: var(--line); }
+
   main { padding-bottom: 4rem; }
   h2 {
-    position: sticky; top: var(--head, 7rem); margin: 0; padding: 1.4rem 0 .4rem;
-    font-size: 1rem; color: var(--muted); background: var(--bg); font-weight: 700;
+    position: sticky; top: var(--head, 7rem); margin: 0; padding: 1.2rem 0 .35rem;
+    font-size: .95rem; color: var(--muted); background: var(--bg); font-weight: 700;
+    z-index: 2;
   }
   .post {
     display: grid; grid-template-columns: 11rem 1fr; gap: .25rem 1.25rem;
@@ -131,7 +157,7 @@
     border-radius: 6px; color: var(--muted); font: inherit; font-size: .78rem;
     padding: .2rem .55rem; cursor: pointer; display: inline-flex;
     align-items: center; gap: .3rem; transition: all .15s ease; margin-top: .1rem;
-    user-select: none;
+    user-select: none; height: 28px;
   }
   .toggle-read-btn:hover {
     border-color: var(--accent); color: var(--accent); background: var(--surface);
@@ -142,14 +168,55 @@
   .post.is-read .toggle-read-btn:hover {
     color: var(--accent); text-decoration: underline;
   }
-  .empty { padding: 3rem 0; color: var(--muted); }
+  .empty { padding: 3rem 0; color: var(--muted); text-align: center; }
   footer { color: var(--muted); font-size: .85rem; padding: 0 0 3rem; }
+
+  /* Mobile floating Top button */
+  .top-btn {
+    position: fixed; bottom: 1.25rem; right: 1.25rem; z-index: 20;
+    width: 2.75rem; height: 2.75rem; border-radius: 50%;
+    background: var(--ink); color: var(--bg); border: none;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.18); font-size: 1.1rem;
+    opacity: 0; visibility: hidden; transition: opacity .2s ease, visibility .2s ease, transform .15s ease;
+  }
+  .top-btn.visible { opacity: .92; visibility: visible; }
+  .top-btn:active { transform: scale(.92); }
+
+  /* Mobile responsive layout */
   @media (max-width: 640px) {
-    .post { grid-template-columns: 1fr; }
-    .src small { display: inline; margin-left: .5rem; }
+    .wrap { padding: 0 .9rem; }
+    .top { padding: .65rem 0 .25rem; }
+    h1 { font-size: 1.35rem; }
+    .meta { font-size: .82rem; }
+    .tools { gap: .45rem; padding-bottom: .6rem; }
+    .tools-row1 { flex-direction: column; align-items: stretch; gap: .45rem; }
+    .search-box { width: 100%; flex: 1 1 100%; }
+    .select-box { width: 100%; }
     .filter-select { width: 100%; }
-    .read-group { width: 100%; justify-content: stretch; }
-    .read-tab { flex: 1; text-align: center; }
+    .read-group { width: 100%; display: flex; }
+    .read-tab { flex: 1; text-align: center; padding: .35rem .25rem; font-size: .8rem; }
+    
+    .tools-row2 { flex-direction: column; align-items: stretch; gap: .45rem; }
+    .chips-scroll { width: 100%; }
+    .actions-group { width: 100%; justify-content: flex-start; }
+    .action-btn, .reset-btn { font-size: .78rem; padding: .2rem .6rem; }
+
+    .post {
+      display: flex; flex-direction: column; gap: .35rem; padding: .8rem 0;
+    }
+    .post-meta-row {
+      display: flex; align-items: center; justify-content: space-between; gap: .5rem; width: 100%;
+    }
+    .src {
+      padding-top: 0; font-size: .85rem; display: flex; align-items: center; gap: .35rem;
+    }
+    .src small { display: inline; margin-left: 0; }
+    .src small::before { content: "·"; margin-right: .35rem; opacity: .7; }
+    .title-row { display: block; }
+    .title { font-size: 1.04rem; line-height: 1.38; }
+    .toggle-read-btn { height: 26px; font-size: .75rem; padding: .15rem .5rem; }
+    .summary { font-size: .9rem; margin-top: .2rem; }
   }
 </style>
 </head>
@@ -161,29 +228,37 @@
       <span class="meta" id="meta">Loading posts…</span>
     </div>
     <div class="tools">
-      <div class="search-box">
-        <input type="search" id="q" placeholder="Search posts, summaries, publishers…" aria-label="Search posts">
+      <div class="tools-row1">
+        <div class="search-box">
+          <input type="search" id="q" placeholder="Search posts, summaries, publishers…" aria-label="Search posts">
+        </div>
+        <div class="select-box">
+          <select id="sourceSelect" class="filter-select" aria-label="Filter by company or publisher">
+            <option value="All">All Publishers / Companies</option>
+          </select>
+        </div>
+        <div class="read-group" role="group" aria-label="Filter by read status">
+          <button type="button" class="read-tab" id="tabAll" aria-pressed="true">All (<span id="countAll">0</span>)</button>
+          <button type="button" class="read-tab" id="tabUnread" aria-pressed="false">Unread (<span id="countUnread">0</span>)</button>
+          <button type="button" class="read-tab" id="tabRead" aria-pressed="false">Read (<span id="countRead">0</span>)</button>
+        </div>
       </div>
-      <div>
-        <select id="sourceSelect" class="filter-select" aria-label="Filter by company or publisher">
-          <option value="All">All Publishers / Companies</option>
-        </select>
-      </div>
-      <div class="read-group" role="group" aria-label="Filter by read status">
-        <button type="button" class="read-tab" id="tabAll" aria-pressed="true">All (<span id="countAll">0</span>)</button>
-        <button type="button" class="read-tab" id="tabUnread" aria-pressed="false">Unread (<span id="countUnread">0</span>)</button>
-        <button type="button" class="read-tab" id="tabRead" aria-pressed="false">Read (<span id="countRead">0</span>)</button>
-      </div>
-      <div class="chips-row">
-        <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
-        <button id="markAllReadBtn" class="action-btn" type="button" title="Mark all shown posts as read">Mark shown as read ✓</button>
-        <button id="resetBtn" class="reset-btn" type="button" style="display:none" aria-label="Clear active filters">Clear filters ✕</button>
+      <div class="tools-row2">
+        <div class="chips-scroll">
+          <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+        </div>
+        <div class="actions-group">
+          <button id="markAllReadBtn" class="action-btn" type="button" title="Mark all currently shown posts as read">Mark read ✓</button>
+          <button id="markAllUnreadBtn" class="action-btn" type="button" title="Mark all currently shown posts as unread">Mark unread ⟲</button>
+          <button id="resetBtn" class="reset-btn" type="button" style="display:none" aria-label="Clear active filters">Clear ✕</button>
+        </div>
       </div>
     </div>
   </div>
 </header>
 
 <main class="wrap" id="list" aria-live="polite"></main>
+<button id="topBtn" class="top-btn" type="button" aria-label="Back to top" title="Back to top">↑</button>
 <footer class="wrap">
   Updated automatically every day. Add or remove blogs in <code>feeds.json</code>.
   <span id="failed"></span>
@@ -242,16 +317,6 @@
     $('countAll').textContent = total;
     $('countUnread').textContent = unreadCount;
     $('countRead').textContent = readCount;
-
-    // Update Mark All Read button text based on current view
-    const markBtn = $('markAllReadBtn');
-    if (state.readFilter === 'read') {
-      markBtn.textContent = 'Mark shown unread ⟲';
-      markBtn.title = 'Mark currently shown posts as unread';
-    } else {
-      markBtn.textContent = 'Mark shown as read ✓';
-      markBtn.title = 'Mark currently shown posts as read';
-    }
   }
 
   function updateResetBtn() {
@@ -313,7 +378,6 @@
       if (label !== day) { day = label; list.append(el('h2', { textContent: label })); }
 
       const isRead = state.readSet.has(p.link);
-      const isNew = !isRead && state.lastVisit && d.getTime() > state.lastVisit;
 
       const titleKids = [];
       if (!isRead) {
@@ -331,7 +395,7 @@
       const toggleBtn = el('button', {
         className: 'toggle-read-btn',
         type: 'button',
-        title: isRead ? 'Mark as unread' : 'Mark as read',
+        title: isRead ? 'Click to mark as unread' : 'Click to mark as read',
         textContent: isRead ? '✓ Read' : '○ Mark read'
       });
 
@@ -347,7 +411,7 @@
           } else {
             article.classList.add('is-read');
             toggleBtn.textContent = '✓ Read';
-            toggleBtn.title = 'Mark as unread';
+            toggleBtn.title = 'Click to mark as unread';
             const dot = link.querySelector('.unread-dot');
             if (dot) dot.remove();
             updateCounts();
@@ -368,7 +432,7 @@
       };
 
       const titleRow = el('div', { className: 'title-row' }, link, toggleBtn);
-      const body = el('div', {}, titleRow);
+      const body = el('div', { className: 'post-body' }, titleRow);
       if (p.summary) body.append(el('p', { className: 'summary', textContent: p.summary }));
 
       const srcBtn = el('button', {
@@ -401,6 +465,7 @@
         renderChips();
         renderSourceSelect();
         render();
+        b.scrollIntoView({ behavior: 'smooth', inline: 'nearest', block: 'nearest' });
       };
       return b;
     }));
@@ -448,17 +513,36 @@
   $('tabUnread').addEventListener('click', () => setReadFilter('unread'));
   $('tabRead').addEventListener('click', () => setReadFilter('read'));
 
+  // Mark all currently shown posts as read
   $('markAllReadBtn').addEventListener('click', () => {
     const shown = getShownPosts();
     if (!shown.length) return;
-
-    if (state.readFilter === 'read') {
-      for (const p of shown) state.readSet.delete(p.link);
-    } else {
-      for (const p of shown) state.readSet.add(p.link);
-    }
+    for (const p of shown) state.readSet.add(p.link);
     saveReadSet();
     render();
+  });
+
+  // Mark all currently shown posts as unread
+  $('markAllUnreadBtn').addEventListener('click', () => {
+    const shown = getShownPosts();
+    if (!shown.length) return;
+    for (const p of shown) state.readSet.delete(p.link);
+    saveReadSet();
+    render();
+  });
+
+  // Floating Back to top button
+  const topBtn = $('topBtn');
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      topBtn.classList.add('visible');
+    } else {
+      topBtn.classList.remove('visible');
+    }
+  }, { passive: true });
+
+  topBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 
   fetch('posts.json', { cache: 'no-cache' })
@@ -501,8 +585,14 @@
   });
 
   // Keep sticky day headings below the sticky header.
-  const setHead = () => document.documentElement.style.setProperty('--head', document.querySelector('header').offsetHeight + 'px');
-  addEventListener('resize', setHead); addEventListener('load', setHead); setHead();
+  const setHead = () => {
+    const h = document.querySelector('header');
+    if (h) document.documentElement.style.setProperty('--head', h.offsetHeight + 'px');
+  };
+  window.addEventListener('resize', setHead, { passive: true });
+  window.addEventListener('orientationchange', setHead, { passive: true });
+  window.addEventListener('load', setHead);
+  setHead();
 })();
 </script>
 </body>
