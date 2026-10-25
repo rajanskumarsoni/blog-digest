@@ -39,17 +39,38 @@
   .top { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; padding: 1rem 0 .5rem; flex-wrap: wrap; }
   h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
   .meta { color: var(--muted); font-size: .9rem; }
-  .tools { display: flex; gap: .75rem; flex-wrap: wrap; padding-bottom: .9rem; align-items: center; }
+  .tools { display: flex; gap: .65rem; flex-wrap: wrap; padding-bottom: .9rem; align-items: center; }
+  .search-box { flex: 1 1 14rem; min-width: 0; }
   input[type=search] {
-    flex: 1 1 14rem; min-width: 0; font: inherit; color: var(--ink);
+    width: 100%; font: inherit; color: var(--ink);
     background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: .5rem .75rem;
   }
+  .filter-select {
+    font: inherit; font-size: .9rem; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
+    padding: .5rem 2rem .5rem .75rem; cursor: pointer; appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%235e6b66' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    max-width: 100%;
+  }
+  .filter-select:hover { border-color: var(--accent); }
+  .chips-row { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; width: 100%; }
   .chips { display: flex; gap: .4rem; flex-wrap: wrap; }
   .chip {
     font: inherit; font-size: .9rem; color: var(--ink); background: transparent; cursor: pointer;
     border: 1px solid var(--line); border-radius: 999px; padding: .2rem .8rem;
+    transition: background-color .15s ease, color .15s ease, border-color .15s ease;
   }
   .chip[aria-pressed=true] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .reset-btn {
+    font: inherit; font-size: .82rem; color: var(--muted);
+    background: transparent; border: 1px dashed var(--line);
+    border-radius: 999px; padding: .2rem .75rem; cursor: pointer;
+    display: inline-flex; align-items: center; gap: .25rem;
+    transition: all .15s ease;
+  }
+  .reset-btn:hover { color: var(--ink); border-color: var(--ink); background: var(--line); }
   main { padding-bottom: 4rem; }
   h2 {
     position: sticky; top: var(--head, 7rem); margin: 0; padding: 1.4rem 0 .4rem;
@@ -61,6 +82,14 @@
   }
   .src { color: var(--muted); font-size: .92rem; padding-top: .15rem; }
   .src small { display: block; font-size: .8rem; opacity: .85; }
+  .src-btn {
+    background: transparent; border: none; padding: 0; margin: 0;
+    font: inherit; font-size: .92rem; font-weight: 700; color: var(--ink);
+    text-align: left; cursor: pointer; display: inline-block;
+    transition: color .15s ease;
+  }
+  .src-btn:hover { color: var(--accent); text-decoration: underline; }
+  .src-btn.active { color: var(--accent); text-decoration: underline; }
   .title { font-weight: 700; font-size: 1.08rem; line-height: 1.35; text-decoration: none; }
   .title:hover { color: var(--accent); text-decoration: underline; }
   .summary { margin: .25rem 0 0; color: var(--muted); font-size: .95rem; max-width: 60ch; }
@@ -73,6 +102,7 @@
   @media (max-width: 640px) {
     .post { grid-template-columns: 1fr; }
     .src small { display: inline; margin-left: .5rem; }
+    .filter-select { width: 100%; }
   }
 </style>
 </head>
@@ -84,8 +114,18 @@
       <span class="meta" id="meta">Loading posts…</span>
     </div>
     <div class="tools">
-      <input type="search" id="q" placeholder="Search titles and sources" aria-label="Search posts">
-      <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+      <div class="search-box">
+        <input type="search" id="q" placeholder="Search posts, summaries, publishers…" aria-label="Search posts">
+      </div>
+      <div>
+        <select id="sourceSelect" class="filter-select" aria-label="Filter by company or publisher">
+          <option value="All">All Publishers / Companies</option>
+        </select>
+      </div>
+      <div class="chips-row">
+        <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+        <button id="resetBtn" class="reset-btn" type="button" style="display:none" aria-label="Clear active filters">Clear filters ✕</button>
+      </div>
     </div>
   </div>
 </header>
@@ -99,7 +139,7 @@
 <script>
 (() => {
   const $ = (id) => document.getElementById(id);
-  const state = { posts: [], cat: 'All', q: '', lastVisit: 0 };
+  const state = { posts: [], cat: 'All', source: 'All', q: '', lastVisit: 0, updatedDate: null };
 
   try { state.lastVisit = Number(localStorage.getItem('lastVisit')) || 0; } catch {}
 
@@ -119,16 +159,33 @@
     return n;
   }
 
+  function updateResetBtn() {
+    const isFiltered = state.cat !== 'All' || state.source !== 'All' || state.q.trim() !== '';
+    const btn = $('resetBtn');
+    if (btn) btn.style.display = isFiltered ? 'inline-flex' : 'none';
+  }
+
   function render() {
     const list = $('list');
     list.replaceChildren();
     const q = state.q.toLowerCase();
     const shown = state.posts.filter((p) =>
       (state.cat === 'All' || p.category === state.cat) &&
+      (state.source === 'All' || p.source === state.source) &&
       (!q || (p.title + ' ' + p.source + ' ' + p.summary).toLowerCase().includes(q)));
 
+    updateResetBtn();
+
+    if (state.posts.length) {
+      const u = state.updatedDate ? new Date(state.updatedDate) : new Date();
+      const countText = shown.length === state.posts.length
+        ? `${state.posts.length} posts`
+        : `Showing ${shown.length} of ${state.posts.length} posts`;
+      $('meta').textContent = `${countText} · updated ${u.toLocaleDateString(undefined, { day: 'numeric', month: 'short' })}, ${fmtTime(u)}`;
+    }
+
     if (!shown.length) {
-      list.append(el('p', { className: 'empty', textContent: 'No posts match. Clear the search or pick another category.' }));
+      list.append(el('p', { className: 'empty', textContent: 'No posts match your filters. Clear the search, publisher, or category.' }));
       return;
     }
 
@@ -142,8 +199,21 @@
       const link = el('a', { className: 'title' + (isNew ? ' new' : ''), href: p.link, target: '_blank', rel: 'noopener noreferrer', textContent: p.title });
       const body = el('div', {}, link);
       if (p.summary) body.append(el('p', { className: 'summary', textContent: p.summary }));
+
+      const srcBtn = el('button', {
+        className: 'src-btn' + (state.source === p.source ? ' active' : ''),
+        type: 'button',
+        title: state.source === p.source ? 'Click to show all publishers' : `Filter by ${p.source}`,
+        textContent: p.source
+      });
+      srcBtn.onclick = () => {
+        state.source = (state.source === p.source) ? 'All' : p.source;
+        renderSourceSelect();
+        render();
+      };
+
       list.append(el('article', { className: 'post' },
-        el('div', { className: 'src' }, p.source, el('small', { textContent: fmtTime(d) })),
+        el('div', { className: 'src' }, srcBtn, el('small', { textContent: fmtTime(d) })),
         body));
     }
   }
@@ -153,19 +223,57 @@
     $('chips').replaceChildren(...cats.map((c) => {
       const b = el('button', { className: 'chip', type: 'button', textContent: c });
       b.setAttribute('aria-pressed', c === state.cat);
-      b.onclick = () => { state.cat = c; renderChips(); render(); };
+      b.onclick = () => {
+        state.cat = c;
+        renderChips();
+        renderSourceSelect();
+        render();
+      };
       return b;
     }));
+  }
+
+  function renderSourceSelect() {
+    const sel = $('sourceSelect');
+    const availablePosts = state.cat === 'All'
+      ? state.posts
+      : state.posts.filter((p) => p.category === state.cat);
+
+    const counts = {};
+    for (const p of availablePosts) {
+      counts[p.source] = (counts[p.source] || 0) + 1;
+    }
+    const sources = Object.keys(counts).sort((a, b) => a.localeCompare(b));
+
+    if (state.source !== 'All' && !counts[state.source]) {
+      state.source = 'All';
+    }
+
+    sel.replaceChildren();
+    const defaultLabel = state.cat === 'All'
+      ? `All Publishers (${availablePosts.length})`
+      : `All in ${state.cat} (${availablePosts.length})`;
+    sel.append(el('option', { value: 'All', textContent: defaultLabel }));
+
+    for (const s of sources) {
+      const opt = el('option', { value: s, textContent: `${s} (${counts[s]})` });
+      if (s === state.source) opt.selected = true;
+      sel.append(opt);
+    }
+    sel.value = state.source;
   }
 
   fetch('posts.json', { cache: 'no-cache' })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       state.posts = data.posts;
+      state.updatedDate = data.updated;
       const u = new Date(data.updated);
       $('meta').textContent = `${data.posts.length} posts · updated ${u.toLocaleDateString(undefined, { day: 'numeric', month: 'short' })}, ${fmtTime(u)}`;
       if (data.failed && data.failed.length) $('failed').textContent = `${data.failed.length} feed(s) failed on the last run.`;
-      renderChips(); render();
+      renderChips();
+      renderSourceSelect();
+      render();
       try { localStorage.setItem('lastVisit', String(Date.now())); } catch {}
     })
     .catch(() => {
@@ -174,6 +282,21 @@
     });
 
   $('q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+
+  $('sourceSelect').addEventListener('change', (e) => {
+    state.source = e.target.value;
+    render();
+  });
+
+  $('resetBtn').addEventListener('click', () => {
+    state.cat = 'All';
+    state.source = 'All';
+    state.q = '';
+    $('q').value = '';
+    renderChips();
+    renderSourceSelect();
+    render();
+  });
 
   // Keep sticky day headings below the sticky header.
   const setHead = () => document.documentElement.style.setProperty('--head', document.querySelector('header').offsetHeight + 'px');
