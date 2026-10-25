@@ -1,0 +1,47 @@
+[
+  { "name": "TechCrunch", "category": "Tech", "url": "https://techcrunch.com/feed/" },
+  { "name": "The Verge", "category": "Tech", "url": "https://www.theverge.com/rss/index.xml" },
+  { "name": "Ars Technica", "category": "Tech", "url": "https://feeds.arstechnica.com/arstechnica/index" },
+  { "name": "Wired", "category": "Tech", "url": "https://www.wired.com/feed/rss" },
+  { "name": "Engadget", "category": "Tech", "url": "https://www.engadget.com/rss.xml" },
+  { "name": "Stratechery", "category": "Tech", "url": "https://stratechery.com/feed/" },
+  { "name": "Daring Fireball", "category": "Tech", "url": "https://daringfireball.net/feeds/main" },
+  { "name": "Schneier on Security", "category": "Tech", "url": "https://www.schneier.com/feed/atom/" },
+
+  { "name": "OpenAI", "category": "AI", "url": "https://openai.com/news/rss.xml" },
+  { "name": "Google AI", "category": "AI", "url": "https://blog.google/technology/ai/rss/" },
+  { "name": "Hugging Face", "category": "AI", "url": "https://huggingface.co/blog/feed.xml" },
+  { "name": "NVIDIA", "category": "AI", "url": "https://blogs.nvidia.com/feed/" },
+
+  { "name": "Netflix Tech Blog", "category": "Engineering", "url": "https://netflixtechblog.com/feed" },
+  { "name": "Cloudflare", "category": "Engineering", "url": "https://blog.cloudflare.com/rss/" },
+  { "name": "GitHub Blog", "category": "Engineering", "url": "https://github.blog/feed/" },
+  { "name": "AWS News", "category": "Engineering", "url": "https://aws.amazon.com/blogs/aws/feed/" },
+  { "name": "Uber Engineering", "category": "Engineering", "url": "https://www.uber.com/blog/engineering/rss/" },
+  { "name": "Spotify Engineering", "category": "Engineering", "url": "https://engineering.atspotify.com/feed/" },
+  { "name": "Shopify Engineering", "category": "Engineering", "url": "https://shopify.engineering/blog.atom" },
+  { "name": "Mozilla Hacks", "category": "Engineering", "url": "https://hacks.mozilla.org/feed/" },
+  { "name": "Docker", "category": "Engineering", "url": "https://www.docker.com/blog/feed/" },
+
+  { "name": "Seth Godin", "category": "Ideas", "url": "https://seths.blog/feed/" },
+  { "name": "Marginal Revolution", "category": "Ideas", "url": "https://marginalrevolution.com/feed" },
+  { "name": "Astral Codex Ten", "category": "Ideas", "url": "https://www.astralcodexten.com/feed" },
+  { "name": "Wait But Why", "category": "Ideas", "url": "https://waitbutwhy.com/feed" },
+  { "name": "The Marginalian", "category": "Ideas", "url": "https://www.themarginalian.org/feed/" },
+  { "name": "James Clear", "category": "Ideas", "url": "https://jamesclear.com/feed" },
+  { "name": "Zen Habits", "category": "Ideas", "url": "https://zenhabits.net/feed/" },
+
+  { "name": "Mr. Money Mustache", "category": "Finance", "url": "https://www.mrmoneymustache.com/feed/" },
+  { "name": "Zerodha Z-Connect", "category": "Finance", "url": "https://zerodha.com/z-connect/feed" },
+
+  { "name": "HubSpot Marketing", "category": "Marketing", "url": "https://blog.hubspot.com/marketing/rss.xml" },
+  { "name": "Search Engine Journal", "category": "Marketing", "url": "https://www.searchenginejournal.com/feed/" },
+  { "name": "Copyblogger", "category": "Marketing", "url": "https://copyblogger.com/feed/" },
+
+  { "name": "YourStory", "category": "India", "url": "https://yourstory.com/feed" },
+  { "name": "Labnol", "category": "India", "url": "https://www.labnol.org/feed/" },
+  { "name": "ShoutMeLoud", "category": "India", "url": "https://www.shoutmeloud.com/feed" },
+
+  { "name": "Smitten Kitchen", "category": "Lifestyle", "url": "https://smittenkitchen.com/feed/" },
+  { "name": "Nomadic Matt", "category": "Lifestyle", "url": "https://www.nomadicmatt.com/feed/" }
+]

@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blog Digest</title>
+<link rel="alternate icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f7f4; --surface: #ffffff; --ink: #1b2421; --muted: #5e6b66;
+    --line: #dfe3de; --accent: #2447c7; --new: #d9480f;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141816; --surface: #1c221f; --ink: #e7ece9; --muted: #9aa7a1;
+      --line: #2c3430; --accent: #8fa8ff; --new: #ff9a62;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-padding-top: 8rem; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font: 17px/1.5 "Atkinson Hyperlegible", system-ui, sans-serif;
+  }
+  a { color: inherit; }
+  a:focus-visible, button:focus-visible, input:focus-visible {
+    outline: 3px solid var(--accent); outline-offset: 2px;
+  }
+  header {
+    position: sticky; top: 0; z-index: 5; background: var(--bg);
+    border-bottom: 1px solid var(--line);
+  }
+  .wrap { max-width: 62rem; margin: 0 auto; padding: 0 1.25rem; }
+  .top { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; padding: 1rem 0 .5rem; flex-wrap: wrap; }
+  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -.01em; }
+  .meta { color: var(--muted); font-size: .9rem; }
+  .tools { display: flex; gap: .75rem; flex-wrap: wrap; padding-bottom: .9rem; align-items: center; }
+  input[type=search] {
+    flex: 1 1 14rem; min-width: 0; font: inherit; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: .5rem .75rem;
+  }
+  .chips { display: flex; gap: .4rem; flex-wrap: wrap; }
+  .chip {
+    font: inherit; font-size: .9rem; color: var(--ink); background: transparent; cursor: pointer;
+    border: 1px solid var(--line); border-radius: 999px; padding: .2rem .8rem;
+  }
+  .chip[aria-pressed=true] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  main { padding-bottom: 4rem; }
+  h2 {
+    position: sticky; top: var(--head, 7rem); margin: 0; padding: 1.4rem 0 .4rem;
+    font-size: 1rem; color: var(--muted); background: var(--bg); font-weight: 700;
+  }
+  .post {
+    display: grid; grid-template-columns: 11rem 1fr; gap: .25rem 1.25rem;
+    padding: .85rem 0; border-top: 1px solid var(--line);
+  }
+  .src { color: var(--muted); font-size: .92rem; padding-top: .15rem; }
+  .src small { display: block; font-size: .8rem; opacity: .85; }
+  .title { font-weight: 700; font-size: 1.08rem; line-height: 1.35; text-decoration: none; }
+  .title:hover { color: var(--accent); text-decoration: underline; }
+  .summary { margin: .25rem 0 0; color: var(--muted); font-size: .95rem; max-width: 60ch; }
+  .new::before {
+    content: ""; display: inline-block; width: .5rem; height: .5rem; border-radius: 50%;
+    background: var(--new); margin-right: .45rem; vertical-align: .1em;
+  }
+  .empty { padding: 3rem 0; color: var(--muted); }
+  footer { color: var(--muted); font-size: .85rem; padding: 0 0 3rem; }
+  @media (max-width: 640px) {
+    .post { grid-template-columns: 1fr; }
+    .src small { display: inline; margin-left: .5rem; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <h1>Blog Digest</h1>
+      <span class="meta" id="meta">Loading posts…</span>
+    </div>
+    <div class="tools">
+      <input type="search" id="q" placeholder="Search titles and sources" aria-label="Search posts">
+      <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="list" aria-live="polite"></main>
+<footer class="wrap">
+  Updated automatically every day. Add or remove blogs in <code>feeds.json</code>.
+  <span id="failed"></span>
+</footer>
+
+<script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const state = { posts: [], cat: 'All', q: '', lastVisit: 0 };
+
+  try { state.lastVisit = Number(localStorage.getItem('lastVisit')) || 0; } catch {}
+
+  const fmtDay = (d) => {
+    const today = new Date().toDateString();
+    const yest = new Date(Date.now() - 864e5).toDateString();
+    const s = d.toDateString();
+    if (s === today) return 'Today';
+    if (s === yest) return 'Yesterday';
+    return d.toLocaleDateString(undefined, { weekday: 'long', day: 'numeric', month: 'long', year: d.getFullYear() === new Date().getFullYear() ? undefined : 'numeric' });
+  };
+  const fmtTime = (d) => d.toLocaleTimeString(undefined, { hour: 'numeric', minute: '2-digit' });
+
+  function el(tag, props = {}, ...kids) {
+    const n = Object.assign(document.createElement(tag), props);
+    kids.forEach((k) => n.append(k));
+    return n;
+  }
+
+  function render() {
+    const list = $('list');
+    list.replaceChildren();
+    const q = state.q.toLowerCase();
+    const shown = state.posts.filter((p) =>
+      (state.cat === 'All' || p.category === state.cat) &&
+      (!q || (p.title + ' ' + p.source + ' ' + p.summary).toLowerCase().includes(q)));
+
+    if (!shown.length) {
+      list.append(el('p', { className: 'empty', textContent: 'No posts match. Clear the search or pick another category.' }));
+      return;
+    }
+
+    let day = '';
+    for (const p of shown) {
+      const d = new Date(p.date);
+      const label = fmtDay(d);
+      if (label !== day) { day = label; list.append(el('h2', { textContent: label })); }
+
+      const isNew = state.lastVisit && d.getTime() > state.lastVisit;
+      const link = el('a', { className: 'title' + (isNew ? ' new' : ''), href: p.link, target: '_blank', rel: 'noopener noreferrer', textContent: p.title });
+      const body = el('div', {}, link);
+      if (p.summary) body.append(el('p', { className: 'summary', textContent: p.summary }));
+      list.append(el('article', { className: 'post' },
+        el('div', { className: 'src' }, p.source, el('small', { textContent: fmtTime(d) })),
+        body));
+    }
+  }
+
+  function renderChips() {
+    const cats = ['All', ...new Set(state.posts.map((p) => p.category))];
+    $('chips').replaceChildren(...cats.map((c) => {
+      const b = el('button', { className: 'chip', type: 'button', textContent: c });
+      b.setAttribute('aria-pressed', c === state.cat);
+      b.onclick = () => { state.cat = c; renderChips(); render(); };
+      return b;
+    }));
+  }
+
+  fetch('posts.json', { cache: 'no-cache' })
+    .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then((data) => {
+      state.posts = data.posts;
+      const u = new Date(data.updated);
+      $('meta').textContent = `${data.posts.length} posts · updated ${u.toLocaleDateString(undefined, { day: 'numeric', month: 'short' })}, ${fmtTime(u)}`;
+      if (data.failed && data.failed.length) $('failed').textContent = `${data.failed.length} feed(s) failed on the last run.`;
+      renderChips(); render();
+      try { localStorage.setItem('lastVisit', String(Date.now())); } catch {}
+    })
+    .catch(() => {
+      $('meta').textContent = '';
+      $('list').append(el('p', { className: 'empty', textContent: 'posts.json is missing. Open the Actions tab in your repository and run "Update blog feed" once.' }));
+    });
+
+  $('q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+
+  // Keep sticky day headings below the sticky header.
+  const setHead = () => document.documentElement.style.setProperty('--head', document.querySelector('header').offsetHeight + 'px');
+  addEventListener('resize', setHead); addEventListener('load', setHead); setHead();
+})();
+</script>
+</body>
+</html>
