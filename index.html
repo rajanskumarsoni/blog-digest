@@ -183,12 +183,126 @@
   .top-btn.visible { opacity: .92; visibility: visible; }
   .top-btn:active { transform: scale(.92); }
 
+  /* Add Blog Button */
+  .add-blog-btn {
+    font: inherit; font-size: .84rem; font-weight: 700;
+    color: var(--bg); background: var(--ink); border: none;
+    border-radius: 999px; padding: .32rem .85rem; cursor: pointer;
+    display: inline-flex; align-items: center; gap: .35rem;
+    transition: opacity .15s ease, transform .15s ease;
+    white-space: nowrap; height: 32px;
+  }
+  .add-blog-btn:hover { opacity: .88; transform: translateY(-1px); }
+  .add-blog-btn:active { transform: translateY(0); }
+
+  /* Add Blog Modal */
+  .modal-backdrop {
+    position: fixed; inset: 0; z-index: 100;
+    background: rgba(0, 0, 0, 0.48); backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    display: flex; align-items: center; justify-content: center;
+    padding: 1rem; opacity: 0; visibility: hidden;
+    transition: opacity .2s ease, visibility .2s ease;
+  }
+  .modal-backdrop.open { opacity: 1; visibility: visible; }
+  .modal-card {
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 14px; max-width: 36rem; width: 100%;
+    max-height: 90vh; display: flex; flex-direction: column;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.22);
+    transform: scale(.96) translateY(8px);
+    transition: transform .2s ease;
+    overflow: hidden;
+  }
+  .modal-backdrop.open .modal-card { transform: scale(1) translateY(0); }
+  .modal-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: .9rem 1.25rem .75rem; border-bottom: 1px solid var(--line);
+  }
+  .modal-title { font-size: 1.15rem; font-weight: 700; margin: 0; }
+  .modal-close {
+    background: transparent; border: none; font-size: 1.25rem; line-height: 1;
+    color: var(--muted); cursor: pointer; border-radius: 6px; padding: .25rem .5rem;
+  }
+  .modal-close:hover { color: var(--ink); background: var(--line); }
+  
+  .modal-body {
+    padding: 1rem 1.25rem; overflow-y: auto; display: flex; flex-direction: column; gap: .85rem;
+  }
+  .modal-tabs {
+    display: flex; gap: .35rem; background: var(--bg); padding: 3px; border-radius: 8px;
+    border: 1px solid var(--line);
+  }
+  .modal-tab {
+    flex: 1; font: inherit; font-size: .84rem; font-weight: 500; color: var(--muted);
+    background: transparent; border: none; border-radius: 6px; padding: .4rem .5rem;
+    cursor: pointer; transition: all .15s ease; text-align: center;
+  }
+  .modal-tab[aria-pressed=true] {
+    background: var(--surface); color: var(--ink); font-weight: 700;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  
+  .form-group { display: flex; flex-direction: column; gap: .35rem; }
+  .form-label { font-size: .84rem; font-weight: 700; color: var(--ink); }
+  .form-hint { font-size: .78rem; color: var(--muted); }
+  .form-input, .form-textarea {
+    font: inherit; font-size: 16px; color: var(--ink); background: var(--bg);
+    border: 1px solid var(--line); border-radius: 8px; padding: .5rem .75rem;
+    width: 100%;
+  }
+  .form-textarea { resize: vertical; min-height: 5.5rem; font-family: monospace; font-size: 13.5px; }
+  .form-input:focus, .form-textarea:focus { border-color: var(--accent); }
+
+  .hints-box {
+    background: var(--bg); border: 1px solid var(--line); border-radius: 8px;
+    padding: .75rem; font-size: .82rem; line-height: 1.45;
+  }
+  .hints-title { font-weight: 700; margin-bottom: .35rem; display: flex; align-items: center; gap: .3rem; }
+  .hints-list { margin: 0; padding-left: 1.15rem; color: var(--muted); }
+  .hints-list li { margin-bottom: .25rem; }
+  .hints-list code {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 4px;
+    padding: .1rem .3rem; font-size: .8rem; color: var(--ink);
+  }
+
+  .preview-box {
+    background: var(--bg); border: 1px solid var(--line); border-radius: 8px;
+    padding: .65rem .75rem; font-family: monospace; font-size: 12.5px;
+    max-height: 6.5rem; overflow-y: auto; color: var(--ink); white-space: pre-wrap;
+    margin: 0;
+  }
+
+  .modal-footer {
+    display: flex; gap: .5rem; align-items: center; justify-content: flex-end;
+    padding: .75rem 1.25rem; border-top: 1px solid var(--line); background: var(--bg);
+    flex-wrap: wrap;
+  }
+  .btn-secondary {
+    font: inherit; font-size: .82rem; font-weight: 600; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+    padding: .4rem .75rem; cursor: pointer; transition: all .15s ease;
+    text-decoration: none; display: inline-flex; align-items: center; gap: .3rem;
+  }
+  .btn-secondary:hover { border-color: var(--ink); }
+  .btn-primary {
+    font: inherit; font-size: .82rem; font-weight: 700; color: #ffffff;
+    background: var(--accent); border: none; border-radius: 8px;
+    padding: .4rem .85rem; cursor: pointer; transition: all .15s ease;
+    text-decoration: none; display: inline-flex; align-items: center; gap: .3rem;
+  }
+  .btn-primary:hover { opacity: .9; }
+  .feedback-msg {
+    font-size: .82rem; font-weight: 600; color: #2b8a3e; margin-right: auto;
+  }
+
   /* Mobile responsive layout */
   @media (max-width: 640px) {
     .wrap { padding: 0 .9rem; }
     .top { padding: .65rem 0 .25rem; }
     h1 { font-size: 1.35rem; }
     .meta { font-size: .82rem; }
+    .add-blog-btn { font-size: .78rem; padding: .25rem .7rem; height: 28px; }
     .tools { gap: .45rem; padding-bottom: .6rem; }
     .tools-row1 { flex-direction: column; align-items: stretch; gap: .45rem; }
     .search-box { width: 100%; flex: 1 1 100%; }
@@ -217,6 +331,10 @@
     .title { font-size: 1.04rem; line-height: 1.38; }
     .toggle-read-btn { height: 26px; font-size: .75rem; padding: .15rem .5rem; }
     .summary { font-size: .9rem; margin-top: .2rem; }
+    
+    .modal-card { max-height: 94vh; width: 96%; }
+    .modal-footer { justify-content: stretch; }
+    .modal-footer button, .modal-footer a { flex: 1 1 auto; text-align: center; justify-content: center; }
   }
 </style>
 </head>
@@ -224,8 +342,11 @@
 <header>
   <div class="wrap">
     <div class="top">
-      <h1>Blog Digest</h1>
-      <span class="meta" id="meta">Loading posts…</span>
+      <div class="title-wrap">
+        <h1>Blog Digest</h1>
+        <span class="meta" id="meta">Loading posts…</span>
+      </div>
+      <button id="openAddBlogBtn" class="add-blog-btn" type="button" aria-haspopup="dialog">+ Add Blog</button>
     </div>
     <div class="tools">
       <div class="tools-row1">
@@ -259,6 +380,84 @@
 
 <main class="wrap" id="list" aria-live="polite"></main>
 <button id="topBtn" class="top-btn" type="button" aria-label="Back to top" title="Back to top">↑</button>
+
+<!-- Add Blog Modal Dialog -->
+<div id="addBlogModal" class="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal-card">
+    <div class="modal-header">
+      <h2 id="modalTitle" class="modal-title">Add Blog Website</h2>
+      <button id="closeModalBtn" class="modal-close" type="button" aria-label="Close dialog">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-tabs" role="tablist">
+        <button id="tabSingle" class="modal-tab" type="button" role="tab" aria-pressed="true">Single Blog</button>
+        <button id="tabList" class="modal-tab" type="button" role="tab" aria-pressed="false">List / Bulk Import</button>
+      </div>
+
+      <!-- Single Blog Mode -->
+      <div id="singleFormArea">
+        <div class="form-group">
+          <label class="form-label" for="addBlogName">Blog or Publisher Name</label>
+          <input id="addBlogName" class="form-input" type="text" placeholder="e.g. Anthropic Research" required>
+        </div>
+        <div class="form-group" style="margin-top: .65rem;">
+          <label class="form-label" for="addBlogCat">Category</label>
+          <select id="addBlogCat" class="form-input">
+            <option value="AI Agents">AI Agents</option>
+            <option value="AI & ML">AI & ML</option>
+            <option value="Software Engineering">Software Engineering</option>
+            <option value="Data Science">Data Science</option>
+            <option value="Tech">Tech</option>
+            <option value="Ideas">Ideas</option>
+            <option value="Finance">Finance</option>
+            <option value="Lifestyle">Lifestyle</option>
+            <option value="Other">Other</option>
+          </select>
+        </div>
+        <div class="form-group" style="margin-top: .65rem;">
+          <label class="form-label" for="addBlogUrl">RSS / Atom Feed URL</label>
+          <input id="addBlogUrl" class="form-input" type="url" placeholder="https://domain.com/feed" required>
+          <span class="form-hint">Must start with <code>https://</code> or <code>http://</code></span>
+        </div>
+      </div>
+
+      <!-- List / Bulk Import Mode -->
+      <div id="listFormArea" style="display:none;">
+        <div class="form-group">
+          <label class="form-label" for="bulkInput">Paste Blog Feeds (JSON or plain lines)</label>
+          <textarea id="bulkInput" class="form-textarea" placeholder="Option 1: JSON array:&#10;[&#10;  { &quot;name&quot;: &quot;Anthropic&quot;, &quot;category&quot;: &quot;AI &amp; ML&quot;, &quot;url&quot;: &quot;https://anthropic.com/feed.xml&quot; }&#10;]&#10;&#10;Option 2: Name, Category, URL (one per line):&#10;Anthropic, AI &amp; ML, https://anthropic.com/feed.xml&#10;&#10;Option 3: Bare feed URLs (one per line):&#10;https://blog.example.com/rss&#10;https://newsletter.example.com/feed"></textarea>
+          <span class="form-hint">Accepts raw JSON, <code>Name, Category, URL</code> lines, or bare feed URLs.</span>
+        </div>
+      </div>
+
+      <!-- URL Format Guide & Hints -->
+      <div class="hints-box">
+        <div class="hints-title">💡 Feed URL formats & hints</div>
+        <ul class="hints-list">
+          <li><strong>Common Suffixes:</strong> append <code>/feed</code>, <code>/rss</code>, <code>/rss.xml</code>, or <code>/atom.xml</code> to the blog address.</li>
+          <li><strong>Substack:</strong> <code>https://[newsletter].substack.com/feed</code></li>
+          <li><strong>Medium:</strong> <code>https://medium.com/feed/@[username]</code> or <code>https://medium.com/feed/[pub]</code></li>
+          <li><strong>WordPress / Ghost:</strong> usually at <code>https://[domain]/feed/</code></li>
+          <li><strong>GitHub Releases:</strong> <code>https://github.com/[owner]/[repo]/releases.atom</code></li>
+        </ul>
+      </div>
+
+      <!-- Live Generated JSON Preview -->
+      <div class="form-group">
+        <label class="form-label">Generated JSON Entry</label>
+        <pre id="jsonPreview" class="preview-box">Preview will appear here when you enter details...</pre>
+      </div>
+    </div>
+
+    <div class="modal-footer">
+      <span id="copyFeedback" class="feedback-msg" style="display:none;">✓ Copied to clipboard!</span>
+      <button id="copyJsonBtn" class="btn-secondary" type="button" title="Copy JSON snippet to clipboard">Copy JSON 📋</button>
+      <button id="downloadFeedsBtn" class="btn-secondary" type="button" title="Download updated feeds.json with new feeds">Download feeds.json 💾</button>
+      <a id="editGithubBtn" class="btn-primary" href="https://github.com/rajanskumarsoni/blog-digest/edit/main/feeds.json" target="_blank" rel="noopener noreferrer" title="Open feeds.json in GitHub web editor">Edit on GitHub ↗</a>
+    </div>
+  </div>
+</div>
+
 <footer class="wrap">
   Updated automatically every day. Add or remove blogs in <code>feeds.json</code>.
   <span id="failed"></span>
@@ -582,6 +781,194 @@
     renderChips();
     renderSourceSelect();
     render();
+  });
+
+  // ==========================================
+  // Add Blog Modal Logic
+  // ==========================================
+  const modal = $('addBlogModal');
+  const openModalBtn = $('openAddBlogBtn');
+  const closeModalBtn = $('closeModalBtn');
+  const tabSingle = $('tabSingle');
+  const tabList = $('tabList');
+  const singleArea = $('singleFormArea');
+  const listArea = $('listFormArea');
+  const previewEl = $('jsonPreview');
+  const copyFeedback = $('copyFeedback');
+
+  let activeAddTab = 'single';
+
+  function openModal() {
+    modal.classList.add('open');
+    // Populate categories dynamically from state.posts if available
+    const existingCats = ['AI Agents', 'AI & ML', 'Software Engineering', 'Data Science', 'Tech', 'Ideas', 'Finance', 'Lifestyle', ...new Set(state.posts.map(p => p.category))];
+    const catSelect = $('addBlogCat');
+    const uniqueCats = [...new Set(existingCats)];
+    catSelect.replaceChildren(...uniqueCats.map(c => el('option', { value: c, textContent: c })));
+    updateAddBlogPreview();
+    setTimeout(() => {
+      if (activeAddTab === 'single') $('addBlogName').focus();
+      else $('bulkInput').focus();
+    }, 100);
+  }
+
+  function closeModal() {
+    modal.classList.remove('open');
+  }
+
+  if (openModalBtn) openModalBtn.addEventListener('click', openModal);
+  if (closeModalBtn) closeModalBtn.addEventListener('click', closeModal);
+  modal.addEventListener('click', (e) => {
+    if (e.target === modal) closeModal();
+  });
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && modal.classList.contains('open')) closeModal();
+  });
+
+  tabSingle.addEventListener('click', () => {
+    activeAddTab = 'single';
+    tabSingle.setAttribute('aria-pressed', 'true');
+    tabList.setAttribute('aria-pressed', 'false');
+    singleArea.style.display = 'block';
+    listArea.style.display = 'none';
+    updateAddBlogPreview();
+  });
+
+  tabList.addEventListener('click', () => {
+    activeAddTab = 'list';
+    tabSingle.setAttribute('aria-pressed', 'false');
+    tabList.setAttribute('aria-pressed', 'true');
+    singleArea.style.display = 'none';
+    listArea.style.display = 'block';
+    updateAddBlogPreview();
+  });
+
+  function getNewEntries() {
+    if (activeAddTab === 'single') {
+      const name = $('addBlogName').value.trim();
+      const category = $('addBlogCat').value;
+      const url = $('addBlogUrl').value.trim();
+      if (!name && !url) return [];
+      return [{
+        name: name || 'Blog Name',
+        category: category || 'Tech',
+        url: url || 'https://example.com/feed'
+      }];
+    } else {
+      const raw = $('bulkInput').value.trim();
+      if (!raw) return [];
+      if (raw.startsWith('[') || raw.startsWith('{')) {
+        try {
+          const parsed = JSON.parse(raw);
+          return Array.isArray(parsed) ? parsed : [parsed];
+        } catch {}
+      }
+      // Parse plain lines
+      const lines = raw.split('\n').map(l => l.trim()).filter(Boolean);
+      const entries = [];
+      for (const line of lines) {
+        if (line.includes(',')) {
+          const parts = line.split(',').map(p => p.trim());
+          if (parts.length >= 3) {
+            entries.push({ name: parts[0], category: parts[1], url: parts[2] });
+          } else if (parts.length === 2) {
+            entries.push({ name: parts[0], category: 'Tech', url: parts[1] });
+          }
+        } else if (line.startsWith('http://') || line.startsWith('https://')) {
+          try {
+            const u = new URL(line);
+            const domain = u.hostname.replace(/^www\./, '');
+            const cleanName = domain.split('.')[0];
+            const name = cleanName.charAt(0).toUpperCase() + cleanName.slice(1);
+            entries.push({ name, category: 'Tech', url: line });
+          } catch {
+            entries.push({ name: 'Blog', category: 'Tech', url: line });
+          }
+        }
+      }
+      return entries;
+    }
+  }
+
+  function updateAddBlogPreview() {
+    const entries = getNewEntries();
+    if (!entries.length) {
+      previewEl.textContent = activeAddTab === 'single'
+        ? '{\n  "name": "Blog Name",\n  "category": "Category",\n  "url": "https://domain.com/feed"\n}'
+        : '// Paste feeds above to see formatted JSON preview...';
+      return;
+    }
+    previewEl.textContent = JSON.stringify(entries.length === 1 ? entries[0] : entries, null, 2);
+  }
+
+  $('addBlogName').addEventListener('input', updateAddBlogPreview);
+  $('addBlogCat').addEventListener('change', updateAddBlogPreview);
+  $('addBlogUrl').addEventListener('input', updateAddBlogPreview);
+  $('bulkInput').addEventListener('input', updateAddBlogPreview);
+
+  // Copy JSON button
+  $('copyJsonBtn').addEventListener('click', async () => {
+    const entries = getNewEntries();
+    if (!entries.length) {
+      alert('Please enter at least a blog name and valid feed URL.');
+      return;
+    }
+    const snippet = JSON.stringify(entries.length === 1 ? entries[0] : entries, null, 2);
+    try {
+      await navigator.clipboard.writeText(snippet);
+      copyFeedback.textContent = '✓ Copied to clipboard!';
+      copyFeedback.style.display = 'inline';
+      setTimeout(() => { copyFeedback.style.display = 'none'; }, 3000);
+    } catch {
+      alert('Could not auto-copy to clipboard. Please copy manually from the preview box.');
+    }
+  });
+
+  // Download feeds.json button
+  $('downloadFeedsBtn').addEventListener('click', async () => {
+    const newEntries = getNewEntries();
+    if (!newEntries.length) {
+      alert('Please enter a blog name and URL before downloading.');
+      return;
+    }
+    try {
+      let currentFeeds = [];
+      try {
+        const res = await fetch('feeds.json', { cache: 'no-cache' });
+        if (res.ok) currentFeeds = await res.json();
+      } catch {}
+
+      const existingUrls = new Set(currentFeeds.map(f => f.url));
+      for (const entry of newEntries) {
+        if (!existingUrls.has(entry.url)) {
+          currentFeeds.push(entry);
+        }
+      }
+
+      const blob = new Blob([JSON.stringify(currentFeeds, null, 2) + '\n'], { type: 'application/json' });
+      const dlLink = document.createElement('a');
+      dlLink.href = URL.createObjectURL(blob);
+      dlLink.download = 'feeds.json';
+      dlLink.click();
+      URL.revokeObjectURL(dlLink.href);
+
+      copyFeedback.textContent = '✓ Downloaded feeds.json!';
+      copyFeedback.style.display = 'inline';
+      setTimeout(() => { copyFeedback.style.display = 'none'; }, 3000);
+    } catch (err) {
+      alert('Error creating download: ' + err.message);
+    }
+  });
+
+  // Pre-copy JSON on clicking "Edit on GitHub"
+  $('editGithubBtn').addEventListener('click', async () => {
+    const entries = getNewEntries();
+    if (entries.length) {
+      const snippet = JSON.stringify(entries.length === 1 ? entries[0] : entries, null, 2);
+      try {
+        await navigator.clipboard.writeText(snippet);
+      } catch {}
+    }
   });
 
   // Keep sticky day headings below the sticky header.
