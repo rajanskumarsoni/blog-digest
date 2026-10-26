@@ -268,5 +268,170 @@
     "name": "AWS Architecture",
     "category": "Software Engineering",
     "url": "https://aws.amazon.com/blogs/architecture/feed/"
+  },
+  {
+    "name": "Google DeepMind",
+    "category": "AI & ML",
+    "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+    "name": "Microsoft Research",
+    "category": "AI & ML",
+    "url": "https://www.microsoft.com/en-us/research/feed/"
+  },
+  {
+    "name": "AWS Machine Learning",
+    "category": "AI & ML",
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/"
+  },
+  {
+    "name": "NVIDIA Developer",
+    "category": "AI & ML",
+    "url": "https://developer.nvidia.com/blog/feed/"
+  },
+  {
+    "name": "Ollama",
+    "category": "AI & ML",
+    "url": "https://ollama.com/blog/rss.xml"
+  },
+  {
+    "name": "LangChain",
+    "category": "AI Agents",
+    "url": "https://github.com/langchain-ai/langchain/releases.atom"
+  },
+  {
+    "name": "LlamaIndex",
+    "category": "AI Agents",
+    "url": "https://github.com/run-llama/llama_index/releases.atom"
+  },
+  {
+    "name": "CrewAI",
+    "category": "AI Agents",
+    "url": "https://blog.crewai.com/rss/"
+  },
+  {
+    "name": "Semantic Kernel",
+    "category": "AI Agents",
+    "url": "https://devblogs.microsoft.com/semantic-kernel/feed/"
+  },
+  {
+    "name": "Microsoft AutoGen",
+    "category": "AI Agents",
+    "url": "https://github.com/microsoft/autogen/releases.atom"
+  },
+  {
+    "name": "DSPy",
+    "category": "AI Agents",
+    "url": "https://github.com/stanfordnlp/dspy/releases.atom"
+  },
+  {
+    "name": "Dify",
+    "category": "AI Agents",
+    "url": "https://github.com/langgenius/dify/releases.atom"
+  },
+  {
+    "name": "Flowise",
+    "category": "AI Agents",
+    "url": "https://github.com/FlowiseAI/Flowise/releases.atom"
+  },
+  {
+    "name": "n8n Blog",
+    "category": "AI Agents",
+    "url": "https://blog.n8n.io/rss/"
+  },
+  {
+    "name": "Weaviate",
+    "category": "AI & ML",
+    "url": "https://weaviate.io/blog/rss.xml"
+  },
+  {
+    "name": "Qdrant",
+    "category": "AI & ML",
+    "url": "https://qdrant.tech/articles/index.xml"
+  },
+  {
+    "name": "Chroma",
+    "category": "AI & ML",
+    "url": "https://github.com/chroma-core/chroma/releases.atom"
+  },
+  {
+    "name": "Vespa.ai",
+    "category": "AI & ML",
+    "url": "https://blog.vespa.ai/feed.xml"
+  },
+  {
+    "name": "Together AI",
+    "category": "Tech",
+    "url": "https://www.together.ai/blog/rss.xml"
+  },
+  {
+    "name": "Replicate",
+    "category": "Tech",
+    "url": "https://replicate.com/blog/rss"
+  },
+  {
+    "name": "vLLM",
+    "category": "Tech",
+    "url": "https://github.com/vllm-project/vllm/releases.atom"
+  },
+  {
+    "name": "Weights & Biases",
+    "category": "AI & ML",
+    "url": "https://wandb.ai/fully-connected/rss.xml"
+  },
+  {
+    "name": "Arize AI",
+    "category": "AI & ML",
+    "url": "https://arize.com/blog/feed/"
+  },
+  {
+    "name": "Comet ML",
+    "category": "AI & ML",
+    "url": "https://www.comet.com/site/blog/feed/"
+  },
+  {
+    "name": "Replit Blog",
+    "category": "Software Engineering",
+    "url": "https://blog.replit.com/feed.xml"
+  },
+  {
+    "name": "Sourcegraph",
+    "category": "Software Engineering",
+    "url": "https://sourcegraph.com/blog/rss.xml"
+  },
+  {
+    "name": "Vercel Blog",
+    "category": "Software Engineering",
+    "url": "https://vercel.com/atom"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "AI & ML",
+    "url": "https://elevenlabs.io/blog/rss.xml"
+  },
+  {
+    "name": "Yellow.ai",
+    "category": "India",
+    "url": "https://yellow.ai/blog/feed/"
+  },
+  {
+    "name": "Import AI",
+    "category": "AI & ML",
+    "url": "https://importai.substack.com/feed"
+  },
+  {
+    "name": "MarkTechPost",
+    "category": "AI & ML",
+    "url": "https://www.marktechpost.com/feed/"
+  },
+  {
+    "name": "arXiv cs.AI (Artificial Intelligence)",
+    "category": "AI & ML",
+    "url": "https://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "name": "arXiv cs.CL (Computation & Language / LLMs)",
+    "category": "AI & ML",
+    "url": "https://export.arxiv.org/rss/cs.CL"
   }
 ]

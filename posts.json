@@ -1,9 +1,23 @@
 {
- "updated": "2026-10-26T09:12:37.249Z",
- "failed": [
-  "Benn Stancil: Request timed out after 20000ms"
- ],
+ "updated": "2026-10-26T09:34:29.212Z",
+ "failed": [],
  "posts": [
+  {
+   "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
+   "link": "https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-26T09:31:44.000Z",
+   "summary": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display."
+  },
+  {
+   "title": "Valve Steam Frame Review: Costly and Inconsistent",
+   "link": "https://www.wired.com/review/valve-steam-frame/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-26T09:15:00.000Z",
+   "summary": "The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect."
+  },
   {
    "title": "Investing in the public benefit",
    "link": "https://www.anthropic.com/news/public-benefit-fund",
@@ -325,6 +339,14 @@
    "summary": ""
   },
   {
+   "title": "Is our attitude up to us?",
+   "link": "https://seths.blog/2026/10/is-our-attitude-up-to-us/",
+   "source": "Seth Godin",
+   "category": "Ideas",
+   "date": "2026-10-26T09:03:00.000Z",
+   "summary": "If the stakes are high enough and the duration you need to keep it together is short enough, can you control your response? Because if we can do it then, we can learn to do it now. Acknowledging that it’s a choice is difficult, because choices come with responsibility. “I’m not a patient person,” is […]"
+  },
+  {
    "title": "Told to give up science in school, Mallikarjuna Iytha now backs 2,000 entrepreneurs with disabilities",
    "link": "https://yourstory.com/2026/10/mallikarjuna-iytha-idea-entrepreneurs-disabilities",
    "source": "YourStory",
@@ -357,6 +379,14 @@
    "summary": "At TechSparks 2026, Collective Artists Network founder Vijay Subramaniam discussed how AI is reshaping content creation, democratising storytelling, and changing the economics of entertainment."
   },
   {
+   "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+   "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-26T07:56:45.000Z",
+   "summary": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks. The post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang appeared first"
+  },
+  {
    "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
    "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
    "source": "Search Engine Journal",
@@ -387,6 +417,14 @@
    "category": "Ideas",
    "date": "2026-10-26T07:03:20.000Z",
    "summary": "It would take true Milei-like ardour to slice through Brazil’s economic troubles. These are caused by a gnarly mix of high public spending, stubborn inflation and low saving. The result is a crippling cost of capital. Some analysts put Brazil’s real interest rate, the BCB’s policy rate adjusted for next year’s expected"
+  },
+  {
+   "title": "India's voice AI challenges could shape global technology, says Murf AI co-founder",
+   "link": "https://yourstory.com/2026/10/india-voice-ai-murf-ai-sneha-roy-techsparks",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-26T06:52:08.000Z",
+   "summary": "At TechSparks 2026, Sneha Roy, the co-founder and COO of Murf AI, explains how multilingual speech, smaller AI models, and cost-efficient infrastructure can make voice agents work across markets."
   },
   {
    "title": "QpiAI founder Nagendra Nagaraja makes the case for intelligence modelling",
@@ -429,6 +467,254 @@
    "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many feared that Mr Trump’s refusal to concede in 2020 would spread across the political system. It has n"
   },
   {
+   "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+   "link": "https://arxiv.org/abs/2610.31701",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31701v1 Announce Type: new Abstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account r"
+  },
+  {
+   "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+   "link": "https://arxiv.org/abs/2610.31789",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31789v1 Announce Type: new Abstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manu"
+  },
+  {
+   "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+   "link": "https://arxiv.org/abs/2610.31808",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31808v1 Announce Type: new Abstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This pap"
+  },
+  {
+   "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+   "link": "https://arxiv.org/abs/2610.31810",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31810v1 Announce Type: new Abstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Sta"
+  },
+  {
+   "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+   "link": "https://arxiv.org/abs/2610.31846",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31846v1 Announce Type: new Abstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-para"
+  },
+  {
+   "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+   "link": "https://arxiv.org/abs/2610.31882",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31882v1 Announce Type: new Abstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadenc"
+  },
+  {
+   "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+   "link": "https://arxiv.org/abs/2610.31916",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31916v1 Announce Type: new Abstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, per"
+  },
+  {
+   "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+   "link": "https://arxiv.org/abs/2610.31918",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31918v1 Announce Type: new Abstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hi"
+  },
+  {
+   "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+   "link": "https://arxiv.org/abs/2610.31937",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31937v1 Announce Type: new Abstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely on heuristics or impose strong assumptions that limit their applicabilit"
+  },
+  {
+   "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+   "link": "https://arxiv.org/abs/2610.31971",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31971v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge throu"
+  },
+  {
+   "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+   "link": "https://arxiv.org/abs/2610.31972",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31972v1 Announce Type: new Abstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation harness for a produc"
+  },
+  {
+   "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+   "link": "https://arxiv.org/abs/2610.31985",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply t"
+  },
+  {
+   "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+   "link": "https://arxiv.org/abs/2610.32022",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.32022v1 Announce Type: new Abstract: Intent recognition in human-robot interaction requires agents to resolve ambiguous natural language instructions by inferring the speaker's underlying goals. Research has increasingly focused on two notable paradigms for addressing this task: structured symbolic reasoning"
+  },
+  {
+   "title": "BARC-Bench: Benign Asks, Risky Consequences",
+   "link": "https://arxiv.org/abs/2610.32024",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.32024v1 Announce Type: new Abstract: Task instructions from users for agents are inherently underspecified, especially regarding safety boundaries--creating behavioral risks. To study these risks, we introduce BARC-Bench, a collection of 110 tasks across nine simulated workspace environments where benign req"
+  },
+  {
+   "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+   "link": "https://arxiv.org/abs/2610.32026",
+   "source": "arXiv cs.AI (Artificial Intelligence)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experience across runs. We i"
+  },
+  {
+   "title": "Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation",
+   "link": "https://arxiv.org/abs/2610.31678",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31678v1 Announce Type: new Abstract: Many LLM studies compare how models respond to different follow-up prompts. For example, one prompt may neutrally ask a model to reconsider, while another insists that an invented film really exists. The difference is used to measure the effect of conversational pressure."
+  },
+  {
+   "title": "MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring",
+   "link": "https://arxiv.org/abs/2610.31679",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31679v1 Announce Type: new Abstract: Large language models are increasingly used as math tutors, raising two questions: can a single LLM detect a student's error, diagnose the underlying misconception, and remediate it through multi-turn dialogue - and can we trust the numbers that report how well it does? W"
+  },
+  {
+   "title": "Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?",
+   "link": "https://arxiv.org/abs/2610.31681",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31681v1 Announce Type: new Abstract: Structured generation is typically formulated as a deterministic mapping from input to a single structured output. This assumption is fundamentally misaligned with natural language, which often admits multiple structurally distinct yet semantically valid interpretations. "
+  },
+  {
+   "title": "Multi modal perceived conversation success prediction for spontaneous autistic and non-autistic dyadic interactions",
+   "link": "https://arxiv.org/abs/2610.31682",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31682v1 Announce Type: new Abstract: Conversation success is important for communication, social bonds, and well-being and is often reduced in autistic-neurotypical conversations. Previous studies have predicted perceived conversation success using acoustic and lexical features in pediatric autism-enriched s"
+  },
+  {
+   "title": "The Schema Coherence Inventory: Measuring Whether an Assigned Belief Organizes a Language Model's Cognition",
+   "link": "https://arxiv.org/abs/2610.31683",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31683v1 Announce Type: new Abstract: Persona-conditioned language models are used as simulated patients and affective agents, but there is no validated way to ask whether a belief assigned to such a model organizes its behaviour or whether the model has merely adopted a mood. We present the Schema Coherence "
+  },
+  {
+   "title": "Knowledge Graphs Quality Assessment in the Era of LLMs: A Conceptual Framework",
+   "link": "https://arxiv.org/abs/2610.31684",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31684v1 Announce Type: new Abstract: Knowledge Graphs (KGs) have been popularized during the last few decades and are increasingly constructed and consumed by Large Language Models (LLMs). Various applications therefore rely on KGs to provide concise, complete, accurate, faithful, fresh, and traceable answer"
+  },
+  {
+   "title": "An Agentic Approach with Evidence-Grounded Verification for Multimodal Emotion Reasoning in Conversation",
+   "link": "https://arxiv.org/abs/2610.31685",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31685v1 Announce Type: new Abstract: LLM-based multimodal emotion reasoning systems perform well on standard benchmarks, but improving them through instruction tuning can be computationally expensive. Agentic pipelines built from frozen models avoid this cost, but introduce a different challenge: when a pred"
+  },
+  {
+   "title": "From Target Selection to Condition Reuse: Auditing Residual Interventions in Tool-Use Models",
+   "link": "https://arxiv.org/abs/2610.31686",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31686v1 Announce Type: new Abstract: Activation interventions can make a language model produce a target answer, but can the model use the intended condition in other computations? We study this question in Qwen3.5-27B on tool-use tasks where time or permissions determine eligibility and selection. Across 32"
+  },
+  {
+   "title": "Distributional Alignment of LLMs and Its Generalization Properties",
+   "link": "https://arxiv.org/abs/2610.31687",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31687v1 Announce Type: new Abstract: Large language models are increasingly used to simulate and probe human behavior, e.g., for surveys. For these applications, a key property is that outputs satisfy distributional alignment: to match its output distribution with some reference (in this case, human) distrib"
+  },
+  {
+   "title": "LAMB: A Modern Contextual Language Model for Latin",
+   "link": "https://arxiv.org/abs/2610.31723",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31723v1 Announce Type: new Abstract: This article introduces Latin Modern BERT (LAMB), an encoder for the Latin language based on the ModernBERT architecture, pretrained in two phases on more than 74B Latin tokens using a novel morphologically informed masking regimen. We also present two corpora for the Lat"
+  },
+  {
+   "title": "Free Lunch for LLMs Confidence: The RL Critic Already Knows",
+   "link": "https://arxiv.org/abs/2610.31820",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31820v1 Announce Type: new Abstract: Reliable confidence estimation is essential for trustworthy deployment of large language models (LLMs), but dedicated confidence training stage requires additional data and compute. We ask a fundamental question: what prediction problem does confidence training actually s"
+  },
+  {
+   "title": "What the Query Remembers: Query Abstraction Governs Lexical and Dense Retrieval of Classical Arabic Poetry",
+   "link": "https://arxiv.org/abs/2610.31821",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31821v1 Announce Type: new Abstract: How well a poetry archive can be searched depends on what the user still remembers, not only on what the model understands. We show this for Classical Arabic poetry, benchmarking nine dense encoders and BM25 over two corpora, three indexing modes and two evaluation protoc"
+  },
+  {
+   "title": "Latent Coherence: Do Frontier Language Models' Probability Judgments Obey the Law of Total Probability?",
+   "link": "https://arxiv.org/abs/2610.31833",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31833v1 Announce Type: new Abstract: LawZero's Scientist AI trains a Predictor toward the Bayesian posterior, with an objective that penalizes inconsistent probabilities among latent explanations. We ask whether current frontier language models, with no such training, are already consistent in this sense zer"
+  },
+  {
+   "title": "SAGE: Sense-Aligned Multimodal Grounding Evaluation with Gloss-Augmented Reasoning",
+   "link": "https://arxiv.org/abs/2610.31838",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31838v1 Announce Type: new Abstract: This paper introduces Sense-Aligned Grounding Evaluation (SAGE), a unified 10-candidate image-selection benchmark that reformulates VWSD, VerSe, and WikiDiverse into a shared term-centric protocol covering noun-, verb-, and entity-centered grounding. SAGE includes confusa"
+  },
+  {
+   "title": "SPECMEM: Accelerating Agentic Tool Calling via Live Memory Management",
+   "link": "https://arxiv.org/abs/2610.31840",
+   "source": "arXiv cs.CL (Computation & Language / LLMs)",
+   "category": "AI & ML",
+   "date": "2026-10-26T04:00:00.000Z",
+   "summary": "arXiv:2610.31840v1 Announce Type: new Abstract: Tool-calling agents are mostly optimized for accuracy; in deployment, however, their growing cost is latency: every tool call is decoded autoregressively. Speculative decoding accelerates this without changing the output, and retrieved past calls make strong drafts under "
+  },
+  {
+   "title": "Startup funding falls below $100M; Deeptech startups look to go global",
+   "link": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-26T02:00:00.000Z",
+   "summary": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions."
+  },
+  {
    "title": "The best apps for tracking your reading and discovering new books",
    "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
    "source": "TechCrunch",
@@ -437,12 +723,28 @@
    "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you."
   },
   {
+   "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+   "link": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-26T00:30:00.000Z",
+   "summary": "How locked in do you want to be?"
+  },
+  {
    "title": "Can you run regular Ethernet cables outside?",
    "link": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
    "source": "Engadget",
    "category": "Tech",
    "date": "2026-10-26T00:00:00.000Z",
    "summary": "Just because you can do something doesn't mean you should."
+  },
+  {
+   "title": "Faster pnpm installs",
+   "link": "https://vercel.com/changelog/faster-pnpm-installs",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-26T00:00:00.000Z",
+   "summary": "pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build. For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled. Vercel now reuses successful dependency verification across deployments. In the best case, "
   },
   {
    "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
@@ -523,6 +825,14 @@
    "category": "Tech",
    "date": "2026-10-25T21:31:16.000Z",
    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+  },
+  {
+   "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+   "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T21:15:21.000Z",
+   "summary": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B. The post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost."
   },
   {
    "title": "Scott Walker’s The Drift will get under your skin",
@@ -627,6 +937,14 @@
    "category": "Tech",
    "date": "2026-10-25T16:57:32.000Z",
    "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+  },
+  {
+   "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+   "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T16:53:40.000Z",
+   "summary": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0. The post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the Fir"
   },
   {
    "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
@@ -813,6 +1131,14 @@
    "summary": "Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead."
   },
   {
+   "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+   "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T12:12:18.000Z",
+   "summary": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention"
+  },
+  {
    "title": "Google’s AI search changes upended online publishing",
    "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
    "source": "The Verge",
@@ -843,6 +1169,14 @@
    "category": "AI Agents",
    "date": "2026-10-25T11:49:00.000Z",
    "summary": "#20"
+  },
+  {
+   "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+   "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T11:32:29.000Z",
+   "summary": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, bu"
   },
   {
    "title": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
@@ -954,7 +1288,7 @@
    "source": "YourStory",
    "category": "India",
    "date": "2026-10-25T06:00:43.000Z",
-   "summary": "As an eco-conscious terminal designed with lush garden-themed architecture, Terminal 2 at Bengaluru's Kempegowda International Airport has won much acclaim. This year, it was recognised among the Top 5 globally in the Sk"
+   "summary": "As an eco-conscious terminal designed with lush garden-themed architecture, Terminal 2 at Bengaluru's Kempegowda International Airport has won much acclaim. This year, it was recognised among the Top 5 globally in the Skytrax rankings for World’s Best Art in the Airport. This distinction undersco"
   },
   {
    "title": "Workflow, ecosystems, AI: Test your business creativity with Edition 255 of our weekly quiz!",
@@ -981,12 +1315,36 @@
    "summary": "Zahan Turel, a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost. Aditya Vijay, 17, is building Forge, supporting overlooked, self-taught young founders with shared housing, capital, and access. Dev "
   },
   {
+   "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+   "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T03:32:59.000Z",
+   "summary": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents appeared f"
+  },
+  {
    "title": "Discover how Superminis, Nayam by Lakshita and Broadstar are scaling nationally with Myntra’s platform capabilities",
    "link": "https://yourstory.com/2026/10/discover-how-superminis-nayam-by-lakshita-and-broadstar-are-scaling-nationally-with-myntras-platform-capabilities",
    "source": "YourStory",
    "category": "India",
    "date": "2026-10-25T03:30:00.000Z",
    "summary": "From kidswear to ethnic and western wear, Superminis, Nayam by Lakshita, and Broadstar are using trend reports and events like BFF to enhance their offerings and reach more shoppers across the country. Myntra’s Big Fashion Festival (BFF) gives brands an opportunity to reach shoppers across India."
+  },
+  {
+   "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+   "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T02:59:08.000Z",
+   "summary": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cy"
+  },
+  {
+   "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+   "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-25T02:30:18.000Z",
+   "summary": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost."
   },
   {
    "title": "Ultraviolette’s answer to the global chip squeeze; The making of Indian flying taxis",
@@ -1381,6 +1739,14 @@
    "summary": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\""
   },
   {
+   "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+   "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-24T11:12:27.000Z",
+   "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Conta"
+  },
+  {
    "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
    "link": "https://www.wired.com/gallery/best-pet-cameras/",
    "source": "Wired",
@@ -1411,6 +1777,14 @@
    "category": "Tech",
    "date": "2026-10-24T10:30:00.000Z",
    "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale."
+  },
+  {
+   "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+   "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-24T10:29:31.000Z",
+   "summary": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta:"
   },
   {
    "title": "12 Absolutely Banging Proper Watches Under $400",
@@ -1477,6 +1851,14 @@
    "summary": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant. The founder of burger brand ‘Beyondburg’, one of Hot"
   },
   {
+   "title": "Speech models in Ollama",
+   "link": "https://ollama.com/blog/speech-models",
+   "source": "Ollama",
+   "category": "AI & ML",
+   "date": "2026-10-24T00:00:00.000Z",
+   "summary": "Ollama now supports speech models, starting with Phonon from Gradium. Read text aloud in five languages and dozens of voices, streamed as it is generated, over 100 times faster than real time on Apple Silicon."
+  },
+  {
    "title": "Your Book Review: The Ghost In My Brain",
    "link": "https://www.astralcodexten.com/p/your-book-review-the-ghost-in-my",
    "source": "Astral Codex Ten",
@@ -1517,6 +1899,14 @@
    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
   },
   {
+   "title": "Vercel CLI adds Spend Management",
+   "link": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T21:44:00.000Z",
+   "summary": "You can now view and manage your team's budget from the Vercel CLI. Run and you, or the scripts and agents you run, get back your current spend and the active budget.Spend Managementvercel budgets This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. T"
+  },
+  {
    "title": "Quick Study",
    "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
    "source": "Simon Willison",
@@ -1539,6 +1929,22 @@
    "category": "Tech",
    "date": "2026-10-23T20:57:13.000Z",
    "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
+  },
+  {
+   "title": "Send feedback from the Vercel MCP",
+   "link": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T20:53:00.000Z",
+   "summary": "now includes , a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness.Vercel MCPsubmit_feedback Ask your agent to give feedback in plain language: Your assistant can attach structured context that describes the task, the expected behavior, and what "
+  },
+  {
+   "title": "How Vercel Agent accesses production safely",
+   "link": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T20:29:00.000Z",
+   "summary": "An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individ"
   },
   {
    "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
@@ -1613,6 +2019,14 @@
    "summary": "Why does real-time energy trading need more than faster data?Energy trading desks..."
   },
   {
+   "title": "Deployments now show build cache size",
+   "link": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T19:00:00.000Z",
+   "summary": "Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its . The same information is in the CLI with on version 65.1.0 or newer, and in the .build machineget-deployment REST API endpointvercel inspect Uploading the build cache is billable build time, and a c"
+  },
+  {
    "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
    "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
    "source": "Netflix Tech Blog",
@@ -1637,12 +2051,36 @@
    "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world."
   },
   {
+   "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+   "link": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-23T17:48:54.000Z",
+   "summary": "Multi-Turn Reinforcement Learning (MTRL) on Amazon SageMaker AI trains models on the outcome of a whole multi-step task rather than labeled steps. This hands-on guide walks the full pipeline using Wordle: deploying the agent and reward on Amazon Bedrock AgentCore, preparing the dataset, training, and evaluating at serv"
+  },
+  {
    "title": "Crows can evaluate visual info twice as fast as mammals",
    "link": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
    "source": "Ars Technica",
    "category": "Tech",
    "date": "2026-10-23T17:32:58.000Z",
    "summary": "Birds' compact nervous system seems to help them handle tasks very quickly."
+  },
+  {
+   "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+   "link": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-23T17:27:52.000Z",
+   "summary": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and... The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and end-to-end perf"
+  },
+  {
+   "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+   "link": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-23T17:27:35.000Z",
+   "summary": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For... Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers."
   },
   {
    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -1667,6 +2105,14 @@
    "category": "AI & ML",
    "date": "2026-10-23T17:00:00.000Z",
    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+  },
+  {
+   "title": "Vercel Connect adds managed Stripe API keys",
+   "link": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T17:00:00.000Z",
+   "summary": "can now create a separate for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. Vercel Connectrestricted Stripe API key Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key metho"
   },
   {
    "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
@@ -1707,6 +2153,30 @@
    "category": "Tech",
    "date": "2026-10-23T16:35:00.000Z",
    "summary": "Sound designer lets Half Life-related codename slip at a conference."
+  },
+  {
+   "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+   "link": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-23T16:30:10.000Z",
+   "summary": "Updating a SageMaker AI endpoint that has Application Auto Scaling registered makes AWS CloudFormation and AWS CDK deployments fail. This post shows how to build a reusable AWS CDK construct with CloudFormation custom resources that deregisters and re-registers auto scaling automatically, so you can update the endpoint"
+  },
+  {
+   "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+   "link": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-23T16:24:55.000Z",
+   "summary": "Amazon Quick Sight layer maps now support Point and LineString geometry from the same GeoJSON workflow, so you can plot store locations and the routes between them. This post covers the dataset and GeoJSON structure layer maps require, when to choose points or lines, and techniques for viewport control, layering geomet"
+  },
+  {
+   "title": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-23T16:21:36.000Z",
+   "summary": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural language questions about their analytics platform. This post covers the ADE architecture, five design decisions, and how the team prepared it for produ"
   },
   {
    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
@@ -1773,6 +2243,14 @@
    "summary": "AI models are solving more mathematical problems. A pattern is emerging in their successes that could help us predict which problems they’ll solve next."
   },
   {
+   "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+   "link": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-23T14:58:32.000Z",
+   "summary": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions... Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its act"
+  },
+  {
    "title": "Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’",
    "link": "https://www.youtube.com/watch?v=bxDTWuL9GxY",
    "source": "Daring Fireball",
@@ -1829,6 +2307,14 @@
    "summary": "What does effective dimension reveal about redundancy, generalization, and trainability that parameter count, loss, and accuracy do not? The post Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension appeared first on Towards Data Science."
   },
   {
+   "title": "AI Agent Memory: How LLM Agents Manage State in Production",
+   "link": "https://blog.n8n.io/ai-agent-memory-how-llm-agents-manage-state-in-production/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-23T12:20:34.000Z",
+   "summary": "Learn how AI agent memory works, explore short-term and long-term memory architectures, and discover how to combine n8n and Cognee to build AI workflows that retain context, share knowledge, and learn across sessions."
+  },
+  {
    "title": "How to Be Transformed When Things Fall Apart",
    "link": "https://www.themarginalian.org/2026/10/23/when-things-fall-apart-pema-chodron/",
    "source": "The Marginalian",
@@ -1851,6 +2337,14 @@
    "category": "Marketing",
    "date": "2026-10-23T12:00:00.000Z",
    "summary": "Rank trackers describe how they check suspect Google results, what customers see during checks, and what they say about reprocessing and past results. The post How Rank Trackers Say They Handle Suspect Google Results appeared first on Search Engine Journal."
+  },
+  {
+   "title": "How Immobiliare.it went from one conversational agent to an agentic network",
+   "link": "https://elevenlabs.io/blog/immobiliare",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-23T12:00:00.000Z",
+   "summary": "Italy’s leading property marketplace goes from one conversational agent to an agentic network"
   },
   {
    "title": "5 Lessons from Prithvi Raj Banerjee’s Mindful Thinking",
@@ -1949,6 +2443,14 @@
    "summary": "Here is their episode summary: Economist Tyler Cowen joins David Wolpe for a conversation about AI, religion, and what makes us human. Tyler makes the case that AI’s biggest impact may be on status: who gains it, who loses it, and what happens to experts like rabbis when anyone can ask ChatGPT all their questions. […] "
   },
   {
+   "title": "v1.18.0 — Smarter Agent Routing, Portable Apps, Deeper Workflow Visibility",
+   "link": "https://github.com/langgenius/dify/releases/tag/1.18.0",
+   "source": "Dify",
+   "category": "AI Agents",
+   "date": "2026-10-23T06:35:41.000Z",
+   "summary": "Dify 1.18.0 brings Agents that route workflows, portable app packages, deeper visibility into nested workflow runs, and the opt-in Agent Knowledge Base experience. OpenAPI and the new difyctl expand how you build and manage apps from the command line. Important Read the upgrade guide below before deploying. Upgrade the"
+  },
+  {
    "title": "Will bystander economies be able to finance their governments?",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&utm_medium=rss&utm_campaign=will-bystander-economies-be-able-to-finance-their-governments",
    "source": "Marginal Revolution",
@@ -1957,12 +2459,36 @@
    "summary": "From Jesús Fernández-Villaverde: Will AI poison the public finances of many modern states? There is a real risk that it will. Yesterday, I circulated a new paper, “Saving for the Machines,” which makes a simple point. Bu"
   },
   {
+   "title": "How Interfaze serves 50 million requests a month on Vercel",
+   "link": "https://vercel.com/blog/how-interfaze-serves-50-million-requests-a-month-on-vercel",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T04:00:00.000Z",
+   "summary": "Interfaze on Vercel 50 million requests a month Backend running on Fluid compute Multiple model providers behind one fallback layer with AI Gateway builds models for deterministic work that general-purpose LLMs handle poorly: document processing, OCR, object detection, web scraping, speech to text, and classification.I"
+  },
+  {
+   "title": "Security vulnerabilities across the internet: How Replit is protecting your business",
+   "link": "https://replit.com/blog/security-vulnerabilities-across-the-internet",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T03:09:09.000Z",
+   "summary": "The vulnerabilities disclosed this week affect software that much of the internet depends on. They create real risks for businesses and more work for the teams responsible for keeping their applications secure. As AI makes more vulnerabilities easy to find, those teams will face more pressure to respond. At Replit, the"
+  },
+  {
    "title": "Kazakhstan Expands Compute for Its AI Future",
    "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
    "source": "NVIDIA",
    "category": "AI & ML",
    "date": "2026-10-23T02:00:13.000Z",
    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of acce"
+  },
+  {
+   "title": "Send feedback from the Vercel CLI",
+   "link": "https://vercel.com/changelog/send-feedback-from-vercel-cli",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T02:00:00.000Z",
+   "summary": "The now includes , which sends bugs, friction reports, and feature requests to the Vercel team from your terminal.Vercel CLIvercel feedback Coding agents can also send feedback when they run into issues. Use with or to include structured context as pairs. Repeat the flag to describe the task, expected behavior, and wha"
   },
   {
    "title": "The Wildest Bet Is the Winning Bet",
@@ -1989,6 +2515,22 @@
    "summary": ""
   },
   {
+   "title": "Accelerating Map Search in Vespa: Fast-Search Map Fields",
+   "link": "https://blog.vespa.ai/fast-map-search/",
+   "source": "Vespa.ai",
+   "category": "AI & ML",
+   "date": "2026-10-23T00:00:00.000Z",
+   "summary": "A deep dive into the map data type in Vespa, its performance pitfalls, and how the new fast-search map fields fix them."
+  },
+  {
+   "title": "Kimi K3.1 Pro and Kimi K3.1 Pro Highspeed are available now in AI Gateway",
+   "link": "https://vercel.com/changelog/kimi-k3-1-pro-and-kimi-k3-1-pro-highspeed-are-available-now-in-ai-gateway",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-23T00:00:00.000Z",
+   "summary": "from is now available on , along with , a faster version for interactive use.Kimi K3.1 ProMoonshot AIAI GatewayKimi K3.1 Pro Highspeed K3.1 Pro is the first model in Moonshot's K3.1 series. It builds on with improvements in coding, 3D modeling, financial analysis, and agentic tasks, and keeps the 1M-token context windo"
+  },
+  {
    "title": "Profound vs. Scrunch: Which AEO tool fits your team?",
    "link": "https://blog.hubspot.com/marketing/profound-vs-scrunch",
    "source": "HubSpot Marketing",
@@ -2003,6 +2545,14 @@
    "category": "Marketing",
    "date": "2026-10-22T23:50:04.000Z",
    "summary": "Building an AI agent is a multi-step process. Marketers need to define the agent’s task, connect approved data and tools, and set limits on its actions. Once they master the basics, anyone — marketers, sales reps, or customer teams — can build agents with ease."
+  },
+  {
+   "title": "Eight more TLDs now eligible for a free domain with Pro",
+   "link": "https://vercel.com/changelog/eight-more-tlds-now-eligible-for-a-free-domain-with-pro",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-22T22:28:00.000Z",
+   "summary": "Every Pro team can claim a free domain for one year. That offer now includes , , , , , , , and , bringing the eligible TLDs to sixteen..co.studio.company.info.pro.live.digital.agency The offer still covers one domain per team, and premium domains are not eligible. After the first year, your domain will at the regular p"
   },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -2035,6 +2585,14 @@
    "category": "Ideas",
    "date": "2026-10-22T20:30:00.000Z",
    "summary": "I just built a page containing many of my books. Click on any one of them and it’ll take you to a directory of where you can get a copy. And the page then re-indexes based on which ones get the most clicks. https://hotlist.sethgodin.com Thanks for reading."
+  },
+  {
+   "title": "Replit Monitoring Agent: Your very own software engineering team",
+   "link": "https://replit.com/blog/replit-monitoring-agent",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-22T20:24:13.000Z",
+   "summary": "Anyone who has published an app knows that dreaded message from a user: “Doesn’t work for me”. At a large company, an on-call engineer gets paged, investigates the problem, and works to get the app running again. For most creators and small teams, that responsibility falls to the same person building the product, suppo"
   },
   {
    "title": "San Francisco Meetup This Saturday",
@@ -2141,6 +2699,62 @@
    "summary": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and t"
   },
   {
+   "title": "Amazon Polly delivers a major upgrade to its Generative engine",
+   "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T18:06:35.000Z",
+   "summary": "The Amazon Polly Generative engine gets a major upgrade: more expressive, more accurate speech with low latency, plus 14 new voices across 9 locales and general availability of Hindi and Finnish. This drop-in upgrade requires no code changes and is now generally available in production."
+  },
+  {
+   "title": "How IskayPet unified corporate knowledge with Amazon Bedrock Managed Knowledge Bases",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T18:01:53.000Z",
+   "summary": "Learn how IskayPet, a leading pet care company in Iberia, built a multilingual corporate knowledge assistant on Amazon Bedrock Managed Knowledge Bases. The assistant answers employee questions across retail, veterinary, onboarding, and procurement in four languages and three countries, with no RAG infrastructure to man"
+  },
+  {
+   "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+   "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T18:00:04.000Z",
+   "summary": "Amazon SageMaker AI serverless model customization now includes training sessions, generally available today. You write and coordinate your own post-training loop (custom loss functions, reward signals, or multi-turn reinforcement learning) while SageMaker AI handles GPU allocation, distributed execution, fault recover"
+  },
+  {
+   "title": "Write your own training loop — without managing GPUs — with Amazon SageMaker training session APIs",
+   "link": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T18:00:01.000Z",
+   "summary": "Amazon SageMaker AI training session APIs let you write your own LLM training loop (SFT, RL, or custom objectives) in a Python script while the service runs the GPUs. This post introduces the programming model and three SDK clients, then walks through a GRPO loop on GSM8K and a reinforcement learning workload on compet"
+  },
+  {
+   "title": "Deploy AI in a HIPAA-eligible environment with Amazon Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T17:48:22.000Z",
+   "summary": "Amazon Quick is a HIPAA-eligible service, but eligibility is not the same as compliance. This post explains who HIPAA applies to, how PHI flows through Amazon Quick, what the platform provides for regulated environments, and a step-by-step guide to deploying compliant AI agents in a healthcare environment."
+  },
+  {
+   "title": "langchain-core==1.7.0",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.0",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-22T17:48:17.000Z",
+   "summary": "Changes since langchain-core==1.6.13 release(core): 1.7.0 (#41418) tool-call-delta for streamed tool-call args (#41257) Notes Tool-call args now stream as tool-call-delta slices instead of block-delta snapshots of the args so far. If you read raw stream events and their block-delta args mid-stream, read tool-call-delta"
+  },
+  {
+   "title": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T17:45:58.000Z",
+   "summary": "Voice agents often wait for an agent's full response before starting speech synthesis, adding latency users feel directly. This post shows how to stream each sentence to a Kokoro-82M text-to-speech model on Amazon SageMaker AI as the agent produces it, and how to get that audio back to a browser over Server-Sent Events"
+  },
+  {
    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
    "link": "https://latent.space/p/modal-d/",
    "source": "Latent Space",
@@ -2165,12 +2779,76 @@
    "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog."
   },
   {
+   "title": "Hallucination Detection Methods for AI Agent Workflows",
+   "link": "https://blog.n8n.io/hallucination-detection-methods-for-ai-agent-workflows/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-22T17:21:13.000Z",
+   "summary": "AI agent hallucinations are hard to catch because they usually look like normal answers. An agent can invent a fact, misread retrieved context, or contradict itself without signaling that anything went wrong. Once that output triggers another workflow step, the mistake can quickly become a production problem. Effective"
+  },
+  {
    "title": "Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
    "source": "Search Engine Journal",
    "category": "Marketing",
    "date": "2026-10-22T16:58:09.000Z",
    "summary": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement appeared first on Search Engine Journal."
+  },
+  {
+   "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+   "link": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-22T16:39:09.000Z",
+   "summary": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI... GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI"
+  },
+  {
+   "title": "Stop guessing auto scaling targets for TTS on Amazon SageMaker AI",
+   "link": "https://aws.amazon.com/blogs/machine-learning/stop-guessing-auto-scaling-targets-for-tts-on-amazon-sagemaker-ai/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T16:30:06.000Z",
+   "summary": "Teams deploying custom text-to-speech models on Amazon SageMaker AI often guess at autoscaling thresholds, and a wrong guess either wastes GPU spend or breaches a latency SLO. This post deploys Kokoro-82M as a custom container and derives a measured autoscaling policy from two live-endpoint measurements, Q_max and T_to"
+  },
+  {
+   "title": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-22T16:25:57.000Z",
+   "summary": "Rescale used the AI-Driven Development Lifecycle (AI-DLC) framework on AWS, with Strands Agents and Amazon Bedrock, to build an intelligent test-triage agent in weeks. Learn how AI-DLC structures AI-assisted development and how Rescale is scaling the practice across its engineering organization."
+  },
+  {
+   "title": "API Versioning Strategies for Stable Workflow Integrations",
+   "link": "https://blog.n8n.io/api-versioning-strategies/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-22T16:15:48.000Z",
+   "summary": "Compare API versioning strategies like URI, header, and date-based approaches, and learn how to handle a provider’s deprecation without breaking integration"
+  },
+  {
+   "title": "How to build a software factory that tests its own prompts",
+   "link": "https://arize.com/blog/how-to-build-a-software-factory-that-tests-its-own-prompts/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-22T16:06:34.000Z",
+   "summary": "A small software factory that turns GitHub issues into released code, traces every station to Arize AX, and uses the verdicts it already produces to test and improve its own prompts before they go live. The post How to build a software factory that tests its own prompts appeared first on Arize AI."
+  },
+  {
+   "title": "Flint-interactive: A language for creating interactive data visualizations",
+   "link": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-22T16:00:00.000Z",
+   "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose. The post Flint-interactive: A language for creating interactive data visualizations appeared first on Microsoft Research."
+  },
+  {
+   "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+   "link": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-22T16:00:00.000Z",
+   "summary": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting... AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting with frontier"
   },
   {
    "title": "Introducing the Museum of Delight",
@@ -2195,6 +2873,14 @@
    "category": "Ideas",
    "date": "2026-10-22T15:51:47.000Z",
    "summary": "One bleak English winter a long time ago, wandering through London in the wake of a relationship that had just unraveled, I walked into an antiquarian bookstore and chanced upon a rare century-old edition of the Brothers Grimm fairy tales — which I had grown up with — illustrated by Arthur Rackham. All fairy tales deal"
+  },
+  {
+   "title": "Stateful vs. Stateless: Managing Context in AI Agent Builds",
+   "link": "https://blog.n8n.io/stateful-vs-stateless/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-22T15:44:39.000Z",
+   "summary": "Stateful versus stateless design changes how systems scale and remember context. Learn when to use memory nodes, state stores, or both."
   },
   {
    "title": "Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs via @sejournal, @MattGSouthern",
@@ -2229,12 +2915,28 @@
    "summary": "I let an AI agent search again whenever it chose. It found some papers plain search had missed, lost some plain search had found, and gained too little to trust. The post Does Agentic RAG Actually Retrieve Better Evidence? I Tested It on 298 Questions appeared first on Towards Data Science."
   },
   {
+   "title": "Self-Hosted LLM vs. Cloud APIs: How to Route Between Them",
+   "link": "https://blog.n8n.io/self-hosted-llm/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-22T15:01:32.000Z",
+   "summary": "A self-hosted LLM isn’t always cheaper than an API. Learn when on-prem wins, what your hardware can run, and how to route between local and cloud models."
+  },
+  {
    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
    "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
    "source": "NVIDIA",
    "category": "AI & ML",
    "date": "2026-10-22T15:00:02.000Z",
    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most compl"
+  },
+  {
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-22T14:30:24.000Z",
+   "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
   },
   {
    "title": "The Pulse: Time to rethink software security because of AI?",
@@ -2317,6 +3019,14 @@
    "summary": "Reddit conversations can become news stories. Brands that listen and respond gain a chance to address problems before coverage follows. The post Why Reddit Belongs In Your PR Strategy appeared first on Search Engine Journal."
   },
   {
+   "title": "What is voice over? Definition, examples, and how it works",
+   "link": "https://elevenlabs.io/blog/what-is-voice-over",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-22T12:00:00.000Z",
+   "summary": "Learn what is voice over, how it differs from voice acting and dubbing, and how to write a script and create a voice over with AI in minutes."
+  },
+  {
    "title": "ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers",
    "link": "https://www.docker.com/blog/docker-activestate-partnership/",
    "source": "Docker",
@@ -2381,6 +3091,14 @@
    "summary": "The Big Hardening begins"
   },
   {
+   "title": "It’s not the model. It’s the stack.",
+   "link": "https://yellow.ai/blog/its-not-the-model-its-the-stack/",
+   "source": "Yellow.ai",
+   "category": "India",
+   "date": "2026-10-22T07:11:07.000Z",
+   "summary": "Over the next twelve weeks, our team will take each of the four layers behind every Yellow.ai deployment apart in public. This is the first piece: why we built it this way. There is a difference between AI that works in a demo and AI that works in an enterprise, and after three years of […] The post It’s not the model."
+  },
+  {
    "title": "What FDE means at OpenAI",
    "link": "https://openai.com/index/forward-deployed-engineering-means",
    "source": "OpenAI",
@@ -2437,12 +3155,60 @@
    "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and public services, run them on infrastructure they control, apply their own safeguards and keep sensitive "
   },
   {
+   "title": "Death to long-lived static credentials",
+   "link": "https://vercel.com/blog/death-to-long-lived-static-credentials",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-22T04:00:00.000Z",
+   "summary": "Fifteen years ago, TLS was something you'd use to protect the most sensitive areas of your app. Then Google, Let's Encrypt, the EFF, and others led the push for HTTPS everywhere, making encryption the default for every request. Without it, anyone between the browser and server can read and tamper with the traffic. OAut"
+  },
+  {
+   "title": "Latest",
+   "link": "https://github.com/chroma-core/chroma/releases/tag/latest",
+   "source": "Chroma",
+   "category": "AI & ML",
+   "date": "2026-10-22T01:30:32.000Z",
+   "summary": "Version: 1.5.10.dev326 refs/heads/main 2026-10-22T01:30 chroma-1.5.10.dev326.tar.gz :1.5.10.dev326 :1.5.10.dev326"
+  },
+  {
    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
    "source": "OpenAI",
    "category": "AI & ML",
    "date": "2026-10-22T00:00:00.000Z",
    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+  },
+  {
+   "title": "How Weaviate responded to the eMudhra certificate compromise",
+   "link": "https://weaviate.io/blog/weaviate-emudhra-response",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-10-22T00:00:00.000Z",
+   "summary": "Weaviate patched its entire customer estate and infrastructure platform in under 17 hours to mitigate the risk of eight leaked certificates from the eMudhra certificate authority."
+  },
+  {
+   "title": "Deploy without an account using Vercel CLI",
+   "link": "https://vercel.com/changelog/deploy-without-an-account-using-vercel-cli",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-22T00:00:00.000Z",
+   "summary": "You can now deploy apps to Vercel without an account using . Share prototypes faster with a live URL before signing in to claim your project.Vercel CLI From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deploym"
+  },
+  {
+   "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+   "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-21T23:38:38.000Z",
+   "summary": "Learn how to connect on-premises data sources to Amazon Quick privately with AWS PrivateLink, keeping analytics traffic off the public internet. This walkthrough covers VPC endpoints for user and API access, VPC connections for data sources, DNS and endpoint policies, identity federation, and enforcing VPC-endpoint-onl"
+  },
+  {
+   "title": "5 production challenges in multi-agent systems and how Deep Insight solved them",
+   "link": "https://aws.amazon.com/blogs/machine-learning/5-production-challenges-in-multi-agent-systems-and-how-deep-insight-solved-them/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-21T23:36:47.000Z",
+   "summary": "Many teams build a multi-agent AI prototype in days but hit a wall in production. This post defines five production challenges (orchestration, per-agent model selection, reliable operation, secure code execution, and monitoring) and shows how Deep Insight, an open source multi-agent system on AWS, solves each."
   },
   {
    "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
@@ -2461,6 +3227,14 @@
    "summary": "..."
   },
   {
+   "title": "langchain==1.4.7",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.7",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-21T21:39:18.000Z",
+   "summary": "Changes since langchain==1.4.6 chore(langchain): update lockfile (#41402) #41401) #41370) tool-call-delta in stream consumers (#41246) #41360) #41330) #41270) #41006)"
+  },
+  {
    "title": "Automate medical coding with Step Functions and Amazon Bedrock AgentCore",
    "link": "https://aws.amazon.com/blogs/architecture/automate-medical-coding-with-step-functions-and-amazon-bedrock-agentcore/",
    "source": "AWS Architecture",
@@ -2469,12 +3243,28 @@
    "summary": "Learn how to combine deterministic orchestration with bounded agentic reasoning using AWS Step Functions and the Amazon Bedrock AgentCore harness. This medical coding workflow escalates cheapest-first: a safety block-list, then exact matching, then an AI agent only for terms that need judgment, keeping every routing de"
   },
   {
+   "title": "Adaptive agentic intelligence framework using Strands Agents",
+   "link": "https://aws.amazon.com/blogs/machine-learning/adaptive-agentic-intelligence-framework-using-strands-agents/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-21T21:23:26.000Z",
+   "summary": "The Adaptive Agentic Intelligence Framework (AAIF), built with Strands Agents, handles routine tasks locally with small language models and routes complex requests to cloud models through Amazon Bedrock. This post walks through building AAIF with local SLMs through Ollama and Amazon Bedrock, using an Internet of Things"
+  },
+  {
    "title": "Broad access through consistent standards",
    "link": "https://openai.com/index/broad-access-through-consistent-standards",
    "source": "OpenAI",
    "category": "AI & ML",
    "date": "2026-10-21T21:00:00.000Z",
    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+  },
+  {
+   "title": "langchain-core==1.6.13",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.13",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-21T20:43:50.000Z",
+   "summary": "Changes since langchain-core==1.6.12 release(core): 1.6.13 (#41397) #41373) tool-call-delta in stream consumers (#41246)"
   },
   {
    "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
@@ -2541,12 +3331,28 @@
    "summary": "Stratechery is now presented by Stripe. What that means for me, for you, and for the future of Stratechery content."
   },
   {
+   "title": "langchain-perplexity==1.4.2",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-perplexity%3D%3D1.4.2",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-21T17:31:06.000Z",
+   "summary": "Changes since langchain-perplexity==1.4.1 release(perplexity): 1.4.2 (#41392) #41354) #41377) #41349) #41266) #40947) #40633) #39923) #39924) ChatPerplexity docstring examples for Agent API (#39831)"
+  },
+  {
    "title": "How AT&T is rethinking in-house legal work with OpenAI",
    "link": "https://openai.com/index/att-legal",
    "source": "OpenAI",
    "category": "AI & ML",
    "date": "2026-10-21T17:00:00.000Z",
    "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+  },
+  {
+   "title": "Routing Middleware now supports Python",
+   "link": "https://vercel.com/changelog/routing-middleware-now-supports-python",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-21T17:00:00.000Z",
+   "summary": "You can now write in Python for FastAPI, Flask, Django, and other Python frameworks. It runs before requests reach your app, and can rewrite, redirect, or answer them.routing middleware To set it up, point the entrypoint in at your proxy:proxyvercel.toml Your middleware is an ASGI or WSGI app that runs separately from "
   },
   {
    "title": "The revised rules of engineering management with Will Larson",
@@ -2587,6 +3393,14 @@
    "category": "Software Engineering",
    "date": "2026-10-21T16:00:00.000Z",
    "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog."
+  },
+  {
+   "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+   "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-21T16:00:00.000Z",
+   "summary": "For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) c"
   },
   {
    "title": "LLM Prompt Caching Versus Semantic Caching",
@@ -2693,12 +3507,44 @@
    "summary": "Grid puzzles that people solve almost perfectly show where language and vision models still break The post Spatial Reasoning in AI Models, Taken Apart appeared first on Towards Data Science."
   },
   {
+   "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+   "link": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-21T12:30:00.000Z",
+   "summary": "Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino... Protein design is a search problem. Choose amino acids for an eight-residue protein sequence and more than 25 billion combinations are possible. Choose amino a"
+  },
+  {
    "title": "OpenAI models are coming to Google Cloud",
    "link": "https://openai.com/index/openai-models-google-cloud",
    "source": "OpenAI",
    "category": "AI & ML",
    "date": "2026-10-21T12:00:00.000Z",
    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+  },
+  {
+   "title": "Webinar Recap: Reaching At-Risk Patients When Minutes Matter",
+   "link": "https://elevenlabs.io/blog/webinar-recap-reaching-at-risk-patients-when-minutes-matter",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-21T12:00:00.000Z",
+   "summary": "Learn how Cadence uses ElevenAgents to reach patients within minutes of a vital sign reading outside the expected range."
+  },
+  {
+   "title": "How to integrate Text to Speech into your applications",
+   "link": "https://elevenlabs.io/blog/how-to-integrate-text-to-speech",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-21T12:00:00.000Z",
+   "summary": "Learn how to integrate Text to Speech into your application in four steps: create an API key, install the SDK, send your first request, and play the audio."
+  },
+  {
+   "title": "Talk to anyone, in any language, in realtime",
+   "link": "https://elevenlabs.io/blog/realtime-translation",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-21T12:00:00.000Z",
+   "summary": "Deliver live, expressive voice translation in more than 90 languages. Available for enterprises via ElevenAPI"
   },
   {
    "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
@@ -2787,6 +3633,38 @@
    "category": "Tech",
    "date": "2026-10-21T10:00:00.000Z",
    "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth."
+  },
+  {
+   "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+   "link": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-21T09:52:16.000Z",
+   "summary": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using... An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using tools"
+  },
+  {
+   "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+   "link": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-21T09:50:14.000Z",
+   "summary": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex... Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex t"
+  },
+  {
+   "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+   "link": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-21T09:38:49.000Z",
+   "summary": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams... Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams"
+  },
+  {
+   "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+   "link": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-21T09:35:32.000Z",
+   "summary": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,... AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute, net"
   },
   {
    "title": "Evaluating Agents on Highly Subjective Tasks",
@@ -2901,6 +3779,30 @@
    "summary": "We are proud to release DuckDB 2.0.0, codenamed “Cinnamon Teal” after the Spatula cyanoptera, a strikingly reddish-brown duck found in the western Americas. While DuckDB 1.0 was all about stability and backward compatibility, DuckDB 2.0 is above all a feature release. In this blog post, we summarize the highlights and "
   },
   {
+   "title": "php2shell: patching PHP is easy, finding it is the hard part",
+   "link": "https://sourcegraph.com/blog/php2shell-patching-php-is-easy-finding-it-is-the-hard-part",
+   "source": "Sourcegraph",
+   "category": "Software Engineering",
+   "date": "2026-10-21T00:00:00.000Z",
+   "summary": "PHP patched two critical unauthenticated RCE bugs, CVE-2026-109618 and CVE-2026-109619. Find every PHP runtime in your code with Deep Search, then bump them all with Agentic Batch Changes."
+  },
+  {
+   "title": "Baseten's Mammoth-1 and Elephant-1 now available on AI Gateway for free",
+   "link": "https://vercel.com/changelog/basetens-mammoth-1-and-elephant-1-now-available-on-ai-gateway-for-free",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-21T00:00:00.000Z",
+   "summary": "and from Baseten are now available for free on AI Gateway for one week. Free access is available through October 27. These decision models classify text, route requests, and score content against criteria you define.Mammoth-1Elephant-1 Mammoth-1 is the larger, 27B model, while Elephant-1 is a smaller, 9B option. Mammot"
+  },
+  {
+   "title": "Skipped monorepo deployments no longer count against limits",
+   "link": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-21T00:00:00.000Z",
+   "summary": "Deployments that Vercel in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits.automatically skips Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using 's package graph and lockfile analys"
+  },
+  {
    "title": "eMudhra Intermediate CA Compromise",
    "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
    "source": "Simon Willison",
@@ -3013,12 +3915,28 @@
    "summary": "\"The poem is nothing but information. It is the Constitution of the inner country.\""
   },
   {
+   "title": "Called to serve: Tech, research, and positive impact",
+   "link": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-20T16:00:00.000Z",
+   "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more. The post Called to serve: Tech, research, and positi"
+  },
+  {
    "title": "Why Shopify Migrated From React Native",
    "link": "https://blog.bytebytego.com/p/why-shopify-migrated-from-react-native",
    "source": "ByteByteGo",
    "category": "Software Engineering",
    "date": "2026-10-20T15:31:07.000Z",
    "summary": "In this article, we’ll look at how Shopify decided to move out of React Native and how they migrated to native mobile development."
+  },
+  {
+   "title": "Can decision models play games from screenshots?",
+   "link": "https://arize.com/blog/can-decision-models-play-games-from-screenshots/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-20T14:00:53.000Z",
+   "summary": "Decision models return a probability for each option in a fixed list. We tested whether image-capable decision models can play Tic-tac-toe, Minesweeper, and Flappy Bird from screenshots, and compared them with LLMs. The post Can decision models play games from screenshots? appeared first on Arize AI."
   },
   {
    "title": "Cross-store product clustering across millions of stores",
@@ -3051,6 +3969,38 @@
    "category": "Software Engineering",
    "date": "2026-10-20T13:00:00.000Z",
    "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory."
+  },
+  {
+   "title": "How to transcribe a podcast: A step-by-step guide",
+   "link": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-20T12:00:00.000Z",
+   "summary": "Learn how to transcribe a podcast with AI in five steps, format the transcript as SRT or VTT, and publish it on podcast platforms and your website."
+  },
+  {
+   "title": "Introducing Eleven Realtime: a simpler way to build natural voice agents",
+   "link": "https://elevenlabs.io/blog/realtime",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-20T12:00:00.000Z",
+   "summary": "Eleven Realtime is a new class of Speech to Speech models for voice agents that sound natural. Available in ElevenAgents and the Realtime API."
+  },
+  {
+   "title": "Trinity Logistics gets 25% higher margins on shipments booked with ElevenAgents",
+   "link": "https://elevenlabs.io/blog/trinity-logistics",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-20T12:00:00.000Z",
+   "summary": "How 3PL Trinity Logistics used ElevenAgents to automate 30,000 inbound carrier calls/month, lift margins 25% on automated bookings, and cut costs 40%."
+  },
+  {
+   "title": "Why we refreshed the n8n brand",
+   "link": "https://blog.n8n.io/n8n-brand-refresh-2026/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-20T11:09:09.000Z",
+   "summary": "A new logo, a new typeface, and a new take on our pink, built for where n8n is going."
   },
   {
    "title": "Possible new Cellebrite iPhone Radio Zero-Day",
@@ -3197,6 +4147,22 @@
    "summary": "Clairic is a new model from Cloudflare that is a System One extraction modeI, capable of extracting, computing, estimating, and forecasting data from unstructured inputs."
   },
   {
+   "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+   "link": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-19T17:00:00.000Z",
+   "summary": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to... NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to d"
+  },
+  {
+   "title": "Why Anthropic replaced Git, and whether you’ll need to",
+   "link": "https://arize.com/blog/anthropic-scion-vs-git/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-19T16:51:14.000Z",
+   "summary": "Anthropic built Scion for an enormous monorepo handling more than 30,000 daily merges. Most teams can keep using Git, but AI coding agents are changing how source control, code review, and CI need to scale. The post Why Anthropic replaced Git, and whether you’ll need to appeared first on Arize AI."
+  },
+  {
    "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
    "link": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
    "source": "Meta Engineering",
@@ -3229,6 +4195,22 @@
    "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we’ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain "
   },
   {
+   "title": "Agent tool selection: The tool your agent almost called",
+   "link": "https://arize.com/blog/ai-agent-tool-selection-decision-tracing/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-19T15:16:58.000Z",
+   "summary": "Decision spans in Arize Phoenix record a tool router’s choice, alternative probabilities, and confidence. Here’s how we evaluated those decisions and used the results to set a fallback threshold. The post Agent tool selection: The tool your agent almost called appeared first on Arize AI."
+  },
+  {
+   "title": "Alyx now available on Google Cloud Marketplace",
+   "link": "https://arize.com/blog/alyx-now-available-on-google-cloud-marketplace/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-19T14:00:50.000Z",
+   "summary": "We’re excited to share that Alyx, the AI engineering agent built into Arize AX, is now available on Google Cloud Marketplace. Teams building and running AI agents on Google Cloud can now add Alyx to their Google Cloud Gemini Enterprise environment and ask how their agents are performing, in plain language, without leav"
+  },
+  {
    "title": "What actually happened when our blog went AI-first: A manager's account",
    "link": "https://blog.hubspot.com/marketing/how-ai-changed-our-editorial-process",
    "source": "HubSpot Marketing",
@@ -3243,6 +4225,14 @@
    "category": "Marketing",
    "date": "2026-10-19T13:45:04.000Z",
    "summary": "The best Claude skills for marketing and sales teams turn recurring work into reusable processes with defined instructions, inputs, and outputs. Claude skills are reusable instruction sets for tasks such as campaign planning, sales call recaps, persona research, content outlining, proposal drafting, and performance rep"
+  },
+  {
+   "title": "Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API",
+   "link": "https://blog.n8n.io/n8n-nvidia-dgx-spark/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-19T13:22:17.000Z",
+   "summary": "Most small businesses want the same handful of AI jobs. They want to draft emails, summarize calls, read invoices, search their own documents, and make the odd image. Plenty of them can't send customer data to a cloud API to do it. Often the reason is data privacy"
   },
   {
    "title": "Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster",
@@ -3267,6 +4257,30 @@
    "category": "Ideas",
    "date": "2026-10-19T12:41:08.000Z",
    "summary": "\"All living relationships are in process of change, of expansion, and must perpetually be building themselves new forms.\""
+  },
+  {
+   "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+   "link": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-10-19T12:31:37.000Z",
+   "summary": "What do you think?"
+  },
+  {
+   "title": "Speech to text for content creators: A workflow guide for captions and repurposing",
+   "link": "https://elevenlabs.io/blog/speech-to-text-for-content-creators",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-19T12:00:00.000Z",
+   "summary": "See how speech to text for content creators improves their workflows and accelerates production across captions, show notes, clips, LLM analysis, and more"
+  },
+  {
+   "title": "Announcing the Chroma Awards Season 2",
+   "link": "https://elevenlabs.io/blog/chroma-awards-season-two-announcement",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-19T12:00:00.000Z",
+   "summary": "Today we’re opening the Chroma Awards Season 2, a global competition to find the world’s catchiest ad."
   },
   {
    "title": "Training AIs to Solve CAPTCHAs",
@@ -3301,6 +4315,30 @@
    "summary": ""
   },
   {
+   "title": "Clef is available on Ollama's cloud",
+   "link": "https://ollama.com/blog/clef",
+   "source": "Ollama",
+   "category": "AI & ML",
+   "date": "2026-10-19T00:00:00.000Z",
+   "summary": "Clef, a 27B multimodal decision model from Cloudflare, is now available on Ollama. Run it locally or on Ollama's cloud."
+  },
+  {
+   "title": "Together Post-Training: frontier-grade model shaping, the way that fits you",
+   "link": "https://www.together.ai/blog/together-post-training",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-10-19T00:00:00.000Z",
+   "summary": "Post-train open LLMs like Qwen, GLM and Kimi into custom models you own, with SFT or RL. You write the training loop. Together runs the hard infrastructure."
+  },
+  {
+   "title": "The runbook is out of date and the code shipped an hour ago",
+   "link": "https://sourcegraph.com/blog/sre-runbooks-ai-driven-development",
+   "source": "Sourcegraph",
+   "category": "Software Engineering",
+   "date": "2026-10-19T00:00:00.000Z",
+   "summary": "Runbooks already lagged behind code, and AI-assisted development is widening the gap. A former SRE explains how Code Search, Deep Search, and MCP ground incident response in the code itself."
+  },
+  {
    "title": "llm-tools-datasette 0.1.1",
    "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
    "source": "Simon Willison",
@@ -3323,6 +4361,22 @@
    "category": "Ideas",
    "date": "2026-10-18T19:11:38.000Z",
    "summary": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, t"
+  },
+  {
+   "title": "v0.32.0",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-18T10:23:45.000Z",
+   "summary": "v0.32.0 Highlights This release features 814 commits from 363 contributors (121 new)! Structured decisions and generic parsers: the new POST /v1/systemone endpoint answers choice, noul and score questions over a structured state (#59299), is served by default (#60677, #60696), and also runs on Cloudflare/clef-omni (#61"
+  },
+  {
+   "title": "v0.32.1rc0",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-18T09:26:56.000Z",
+   "summary": "[Doc][RL] Document the weight-transfer HTTP protocol for trainers wit…"
   },
   {
    "title": "Anticipating confusion",
@@ -3381,6 +4435,14 @@
    "summary": "a quiet day lets us pilot a new show"
   },
   {
+   "title": "v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-17T00:25:45.000Z",
+   "summary": "Signed-off-by: Vadim Gimpelson vadim.gimpelson@gmail.com noreply@anthropic.com"
+  },
+  {
    "title": "Your Book Review: Storm Of Steel",
    "link": "https://www.astralcodexten.com/p/your-book-review-storm-of-steel",
    "source": "Astral Codex Ten",
@@ -3397,12 +4459,36 @@
    "summary": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
   },
   {
+   "title": "langchain-core==1.6.12",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.12",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-16T19:28:46.000Z",
+   "summary": "Changes since langchain-core==1.6.11 release(core): 1.6.12 (#41277) #41272)"
+  },
+  {
    "title": "2026.42: Home At Last",
    "link": "https://stratechery.com/2026/home-at-last/",
    "source": "Stratechery",
    "category": "Tech",
    "date": "2026-10-16T17:42:42.000Z",
    "summary": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards."
+  },
+  {
+   "title": "12 Best Enterprise Workflow Automation Platforms",
+   "link": "https://blog.n8n.io/enterprise-workflow-automation/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-16T17:24:47.000Z",
+   "summary": "Compare the top enterprise workflow automation platforms for technical teams. See how each tool handles control, scale, and AI workflows."
+  },
+  {
+   "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+   "link": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-16T17:00:00.000Z",
+   "summary": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As... AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code"
   },
   {
    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
@@ -3445,12 +4531,44 @@
    "summary": "When we reviewed our Japan marketing automation programs last year, the picture wasn’t pretty. Our automated emails were generating about 12 qualified leads per month against a goal of 160. That’s a huge gap."
   },
   {
+   "title": "AI voice agent integrations: CRM and help desk guide",
+   "link": "https://elevenlabs.io/blog/ai-voice-agent-integrations",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-16T12:00:00.000Z",
+   "summary": "Learn about AI voice agent integrations with Salesforce, HubSpot, Zendesk, and more. Discover how agents read and update records mid-call and set up tools."
+  },
+  {
+   "title": "ElevenLabs’ commitment to security, privacy, and responsible AI: certified and renewed",
+   "link": "https://elevenlabs.io/blog/certification-renewals",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-16T12:00:00.000Z",
+   "summary": "ElevenLabs renewed its ISO, SOC 2, and PCI DSS certifications and added SOC 2 Type I and FedRAMP 20x Class A for enterprise trust."
+  },
+  {
+   "title": "NTT Docomo Business trials conversational AI in Aizuwakamatsu with ElevenLabs",
+   "link": "https://elevenlabs.io/blog/ntt-docomo-conversational-ai",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-16T12:00:00.000Z",
+   "summary": "NTT Docomo Business is piloting an ElevenAgents voice platform in Fukushima to support older residents with natural Japanese speech. (137 characters)"
+  },
+  {
    "title": "Backdooring Open-Weight AI Models",
    "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
    "source": "Schneier on Security",
    "category": "Tech",
    "date": "2026-10-16T11:04:53.000Z",
    "summary": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Ablitera"
+  },
+  {
+   "title": "Bring Your Own Cloud to Replit",
+   "link": "https://replit.com/blog/bring-your-own-cloud",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-16T09:30:00.000Z",
+   "summary": "Enterprise teams want to build apps connected to their company’s systems and data. But strict security requirements often mean development and production must stay within the isolation and control of their own cloud. Replit has steadily expanded its governance and isolation posture with many governance tools, separate "
   },
   {
    "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
@@ -3493,6 +4611,22 @@
    "summary": "We love running benchmarks on all sorts of new hardware. This often includes somewhat exotic hardware – where we sometimes need to compile a new DuckDB binary. This time, in collaboration with the NVIDIA team, we got our hands on their new Vera chip, aimed at agentic workloads. NVIDIA Vera comes with 88 “Olympus” cores"
   },
   {
+   "title": "Reflection's Beam is freely available on Ollama for a limited time",
+   "link": "https://ollama.com/blog/reflection-beam",
+   "source": "Ollama",
+   "category": "AI & ML",
+   "date": "2026-10-16T00:00:00.000Z",
+   "summary": "Reflection's first open-weight model is now available on Ollama, and free for a limited time only. Beam is designed for software engineering, reasoning, and long-running agentic tasks. Access Beam through Ollama Cloud."
+  },
+  {
+   "title": "The Future of Retail Isn't More Choice. It's Better Discovery.",
+   "link": "https://blog.vespa.ai/the-future-of-retail/",
+   "source": "Vespa.ai",
+   "category": "AI & ML",
+   "date": "2026-10-16T00:00:00.000Z",
+   "summary": "Explore how AI-powered product discovery helps retailers overcome choice overload, improve relevance and deliver better shopping experiences with Vespa.ai."
+  },
+  {
    "title": "The next developer interface is ambient intelligence",
    "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
    "source": "GitHub Blog",
@@ -3509,12 +4643,36 @@
    "summary": "Meta’s newest app, Forum, is for anyone who wants to go deeper into the conversations in their Facebook groups. To build Forum, Meta engineers adopted a whole new way of working by bringing an AI agent into the development cycle. We’re sharing insights into what it took to build Forum with agentic AI: how we [...] Read"
   },
   {
+   "title": "langchain-core==1.6.11",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.11",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-15T18:32:37.000Z",
+   "summary": "Changes since langchain-core==1.6.10 release(core): 1.6.11 (#41260) #41006)"
+  },
+  {
    "title": "2026 World Cup: Breaking Records, Spiky Charts and Reliability at Scale",
    "link": "https://engineering.fb.com/2026/10/15/production-engineering/2026-world-cup-record-traffic-reliability-at-scale/",
    "source": "Meta Engineering",
    "category": "Software Engineering",
    "date": "2026-10-15T18:30:29.000Z",
    "summary": "Every four years, the World Cup becomes the largest planned stress test of our infrastructure. This year it also set an all-time record! There are a few moments throughout the year, like New Years Eve, that really let us see the collective impact of everything we’ve built — but none are bigger than the quadrennial [..."
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning",
+   "link": "https://developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-15T18:01:00.000Z",
+   "summary": "Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across sources,... Always-on agents are taking on longer, more complex enterprise workflows. A single request can involve reading a document, checking information across source"
+  },
+  {
+   "title": "Scale Agentic Coding Workflows with Meta’s Muse Spark Open on NVIDIA GB300 NVL72",
+   "link": "https://developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-15T18:00:01.000Z",
+   "summary": "Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on... Meta launches Muse Spark Open, a coding-optimized 816B mixture-of-experts (MoE) model with 42B active parameters and a 1M token context window. Trained on NVIDIA "
   },
   {
    "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
@@ -3557,12 +4715,28 @@
    "summary": "Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand c"
   },
   {
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-15T16:08:03.000Z",
+   "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+  },
+  {
    "title": "Sapienz Receives ISSTA 2026 Impact Paper Award",
    "link": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
    "source": "Meta Engineering",
    "category": "Software Engineering",
    "date": "2026-10-15T16:00:59.000Z",
    "summary": "Ke Mao, Mark Harman, and Yue Jia have been recognized with the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2026 Most Influential Paper Award for their 2016 research, “Sapienz: multi-objective automated testing for Android applications.” The recognition celebrates a decade of impact from"
+  },
+  {
+   "title": "Proof-based general-purpose computing with Magnetar",
+   "link": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-15T16:00:00.000Z",
+   "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appear"
   },
   {
    "title": "How Dynata scaled AI across the development lifecycle with AI-DLC and Kiro IDE",
@@ -3579,6 +4753,14 @@
    "category": "Software Engineering",
    "date": "2026-10-15T15:31:01.000Z",
    "summary": "In this article, we’ll look at the various strategies that can help developers deal with failures in their systems."
+  },
+  {
+   "title": "AI agent permissions: Why agents don’t know what you’re allowed to do",
+   "link": "https://arize.com/blog/ai-agent-permissions/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-15T14:52:58.000Z",
+   "summary": "AI agent permissions determine what an agent is allowed to do on someone’s behalf. As agents get more powerful, we’re running into a basic problem: a model can’t reliably verify those permissions just because someone claims to have them in a conversation. The problem agents have with permission goes both ways: sometime"
   },
   {
    "title": "Deploy with Void",
@@ -3605,6 +4787,30 @@
    "summary": "How Cloudflare and OpenAI are working together to help AI find useful content, keep up with changes, and make fewer wasted requests — making the experience better for users and website owners alike."
   },
   {
+   "title": "Vector stores in Agent Framework for Python: familiar foundations, streamlined for agents",
+   "link": "https://devblogs.microsoft.com/agent-framework/vector-stores-in-python-agent-framework-familiar-foundations-streamlined-for-agents/",
+   "source": "Semantic Kernel",
+   "category": "AI Agents",
+   "date": "2026-10-15T12:10:05.000Z",
+   "summary": "Vector stores have been part of the Python experience in Semantic Kernel for some time. With Microsoft Agent Framework, we have ported that work forward rather than starting over. This post focuses on Python. For the .NET equivalent, see Use vector stores in .NET AI apps. The foundation remains familiar: typed record d"
+  },
+  {
+   "title": "SSML tags explained: How to control pauses, pronunciation, and pacing in text to speech",
+   "link": "https://elevenlabs.io/blog/ssml-tags-explained",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-15T12:00:00.000Z",
+   "summary": "SSML is the markup that controls pauses and pronunciation in text to speech. See key tags, code examples, and ElevenLabs support, including Eleven v4."
+  },
+  {
+   "title": "Introducing Instant Soundtracks",
+   "link": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-15T12:00:00.000Z",
+   "summary": "Introducing Instant Soundtracks, convert video to music and sound effects automatically."
+  },
+  {
    "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
    "link": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d/",
    "source": "Latent Space",
@@ -3619,6 +4825,14 @@
    "category": "Tech",
    "date": "2026-10-15T10:00:00.000Z",
    "summary": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call."
+  },
+  {
+   "title": "v0.32.0rc2",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-15T09:50:46.000Z",
+   "summary": "[CI] Pin DeepSeek-V4.1-Flash-NVFP4 eval to its FP8-Engram revision (#…"
   },
   {
    "title": "Apertus 1.5 Release Notes",
@@ -3643,6 +4857,38 @@
    "category": "AI & ML",
    "date": "2026-10-15T00:00:00.000Z",
    "summary": ""
+  },
+  {
+   "title": "Weaviate security release - Medium severity fix for a cross-collection vector disclosure in nearObject (CVE pending assignment)",
+   "link": "https://weaviate.io/blog/weaviate-security-release-nearobject-2026",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-10-15T00:00:00.000Z",
+   "summary": "Weaviate v1.39.3 fixes a medium-severity authorization issue in the nearObject GraphQL operator."
+  },
+  {
+   "title": "Meta Muse Spark Open is live on Together AI",
+   "link": "https://www.together.ai/blog/meta-muse-spark-open",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-10-15T00:00:00.000Z",
+   "summary": "Meta Muse Spark Open, Meta's open-weight model for agentic coding, is live on Together AI with a 1M-token context window on serverless and dedicated infrastructure."
+  },
+  {
+   "title": "proto-v0.6.0",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-14T23:57:02.000Z",
+   "summary": "vllm-proto 0.6.0"
+  },
+  {
+   "title": "v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-14T23:29:34.000Z",
+   "summary": "Signed-off-by: jinzhen.ljz jinzhen.ljz@antgroup.com codex@openai.com mgoin64@gmail.com khluu000@gmail.com"
   },
   {
    "title": "AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own",
@@ -3757,6 +5003,14 @@
    "summary": ""
   },
   {
+   "title": "langchain==1.4.6",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.6",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-14T17:28:08.000Z",
+   "summary": "Changes since langchain==1.4.5 release(langchain): 1.4.6 (#41247) #41062)"
+  },
+  {
    "title": "Uber’s AI infra, from the inside",
    "link": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
    "source": "Pragmatic Engineer",
@@ -3779,6 +5033,14 @@
    "category": "Marketing",
    "date": "2026-10-14T16:30:04.000Z",
    "summary": "If you’ve opened Claude’s Customize settings and weren’t sure whether a task called for a Skill, a connector, or a Plugin, you’re not alone."
+  },
+  {
+   "title": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+   "link": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-14T16:10:45.000Z",
+   "summary": "AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes... AI agents offer remarkable productivity gains in complex chip design workflows, but their tendency to generate plausible yet incorrect artifacts makes reliability a m"
   },
   {
    "title": "Upcoming Speaking Engagements",
@@ -3821,6 +5083,14 @@
    "summary": "Building a slide template starts with three foundational choices — colours, fonts and layouts. Sumeet Gayathri Moghe covers the basics of color theory and how to build a reusable palette, the essentials of typography, including serif, sans-serif, handwritten and monospace fonts, plus the finer points of kerning and lea"
   },
   {
+   "title": "langchain-openai==1.7.2",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.7.2",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-14T13:51:18.000Z",
+   "summary": "Changes since langchain-openai==1.7.1 release(openai): 1.7.2 (#41245) #41121)"
+  },
+  {
    "title": "Apple HomeView, The New Apple TV, The App Story",
    "link": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
    "source": "Stratechery",
@@ -3829,12 +5099,36 @@
    "summary": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI."
   },
   {
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-14T02:00:14.000Z",
+   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+  },
+  {
+   "title": "PathSeer: Adaptive Filtered Vector Search",
+   "link": "https://weaviate.io/blog/pathseer-filtered-vector-search",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-10-14T00:00:00.000Z",
+   "summary": "Weaviate 1.40 adds PathSeer, a third HNSW filter strategy from a SIGMOD 2026 paper, contributed by the paper's first author. How it works, and how it compares to sweeping and ACORN."
+  },
+  {
    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
    "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
    "source": "AWS Architecture",
    "category": "Software Engineering",
    "date": "2026-10-13T21:30:10.000Z",
    "summary": "The next generation of AWS Resilience Hub adds three capabilities to keep workload scope and resilience requirements aligned with your running environment: Amazon EKS label support for service input sources, generative AI-powered Dependency Insights, and resilience policy sharing through AWS Organizations."
+  },
+  {
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-13T19:43:07.000Z",
+   "summary": ""
   },
   {
    "title": "Preparing for the 2026 US midterms",
@@ -3861,6 +5155,22 @@
    "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog."
   },
   {
+   "title": "Introducing Replit Solutions Partners",
+   "link": "https://replit.com/blog/introducing-replit-solutions-partners",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-13T17:25:04.000Z",
+   "summary": "When anyone in an organization can put AI to work on the problems they know best, the way the organization operates starts to change. Designers turn ideas into working software that engineers can review and build on. HR builds its own onboarding tools. Finance replaces messy spreadsheets with live, custom dashboards. S"
+  },
+  {
+   "title": "Build n8n workflows with Gemini 4 Argon: MCP, the Assistant, and Agents",
+   "link": "https://blog.n8n.io/build-n8n-workflows-with-gemini-4-argon-mcp-the-assistant-and-agents/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-13T16:09:03.000Z",
+   "summary": "Gemini 4 Argon just dropped, and n8n is one of the first companies to use and integrate the model. Check out how you can use it with your existing n8n workflows and how to build new ones. Here are the benchmarks Google published: Benchmarks reported by Google. Source: Gemini 4"
+  },
+  {
    "title": "Building resilient AI-powered software, and planning for when things go wrong",
    "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
    "source": "Pragmatic Engineer",
@@ -3869,12 +5179,36 @@
    "summary": "How to handle uncertainty with AI vendors and disaster recovery (DR) approaches to consider. An excerpt from the book Building Resilient Distributed Systems by Sam Newman"
   },
   {
+   "title": "Gemini 4 Argon for Robotics",
+   "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-13T16:01:58.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-13T16:01:52.000Z",
+   "summary": ""
+  },
+  {
    "title": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
    "link": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/",
    "source": "Meta Engineering",
    "category": "Software Engineering",
    "date": "2026-10-13T16:01:00.000Z",
    "summary": "Last year, we introduced GEM, the industry’s largest recommendation system (RecSys) foundation model. GEM established Meta’s first LLM-inspired paradigm for ads recommendation, driving major performance gains. Building on this foundation, our next goal is to further scale both compute and intelligence transfer with nex"
+  },
+  {
+   "title": "EU AI Act compliance for AI agents: a practical engineering guide",
+   "link": "https://arize.com/blog/eu-ai-act-compliance-ai-agents/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-13T16:00:15.000Z",
+   "summary": "Learn how agent traces, human oversight, production evaluations, and log retention support EU AI Act compliance with a practical credit-assistant example. The post EU AI Act compliance for AI agents: a practical engineering guide appeared first on Arize AI."
   },
   {
    "title": "Gemini 4 Argon: Built to solve your hardest problems",
@@ -3909,6 +5243,14 @@
    "summary": "Learn how VIPRE Security built an AI-powered email security solution on AWS to stop business email compromise. VIPRE Integrated Email Security uses machine learning and a serverless architecture on Amazon ECS, Amazon SQS, and Amazon S3 to detect and block sophisticated email impersonation in real time, without MX recor"
   },
   {
+   "title": "Does being rude to AI work? What 6 models revealed",
+   "link": "https://arize.com/blog/does-being-rude-to-ai-work/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-13T14:30:49.000Z",
+   "summary": "Does being rude to AI improve answers or lower costs? We tested six models to separate prompt tone from brevity instructions and examine what changes. The post Does being rude to AI work? What 6 models revealed appeared first on Arize AI."
+  },
+  {
    "title": "Bulk Executor for Amazon DynamoDB, Part 2: Lessons we learned the hard way",
    "link": "https://aws.amazon.com/blogs/architecture/bulk-executor-for-amazon-dynamodb-part-2-lessons-we-learned-the-hard-way/",
    "source": "AWS Architecture",
@@ -3933,6 +5275,14 @@
    "summary": "Naresh Jain compares coding agents building the same API service with and without a behavioral harness. A frontier model, GPT-6 Sol, passed every external evaluation either way. But a cost-optimized model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10 with the harness. While adding the harness incre"
   },
   {
+   "title": "Build a morning AI news brief with You.com, Jev, and n8n",
+   "link": "https://blog.n8n.io/spotlight-you-com/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-13T05:45:04.000Z",
+   "summary": "Every weekday at 8am, this workflow searches the day's AI news, scores every article for materiality at about $0.00004 apiece, and posts one cited brief per topic to Slack. Topics with no real news get no post."
+  },
+  {
    "title": "Open Thread 455",
    "link": "https://www.astralcodexten.com/p/open-thread-455",
    "source": "Astral Codex Ten",
@@ -3947,6 +5297,22 @@
    "category": "Data Science",
    "date": "2026-10-13T00:00:00.000Z",
    "summary": "An Apache Iceberg table looks like a regular table when you query it, but underneath it is a small tree of files: one JSON file at the top, a few layers of Avro files in the middle, and Parquet files at the bottom. When something is slow or looks wrong, it helps to know what is in that tree. DuckDB can read all three f"
+  },
+  {
+   "title": "Run AI agents safely with Ollama and Fly.io",
+   "link": "https://ollama.com/blog/fly-io-sprites",
+   "source": "Ollama",
+   "category": "AI & ML",
+   "date": "2026-10-13T00:00:00.000Z",
+   "summary": "AI agents can now use Ollama's cloud models safely inside Fly.io's cloud computers."
+  },
+  {
+   "title": "3.4.1",
+   "link": "https://github.com/stanfordnlp/dspy/releases/tag/3.4.1",
+   "source": "DSPy",
+   "category": "AI Agents",
+   "date": "2026-10-12T23:12:32.000Z",
+   "summary": "DSPy 3.4.1 DSPy 3.4.1 makes GEPA's structured InstructionProposer the default instruction proposer and lets dspy.RLM build DSPy sub-agents from inside its REPL. It also adds Python 3.15 support, fixes a 3.4.0 import crash, and includes streaming, adapter, and interpreter fixes. pip install --upgrade \"dspy==3.4.1\" Upgra"
   },
   {
    "title": "Announcing AWS Lambda Web Functions",
@@ -3965,12 +5331,28 @@
    "summary": "At the 2026 Open Compute Project Global Summit, Meta is sharing the next generation of open networking infrastructure, including: Our first liquid-cooled network rack (IcePack), and 102.4T switch platform (IceCube). Flattened Planar Fabric (FPF), a multiplane backend scale-out fabric that fundamentally changes how GPUs"
   },
   {
+   "title": "v0.32.0rc0: [HiSparse] Report host pool in KV cache capacity logs (#60285)",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-12T20:49:49.000Z",
+   "summary": "Signed-off-by: Matthew Bonanni mbonanni@redhat.com noreply@anthropic.com"
+  },
+  {
    "title": "Redesigning source control at Anthropic",
    "link": "https://www.anthropic.com/research/redesigning-source-control",
    "source": "Anthropic Engineering",
    "category": "Software Engineering",
    "date": "2026-10-12T18:30:00.000Z",
    "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months."
+  },
+  {
+   "title": "Together AI integration: Evaluate open models and optimize evaluation costs in Arize AX",
+   "link": "https://arize.com/blog/together-ai-integration-arize-ax/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-12T18:27:10.000Z",
+   "summary": "Evaluate open models with Together AI in Arize AX. Compare model performance, run LLM-as-a-Judge evaluations, and explore lower-cost alternatives. The post Together AI integration: Evaluate open models and optimize evaluation costs in Arize AX appeared first on Arize AI."
   },
   {
    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
@@ -3997,6 +5379,22 @@
    "summary": "CVE-2026-105445: Docker Hub account conversion could re-assign personal access tokens to a new owner. Read what happened, who was affected, and the fix."
   },
   {
+   "title": "Simulating student learning for better AI tutoring",
+   "link": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-12T16:00:00.000Z",
+   "summary": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tut"
+  },
+  {
+   "title": "11 Best DevOps Automation Tools for Engineering Teams",
+   "link": "https://blog.n8n.io/devops-automation-tools/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-12T15:42:14.000Z",
+   "summary": "Compare 11 DevOps automation tools for modern engineering teams. Learn how to choose the right platforms for each layer of your stack."
+  },
+  {
    "title": "How to Build Models Without Language, with Logical Intelligence",
    "link": "https://blog.bytebytego.com/p/how-to-build-models-without-language",
    "source": "ByteByteGo",
@@ -4011,6 +5409,54 @@
    "category": "Software Engineering",
    "date": "2026-10-12T14:34:57.000Z",
    "summary": "This post presents a reference architecture that turns public sequencing data into plain-language answers about antimicrobial resistance (AMR) genes. It pairs AWS HealthOmics for managed genomics processing with a grounded Amazon Bedrock AgentCore agent, so researchers can ask questions without writing bioinformatics c"
+  },
+  {
+   "title": "langchain-openai==1.7.1",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.7.1",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-12T14:33:11.000Z",
+   "summary": "Changes since langchain-openai==1.7.0 release(openai): 1.7.1 (#41222) #41180)"
+  },
+  {
+   "title": "How to test agent tool descriptions with Harbor and Phoenix",
+   "link": "https://arize.com/blog/how-to-test-agent-tool-descriptions-with-harbor-and-phoenix/",
+   "source": "Arize AI",
+   "category": "AI & ML",
+   "date": "2026-10-12T14:30:47.000Z",
+   "summary": "Build a reproducible benchmark, compare tool use across agents, and test whether a description change reduces unnecessary work while preserving outcomes. The post How to test agent tool descriptions with Harbor and Phoenix appeared first on Arize AI."
+  },
+  {
+   "title": "langchain-core==1.6.10",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.6.10",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-12T14:14:05.000Z",
+   "summary": "Changes since langchain-core==1.6.9 release(core): 1.6.10 (#41220) #41180)"
+  },
+  {
+   "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+   "link": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-10-12T12:30:39.000Z",
+   "summary": "Will we give robots the moon?"
+  },
+  {
+   "title": "Introducing Nexus EDGE: help that does the work",
+   "link": "https://yellow.ai/blog/introducing-nexus-edge-help-that-does-the-work/",
+   "source": "Yellow.ai",
+   "category": "India",
+   "date": "2026-10-12T10:46:34.000Z",
+   "summary": "The agentic interface that lives on every desktop, and finally crosses the line from telling your people what to do, to doing it. Something has always been a little off about “employee help,” and all of us have felt it. You need something. The VPN won’t connect. The new laptop won’t see the printer. The […] The post In"
+  },
+  {
+   "title": "Universal I/O in Qdrant",
+   "link": "https://qdrant.tech/articles/universal-io/",
+   "source": "Qdrant",
+   "category": "AI & ML",
+   "date": "2026-10-12T00:00:00.000Z",
+   "summary": "Most software is built on an unspoken assumption: data lives on disk, and is read from and written to it. The assumption usually holds, until a new way (or need) of storing data appears. For Qdrant, that happened with serverless mode, where the data sits in object storage instead of on a disk next to the process. This "
   },
   {
    "title": "Strengthening our defenses against distillation attacks",
@@ -4035,6 +5481,14 @@
    "category": "AI Agents",
    "date": "2026-10-09T21:33:47.000Z",
    "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubted it."
+  },
+  {
+   "title": "proto-v0.5.0",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.5.0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-09T03:11:40.000Z",
+   "summary": "Release vllm-proto 0.5.0"
   },
   {
    "title": "Agent Mode in the DuckDB CLI",
@@ -4077,6 +5531,14 @@
    "summary": "In this article, we’ll learn some key strategies that can help a developer make the right boundary-related decisions for the systems they are working on."
   },
   {
+   "title": "IT Automation Software: 6 Tools for Different IT Jobs",
+   "link": "https://blog.n8n.io/it-automation-software/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-08T13:47:20.000Z",
+   "summary": "The best IT automation software depends on what you’re automating. Here’s where six popular tools fit and what each brings to your IT stack."
+  },
+  {
    "title": "Introducing: Spotify Technology. Proven at Spotify, now yours.",
    "link": "https://engineering.atspotify.com/2026/10/introducing-spotify-technology-proven-at-spotify-now-yours/",
    "source": "Spotify Engineering",
@@ -4085,12 +5547,28 @@
    "summary": "Introducing Spotify Technology. The post Introducing: Spotify Technology. Proven at Spotify, now yours. appeared first on Spotify Engineering."
   },
   {
+   "title": "miniCOIL EN-ES: Sparse Neural Retrieval Across the Language Barrier",
+   "link": "https://qdrant.tech/articles/minicoil-en-es/",
+   "source": "Qdrant",
+   "category": "AI & ML",
+   "date": "2026-10-08T07:00:00.000Z",
+   "summary": "Sparse neural retrieval finally started getting more and more attention (SPARSEUP, MILCO, sparse encoders in Sentence Transformers…). Well, amazing, we like attention! Our miniCOIL v1 sparse neural retriever article ended with a promise: to keep working on this sparse neural retriever in-depth, improving the model’s qu"
+  },
+  {
    "title": "Zerodha monthly update: September 2026",
    "link": "https://zerodha.com/z-connect/business-updates/zerodha-monthly-update-september-2026",
    "source": "Zerodha Z-Connect",
    "category": "Finance",
    "date": "2026-10-08T06:23:25.000Z",
    "summary": "We do a lot at Zerodha, but most of it never reaches your inbox, thanks to our strict no-spam policy. This is our monthly roundup of product updates, new features, and everything else happening across Zerodha. Here’s what happened in September 2026. Trade From Charts is now on the Kite app We’ve brought Trade From […] "
+  },
+  {
+   "title": "Persistent memory for Claude Code with Weaviate Engram",
+   "link": "https://weaviate.io/blog/engram-for-claude-code",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-10-08T00:00:00.000Z",
+   "summary": "The Engram plugin gives Claude Code persistent, long-term memory, so it remembers what you've done and brings it back when it matters."
   },
   {
    "title": "Top Forecasters On The Plague",
@@ -4149,6 +5627,14 @@
    "summary": "Sam Newman joins me to discuss when to use microservices, how to build resilient distributed systems, and how AI is changing software development."
   },
   {
+   "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+   "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-07T16:00:00.000Z",
+   "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them. The post Agent Lightning v1.0: A 3,500-Line Lightweigh"
+  },
+  {
    "title": "How Netflix Taught an LLM to Recommend Movies So That You Keep Watching",
    "link": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer",
    "source": "ByteByteGo",
@@ -4181,12 +5667,36 @@
    "summary": "..."
   },
   {
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-06T19:57:04.000Z",
+   "summary": ""
+  },
+  {
+   "title": "v0.31.1rc0: [Metrics] Expose cached prompt tokens by cache tier (#56318)",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.31.1rc0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-06T18:52:05.000Z",
+   "summary": "Signed-off-by: Cam Quilici cjquilici@gmail.com cameron@semianalysis.com cameron@semianalysis.com nickhill123@gmail.com yifanqiao@inferact.ai"
+  },
+  {
    "title": "The state of the tech industry in 2026",
    "link": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
    "source": "Pragmatic Engineer",
    "category": "Software Engineering",
    "date": "2026-10-06T16:25:03.000Z",
    "summary": "A look into what has changed, what’s still the same – and what’s broken – in the tech industry. The full video and the summary of my keynote at LDX3 New York"
+  },
+  {
+   "title": "What AI gets wrong and what failure teaches us",
+   "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-06T16:19:06.000Z",
+   "summary": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity. The post What AI gets wrong and what failure teaches us"
   },
   {
    "title": "All the numbers: Amazon Prime Day 2026 powered by AWS",
@@ -4221,6 +5731,22 @@
    "summary": "Open-weights, ideology, and acknowledging trade-offs."
   },
   {
+   "title": "v0.31.0",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.31.0",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-06T06:49:35.000Z",
+   "summary": "v0.31.0 Highlights This release features 717 commits from 307 contributors (96 new)! DeepSeek-V4.1-Flash performance: FlashMLA mega attention with the V4.1 NVFP4 compressed KV cache is now the SM100 default (#56935); DeepGEMM sparse MQA logits for the indexer (#56254) and Mega-Gate fusing the gate GEMM with expert sele"
+  },
+  {
+   "title": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
+   "link": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-10-06T00:00:00.000Z",
+   "summary": "Enterprises can now run open models at production scale on a dedicated B300 inference cluster, built by Together AI, IBM Cloud, and NVIDIA"
+  },
+  {
    "title": "Expanding the Cyber Verification Program",
    "link": "https://www.anthropic.com/news/cyber-verification-program",
    "source": "Anthropic News",
@@ -4253,6 +5779,14 @@
    "summary": "In this article, we’ll look at why LLMs have this bias against middle information."
   },
   {
+   "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+   "link": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-10-05T12:32:30.000Z",
+   "summary": "Who chooses what AI gets to do?"
+  },
+  {
    "title": "Open Thread 454",
    "link": "https://www.astralcodexten.com/p/open-thread-454",
    "source": "Astral Codex Ten",
@@ -4275,6 +5809,14 @@
    "category": "Data Science",
    "date": "2026-10-05T00:00:00.000Z",
    "summary": "Guest blog post by a DuckDB user. The Analytics Screen Problem At the company where I work, we store vulnerability data for our clients as a collection of documents in MongoDB. Initially, our analytics screen performed well, but as our data volume increased, response times began to slow. For many months we did a lot of"
+  },
+  {
+   "title": "Together Link: open models in the harness you already use. Start with one command today.",
+   "link": "https://www.together.ai/blog/together-link-frontier-quality-open-models-in-the-harness-you-already-use",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-10-05T00:00:00.000Z",
+   "summary": "Together Link brings frontier open models like GLM 5.3 and Kimi K3 into the coding agent your team already uses, cutting model spend by over 50%."
   },
   {
    "title": "Last 3 days: AI Evals, October cohort",
@@ -4373,12 +5915,44 @@
    "summary": "Datalex, a leader in airline ecommerce, partnered with AWS on a three-day Experience-Based Acceleration (EBA) workshop to prove modernization feasibility. Learn how they migrated a core reservation component from EJB/Java 8 to Spring Boot/Java 21, built a secure CI/CD pipeline, added observability, and integrated agent"
   },
   {
+   "title": "How API Contract Testing Prevents Production Failures",
+   "link": "https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-01T15:36:51.000Z",
+   "summary": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run."
+  },
+  {
+   "title": "iPaaS vs. API Management: What Engineers Choose When Both Fall Short",
+   "link": "https://blog.n8n.io/ipaas-vs-api-management/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-01T15:07:32.000Z",
+   "summary": "Compare iPaaS versus API management tools. See why engineering teams that need execution control, self-hosting, and code-level extensibility reach for n8n."
+  },
+  {
+   "title": "When to Use an LLM Knowledge Graph or a Vector RAG",
+   "link": "https://blog.n8n.io/llm-knowledge-graph/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-01T15:03:08.000Z",
+   "summary": "An LLM knowledge graph and vector RAG ground models differently. See when to use each, how to build a knowledge graph from text, and how to run both smoothly."
+  },
+  {
    "title": "View option strategy charts on Sensibull",
    "link": "https://zerodha.com/z-connect/business-updates/view-option-strategy-charts-on-sensibull",
    "source": "Zerodha Z-Connect",
    "category": "Finance",
    "date": "2026-10-01T06:55:42.000Z",
    "summary": "When you are trading straddles, strangles, or other multi-leg option strategies, it becomes difficult to see how the entire strategy is performing if you plot each leg separately. For example, in a straddle, the call premium might go down while the put premium goes up. If you look at each of them individually, you will"
+  },
+  {
+   "title": "Weaviate security release - High severity fix for credential disclosure in the Google modules",
+   "link": "https://weaviate.io/blog/weaviate-security-release-googlemodules-2026",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-10-01T00:00:00.000Z",
+   "summary": "Weaviate v1.39.3 fixes a high-severity credential disclosure issue in the Google modules."
   },
   {
    "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
@@ -4403,6 +5977,14 @@
    "category": "Software Engineering",
    "date": "2026-09-30T20:03:34.000Z",
    "summary": "Amazon S3 Vectors now supports metadata pre filtering, delivering up to 5x higher recall on filtered searches. Filters evaluate before similarity search so scoped queries return more relevant results. Ideal for RAG, agentic apps, and document search."
+  },
+  {
+   "title": "Gemini 4 Argon: our next era of frontier intelligence",
+   "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-30T20:01:45.000Z",
+   "summary": ""
   },
   {
    "title": "Running multi-day AZ evacuation drills with ARC Zonal Shift",
@@ -4453,6 +6035,22 @@
    "summary": "Cockroach Labs co-founder Peter Mattis discusses building reliable distributed systems and how AI helps him write more code without sacrificing quality."
   },
   {
+   "title": "Forecasting space weather risks on power grids",
+   "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-09-30T16:00:00.000Z",
+   "summary": "Extreme space-weather events can damage power systems on Earth and degrade GPS accuracy and satellite operations. A new machine learning system can predict where damage is likely to occur 30-60 minutes before a storm arrives. The post Forecasting space weather risks on power grids appeared first on Microsoft Research."
+  },
+  {
+   "title": "Introducing SynthID Bio",
+   "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-30T15:03:07.000Z",
+   "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
+  },
+  {
    "title": "Principles for effective slides",
    "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
    "source": "Martin Fowler",
@@ -4469,12 +6067,44 @@
    "summary": "Anthropic released new eval tooling for Claude Code. Their claude-api plugin now includes a new build_eval and hill-climb command that helps you build evals, check the graders, and improve your application against them. I usually don’t review eval tools because software changes so often that reviews have a short shelf "
   },
   {
+   "title": "Why retrieval quality is becoming the defining challenge in AI agent architecture",
+   "link": "https://blog.vespa.ai/retrieval-ai-agent-architecture/",
+   "source": "Vespa.ai",
+   "category": "AI & ML",
+   "date": "2026-09-30T00:00:00.000Z",
+   "summary": "Why retrieval quality is the ultimate bottleneck in AI agents—and how fixing context-building solves hidden LLM generation failures."
+  },
+  {
+   "title": "Jev vs. LLM-as-a-Judge for AI Evals",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/jev-model-vs-llm-as-a-judge/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-09-29T22:11:53.000Z",
+   "summary": "A model that answers yes/no questions instead of writing text came out 3.5× cheaper and 3.8× faster than our gpt-4o-mini judge on 1,000 real production turns, and agreed with it on 897 of them. Here’s the test that showed it, what the 103 disagreements have in common, and how to run it yourself the next […] The post Je"
+  },
+  {
+   "title": "Free the models: Harness design at the frontier",
+   "link": "https://replit.com/blog/free-the-models",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-09-29T16:00:00.000Z",
+   "summary": "Model routers are everywhere right now, but they have a fundamental limitation. No matter if based on advanced heuristics or a small model that reads each turn and picks which LLM to use, a router will always be less capable than the model it’s choosing for. Replit Agent lets the model decide instead. The main agent, o"
+  },
+  {
    "title": "Why has Shopify dropped React Native?",
    "link": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
    "source": "Pragmatic Engineer",
    "category": "Software Engineering",
    "date": "2026-09-29T15:53:19.000Z",
    "summary": "It’s only been a year since the e-commerce platform declared it was very happy with React Native, but now Shopify is dumping it – and the reason, unsurprisingly, is AI"
+  },
+  {
+   "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+   "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-09-29T14:00:02.000Z",
+   "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows "
   },
   {
    "title": "Bliki: Sensible Default",
@@ -4501,12 +6131,36 @@
    "summary": "A Visual Guide to RNNs, CNNs, Transformers, and Calibration, with Hands-On Experiments on Accuracy and Efficiency"
   },
   {
+   "title": "D-RAC: Agentic-Quality Retrieval for Enterprise Documents, at a Fraction of the Cost",
+   "link": "https://yellow.ai/blog/d-rac-retrieval-aware-chunking/",
+   "source": "Yellow.ai",
+   "category": "India",
+   "date": "2026-09-29T08:09:25.000Z",
+   "summary": "D-RAC is a research effort from the team at Yellow.ai, and we hope it gives the field a foundation for cost-efficient, retrieval-aware document ingestion in production AI systems. Every enterprise AI agent is only as good as the knowledge it can find. When a customer asks about a policy term buried in a product brochur"
+  },
+  {
    "title": "Jev and DuckDB: Plain-English Conditions in SQL",
    "link": "https://duckdb.org/2026/09/29/jev.html",
    "source": "DuckDB Blog",
    "category": "Data Science",
    "date": "2026-09-29T00:00:00.000Z",
    "summary": "Say you have a Parquet file of 50,000 support tickets and want to know which customers are angry. A LIKE pattern won't find that. The usual options are to label data and train a classifier, or to send each row to a chat LLM and parse the text it returns. The first takes work up front. The second is slow and costs more "
+  },
+  {
+   "title": "Ollama now supports Jev-style decision models",
+   "link": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+   "source": "Ollama",
+   "category": "AI & ML",
+   "date": "2026-09-29T00:00:00.000Z",
+   "summary": "Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option."
+  },
+  {
+   "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+   "link": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-09-28T21:00:00.000Z",
+   "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value. The post One year in: How Microsoft Research Asia – Singapore is advancing res"
   },
   {
    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -4523,6 +6177,14 @@
    "category": "Software Engineering",
    "date": "2026-09-28T16:14:54.000Z",
    "summary": "If there’s one theme that defined last week, it’s choice. The frontier models keep arriving, and the interesting question is no longer just “how smart is it?” but “which model fits this step, at this cost, at this latency?” That’s exactly what landed on Amazon Bedrock over the past few days: GPT-6 Sol and GPT-6 […]"
+  },
+  {
+   "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+   "link": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-09-28T12:32:03.000Z",
+   "summary": "Where do you exceed the capabilities of an LLM?"
   },
   {
    "title": "Notes on NVIDIA Nemotron",
@@ -4557,12 +6219,36 @@
    "summary": "Wow, how about that stock market? It’s a phrase we keep having to dust off and use again, as the years go by and the market keeps surprising us. When it crashes, some of us worry because we see our retirement stash shrinking. But even when it rises to record levels and then to super-duper-crazy […]"
   },
   {
+   "title": "Putting business analysis in everyone’s hands",
+   "link": "https://replit.com/blog/replit-acquires-atta",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-09-25T15:12:00.000Z",
+   "summary": "Today, we’re announcing that Replit has acquired San Francisco-based Atta, bringing its approach to business analysis and high-quality, purpose-built charting into Replit. Our mission is to make useful intelligence accessible to everyone. For businesses, that means giving the people closest to a problem the ability to "
+  },
+  {
+   "title": "3.4.0",
+   "link": "https://github.com/stanfordnlp/dspy/releases/tag/3.4.0",
+   "source": "DSPy",
+   "category": "AI Agents",
+   "date": "2026-09-25T04:06:22.000Z",
+   "summary": "DSPy 3.4.0 DSPy 3.4 introduces Jev integration through TypeSafe, with three experimental decision types—Noul, Choice, and Score—that bring probability evidence into ordinary DSPy signatures. ReAnchor calibrates those decisions against your program's metric. This release also introduces native LM engines, a local CPytho"
+  },
+  {
    "title": "Introducing enhanced custom event buses in Amazon EventBridge for enterprise-scale event-driven applications",
    "link": "https://aws.amazon.com/blogs/aws/introducing-enhanced-custom-event-buses-in-amazon-eventbridge-for-enterprise-scale-event-driven-applications/",
    "source": "AWS News",
    "category": "Software Engineering",
    "date": "2026-09-24T20:58:46.000Z",
    "summary": "Amazon EventBridge announces an enhanced custom event bus for organizations scaling event-driven applications across teams and accounts. Deploy a single event bus shared across all AWS accounts in your organization, with ordering guarantees, a simplified Subscriber resource, and improved economics at scale."
+  },
+  {
+   "title": "Comet Extends Agent Observability and Evaluation to Nebius AI Cloud",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/opik-nebius-partnership/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-09-24T19:31:58.000Z",
+   "summary": "Comet’s Opik platform is now listed in Nebius AI Cloud Applications, bringing agent observability, evaluation, and the full Comet AI development platform to one of the most powerful AI cloud platforms available today. It is the first step in a broader collaboration between Opik and Nebius to bring observability closer "
   },
   {
    "title": "Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote",
@@ -4581,6 +6267,14 @@
    "summary": "37signals – the creator of Ruby on Rails (RoR) – moves over to agents generating nearly all its code. Also: Amazon and Meta struggle to hire engineers, code reviews will probably also go away and more"
   },
   {
+   "title": "Introducing Gemini 3.8 Live with Live Avatar",
+   "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-24T16:20:39.000Z",
+   "summary": ""
+  },
+  {
    "title": "From Dockerfile to Kit: the Docker Sandboxes Kit Specification",
    "link": "https://www.docker.com/blog/docker-sandbox-kit-spec/",
    "source": "Docker",
@@ -4595,6 +6289,14 @@
    "category": "Software Engineering",
    "date": "2026-09-24T15:35:00.000Z",
    "summary": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast. Cyber attacks have already cost millions of dollars in los"
+  },
+  {
+   "title": "What’s new in Microsoft Agent Framework: Interactive experiences, memory, and resilient execution",
+   "link": "https://devblogs.microsoft.com/agent-framework/interactive-experiences-memory-and-resilient-execution/",
+   "source": "Semantic Kernel",
+   "category": "AI Agents",
+   "date": "2026-09-24T15:00:14.000Z",
+   "summary": "An agent that answers a question is a starting point. An agent that completes useful work needs more: an interface users can interact with, memory beyond the current conversation, an appropriate environment for executing code, and a way to recover when work is interrupted. Recent Microsoft Agent Framework updates addre"
   },
   {
    "title": "Healthy Feedback",
@@ -4629,6 +6331,30 @@
    "summary": "Maggie Appleton on what engineers can learn from designers, working with AI agents, and why human judgment still matters."
   },
   {
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-23T16:00:57.000Z",
+   "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
+  },
+  {
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-23T15:25:14.000Z",
+   "summary": ""
+  },
+  {
+   "title": "How to train your own Jev for $17",
+   "link": "https://www.together.ai/blog/how-to-train-your-own-jev",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-23T00:00:00.000Z",
+   "summary": "We just launched our own Jev-like classifier, together/Tev1-4B-experimental, on top of Qwen3.5 4B on Together’s serverless platform. In this blog post we’ll show you how to fine-tune your own version!"
+  },
+  {
    "title": "How will AI change operating systems? Part 2: Windows",
    "link": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
    "source": "Pragmatic Engineer",
@@ -4645,6 +6371,30 @@
    "summary": "Podcast #19"
   },
   {
+   "title": "Foundry hosted agent isolation with Microsoft Agent Framework",
+   "link": "https://devblogs.microsoft.com/agent-framework/foundry-hosted-agent-isolation-with-microsoft-agent-framework/",
+   "source": "Semantic Kernel",
+   "category": "AI Agents",
+   "date": "2026-09-22T10:14:52.000Z",
+   "summary": "Foundry hosted agent isolation exposes two independent controls. User isolation identifies whose data may be used. At the same time, Foundry hosted session isolation identifies where code and files continue to live. For each control, Foundry can resolve the value or the application can provide it. Therefore, the availa"
+  },
+  {
+   "title": "Agent Memory with Engram: A Practical Guide",
+   "link": "https://weaviate.io/blog/engram-memory-practical-guide",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-09-22T00:00:00.000Z",
+   "summary": "Learn how to use Engram effectively, from writing topic descriptions that control extraction to choosing bounded topics and scopes, selecting a retrieval mode, and placing memories in your prompt without hurting prompt-cache efficiency."
+  },
+  {
+   "title": "Canary rollouts: upgrade models in production without downtime",
+   "link": "https://www.together.ai/blog/canary-rollouts-upgrade-models-in-production-without-downtime",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-22T00:00:00.000Z",
+   "summary": "A hard model swap exposes every user at once, and rolling back means cold-starting the old deployment under pressure. Here's how staged traffic ramps, metric gates, and automatic rollback work on dedicated inference."
+  },
+  {
    "title": "Helix: The internal tool powering our Shopify app's native migration",
    "link": "https://shopify.engineering/helix",
    "source": "Shopify Engineering",
@@ -4653,12 +6403,44 @@
    "summary": "We built Helix to help LLMs rebuild the Shopify app in Swift and Kotlin, using small checkpoints and strict quality gates to keep the code shippable."
   },
   {
+   "title": "Capturing a 400-Turn Claude Code Session in a Single Image",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/claude-code-session-mapping/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-09-21T17:34:31.000Z",
+   "summary": "We ran a small model over thousands of Claude Code session and discovered how people really use coding agents. Comet Cost Intelligence is a tool for optimizing engineering token spend on Claude Code and Codex. While working on it we started with common issues: default models set too high, skills and MCP servers loaded "
+  },
+  {
+   "title": "v0.14.25",
+   "link": "https://github.com/run-llama/llama_index/releases/tag/v0.14.25",
+   "source": "LlamaIndex",
+   "category": "AI Agents",
+   "date": "2026-09-21T16:22:27.000Z",
+   "summary": "Release Notes [2026-09-21] llama-index-agent-agentmesh [0.3.0] fix: resolve a ton of security alerts (#22855) llama-index-agent-azure [0.4.0] fix: resolve a ton of security alerts (#22855) llama-index-callbacks-argilla [0.6.0] fix: resolve a ton of security alerts (#22855) llama-index-callbacks-arize-phoenix [0.8.0] fi"
+  },
+  {
+   "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+   "link": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-09-21T12:31:04.000Z",
+   "summary": "Is the wall AI is hitting in the room with us right now?"
+  },
+  {
    "title": "The current balance of power in open models",
    "link": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
    "source": "Interconnects",
    "category": "AI Agents",
    "date": "2026-09-21T11:56:56.000Z",
    "summary": "The expanded form of a testimony I prepared for Congress."
+  },
+  {
+   "title": "The autonomous codebase",
+   "link": "https://sourcegraph.com/blog/the-autonomous-codebase",
+   "source": "Sourcegraph",
+   "category": "Software Engineering",
+   "date": "2026-09-21T00:00:00.000Z",
+   "summary": "What's left for us to build?"
   },
   {
    "title": "Why I still haven’t bought into true RSI",
@@ -4693,6 +6475,14 @@
    "summary": "This document curates the most common questions Shreya and I received while teaching 5,000+ engineers and PMs AI Evals. Warning: These are sharp opinions about what works in most cases. They are not universal truths. Use your judgment. How to use this FAQ Browse the questions that interest you, or choose a guide below "
   },
   {
+   "title": "How a global fintech scaled coding agent traffic with Dedicated Model Inference",
+   "link": "https://www.together.ai/blog/global-fintech-scales-coding-agent-traffic-with-dedicated-model-inference",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-18T00:00:00.000Z",
+   "summary": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing."
+  },
+  {
    "title": "Making global data easier to explore",
    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
    "source": "Google AI",
@@ -4717,6 +6507,14 @@
    "summary": "I have a lot of mixed feelings about AI and LLM technology. I’m fascinated by its effect on our profession, excited by the potential gains in productivity - and thus the products we could rapidly build. On the other hand, I’m fearful of the damage AI might cause: agent swarms taking over our virtual and physical infras"
   },
   {
+   "title": "4-bit Rotational Quantization",
+   "link": "https://weaviate.io/blog/4-bit-rotational-quantization",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-09-17T00:00:00.000Z",
+   "summary": "4-bit Rotational Quantization in Weaviate 1.39: the SIMD performance work, a centered tier, scaling analysis and a TurboQuant comparison."
+  },
+  {
    "title": "Fragments: September 16",
    "link": "https://martinfowler.com/fragments/2026-09-16.html",
    "source": "Martin Fowler",
@@ -4733,6 +6531,14 @@
    "summary": "Quality and reliability have always been a point of pride for Spotify. We run an extraordinarily complex... The post AI Changed How Spotify Builds. What We Learned (and Fixed) About Quality at Higher Velocity appeared first on Spotify Engineering."
   },
   {
+   "title": "From Specialist Agents to Distributed Skills over MCP",
+   "link": "https://devblogs.microsoft.com/agent-framework/from-specialist-agents-to-distributed-skills-over-mcp/",
+   "source": "Semantic Kernel",
+   "category": "AI Agents",
+   "date": "2026-09-16T18:59:47.000Z",
+   "summary": "Keep your domain services distributed. Move the specialist’s instructions, not another model, into the orchestrator. A multi-agent system often starts with a straightforward design: one agent understands the user’s request, delegates to specialist agents, and combines their answers. That was the starting point for my s"
+  },
+  {
    "title": "Introducing the Life Sciences Verification Program",
    "link": "https://www.anthropic.com/news/life-sciences-verification-program",
    "source": "Anthropic News",
@@ -4741,12 +6547,44 @@
    "summary": ""
   },
   {
+   "title": "Prompt Management for AI Agents: The Best Tools Compared (2026)",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/prompt-management-tools/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-09-16T17:00:22.000Z",
+   "summary": "Despite how often prompts change once an agent is live, most teams don’t have a real prompt management process. Somewhere on a shared drive is prompt_final_v2.txt, and somewhere else is a version someone pasted into a Slack DM that is two edits newer. Neither one matches what runs in production, and nobody can say for "
+  },
+  {
    "title": "tomato risotto with frizzled red onions",
    "link": "https://smittenkitchen.com/2026/09/tomato-risotto-with-frizzled-red-onions/",
    "source": "Smitten Kitchen",
    "category": "Lifestyle",
    "date": "2026-09-16T15:28:36.000Z",
    "summary": "sit down. You’re among friends. Read more »"
+  },
+  {
+   "title": "Migrating from closed to open source models, Together",
+   "link": "https://www.together.ai/blog/migrating-from-closed-to-open-source-models",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-16T00:00:00.000Z",
+   "summary": "Moving from closed to open source models can take weeks, not years. A five-stage playbook: discover, evaluate, adapt, decide, and production."
+  },
+  {
+   "title": "Coding agents usually can't price on outcomes. Ours can.",
+   "link": "https://sourcegraph.com/blog/agentic-batch-changes-pricing",
+   "source": "Sourcegraph",
+   "category": "Software Engineering",
+   "date": "2026-09-16T00:00:00.000Z",
+   "summary": "Agentic Batch Changes is now available, and we price it on outcomes: you only pay for changesets that merge."
+  },
+  {
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-15T17:05:57.000Z",
+   "summary": ""
   },
   {
    "title": "AI for Societal Impact",
@@ -4805,12 +6643,36 @@
    "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era."
   },
   {
+   "title": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
+   "link": "https://sourcegraph.com/blog/introducing-agentic-batch-changes",
+   "source": "Sourcegraph",
+   "category": "Software Engineering",
+   "date": "2026-09-14T00:00:00.000Z",
+   "summary": "Codebase-wide changes across hundreds or thousands of repositories can now be run by one engineer."
+  },
+  {
    "title": "How to lose your mind",
    "link": "https://benn.substack.com/p/how-to-lose-your-mind",
    "source": "Benn Stancil",
    "category": "Data Science",
    "date": "2026-09-13T00:23:58.000Z",
    "summary": "A long programming note."
+  },
+  {
+   "title": "Deploy, Discover, Inspect, Observe: A Summer Spent Making a Public Vespa MCP Server",
+   "link": "https://blog.vespa.ai/public-mcp-interns/",
+   "source": "Vespa.ai",
+   "category": "AI & ML",
+   "date": "2026-09-13T00:00:00.000Z",
+   "summary": "We built a standalone Vespa Cloud MCP server as a summer interns project"
+  },
+  {
+   "title": "3.4.0b1",
+   "link": "https://github.com/stanfordnlp/dspy/releases/tag/3.4.0b1",
+   "source": "DSPy",
+   "category": "AI Agents",
+   "date": "2026-09-11T22:24:51.000Z",
+   "summary": "DSPy 3.4.0 Beta 1 DSPy 3.4.0b1 is the first beta of 3.4. It moves language-model execution to a shared engine interface, adds a local CPython interpreter for trusted code, and brings async execution to ReActV2. It also adds custom Flex code proposals in GEPA and fixes evaluation, streaming, and demonstration-sampling b"
   },
   {
    "title": "Open-Source AI & Open Models Reading List",
@@ -4821,12 +6683,36 @@
    "summary": "How to get up to speed on open models and their implications."
   },
   {
+   "title": "The Case for Context Engineering in AI Agents: What Your AI Agent Needs to Know Before It Answers",
+   "link": "https://yellow.ai/blog/why-context-is-a-deciding-factor-for-enterprise-ai-agents/",
+   "source": "Yellow.ai",
+   "category": "India",
+   "date": "2026-09-11T11:13:27.000Z",
+   "summary": "Why does context matter for AI agents? An AI agent can only answer correctly if it knows who is asking, what has already happened, and what the enterprise’s systems currently say. Context engineering for AI agents is the work of supplying that knowledge at the moment of the answer. Without it, even the best model […] T"
+  },
+  {
+   "title": "Together AI expands fine-tuning service with more models, live metrics, and finer controls",
+   "link": "https://www.together.ai/blog/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-11T00:00:00.000Z",
+   "summary": "Together Fine-Tuning adds the latest open-weight models, live experiment tracking, Expert LoRA, early stopping, tokenized dataset previews, pre-flight validation, and lower training prices on selected models."
+  },
+  {
    "title": "One resignation turned the embers of AI fear into a wildfire",
    "link": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
    "source": "Interconnects",
    "category": "AI Agents",
    "date": "2026-09-10T15:28:52.000Z",
    "summary": "Some quick notes on a truly weird week."
+  },
+  {
+   "title": "Databricks Integration is Now Available with Native Lakebase Support",
+   "link": "https://replit.com/blog/databricks2026",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-09-10T14:00:00.000Z",
+   "summary": "The Replit | Databricks integration gives enterprise teams a faster path to utilizing governed data for production-ready applications. Today, we’re excited to announce the integration is generally available alongside a new capability: native Databricks Lakebase support. This builds on the foundation introduced from our"
   },
   {
    "title": "Migrating Shop app from React Native to native",
@@ -4843,6 +6729,30 @@
    "category": "Software Engineering",
    "date": "2026-09-10T12:25:28.000Z",
    "summary": "Coding agents changed what it costs to build mobile apps twice. Here’s why Shopify is moving from React Native back to Swift and Kotlin."
+  },
+  {
+   "title": "v1.17.1 - Bug Fixes and Improvements",
+   "link": "https://github.com/langgenius/dify/releases/tag/1.17.1",
+   "source": "Dify",
+   "category": "AI Agents",
+   "date": "2026-09-10T10:17:09.000Z",
+   "summary": "Warning Self-hosted deployments using the bundled Weaviate must complete a manual, staged upgrade before starting 1.17.1. The bundled Weaviate server moves from 1.27.0 to 1.39.2 — 12 minor versions — and skipping minors is unsupported. Pulling and restarting can silently and permanently break vector search. See Upgrade"
+  },
+  {
+   "title": "Introducing preemptible compute: the same compute, half the price",
+   "link": "https://www.together.ai/blog/introducing-preemptible-compute-the-same-compute-half-the-price",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-10T00:00:00.000Z",
+   "summary": "Together GPU Clusters now supports preemptible compute: the same GPU capacity at a flat 50% of the on-demand rate, with a five-minute drain window."
+  },
+  {
+   "title": "To Infinity and Beyond: ThunderKittens Now on NVIDIA Vera Rubin NVL72!",
+   "link": "https://www.together.ai/blog/to-infinity-and-beyond-thunderkittens-now-on-nvidia-vera-rubin-nvl72",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-10T00:00:00.000Z",
+   "summary": "We ported ThunderKittens to NVIDIA's Vera Rubin NVL72 and rebuilt our NVFP4 GEMM around the new hardware, taking it from 42% of roofline to over 22 PFLOPS — competitive with cuBLAS and CuTe DSL. Here is what changed in the ISA and how we used it."
   },
   {
    "title": "Social Media Engagement: summer 2026",
@@ -4869,6 +6779,30 @@
    "summary": "We’re <5 years into a compounding revolution which could take a century, and how the AI industry should manage this."
   },
   {
+   "title": "HFresh: Memory-Efficient Vector Search",
+   "link": "https://weaviate.io/blog/hfresh",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-09-09T00:00:00.000Z",
+   "summary": "HFresh is Weaviate's disk-based vector index for memory-efficient vector search, combining low heap usage with incremental background maintenance."
+  },
+  {
+   "title": "The Open Source AI Stack",
+   "link": "https://www.together.ai/blog/the-open-source-ai-stack",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-09-09T00:00:00.000Z",
+   "summary": "A deep dive into the open model AI stack — model, inference, gateways and routers, harness, and tools — and how keeping each layer independent lets you swap in a new open model in minutes instead of rebuilding your workflow."
+  },
+  {
+   "title": "Export TrueFoundry AI Gateway traces to Opik with OpenTelemetry",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/truefoundry-gateway-opik-integration/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-09-08T16:19:19.000Z",
+   "summary": "When an LLM call is slow, expensive, or wrong, you want to see the whole request: the prompt, the model, the tokens, the tool calls, the latency. If your traces live in one tool and your evaluation lives in another, that picture is split in two. This guide shows how to send TrueFoundry AI Gateway […] The post Export Tr"
+  },
+  {
    "title": "Latest open artifacts (#24): Motif-3, GLM-5.3, Hy4-preview and open model licenses",
    "link": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
    "source": "Interconnects",
@@ -4877,12 +6811,60 @@
    "summary": "The open model ecosystem continues to expand in its breadth"
   },
   {
+   "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+   "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-08T14:00:15.000Z",
+   "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+  },
+  {
    "title": "Why Spotify Is Not Using Bayesian A/B Testing",
    "link": "https://engineering.atspotify.com/2026/9/why-spotify-is-not-using-bayesian-a-b-testing/",
    "source": "Spotify Engineering",
    "category": "Software Engineering",
    "date": "2026-09-08T13:18:44.000Z",
    "summary": "Clearing the confusion about what Bayesian A/B testing is. The post Why Spotify Is Not Using Bayesian A/B Testing appeared first on Spotify Engineering."
+  },
+  {
+   "title": "Building Foundry Part 3: From archive to creative search",
+   "link": "https://weaviate.io/blog/building-foundry-creative-search",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-09-08T00:00:00.000Z",
+   "summary": "Part 3: We turn a messy creative archive into a searchable library using a manifest, Weaviate, and hybrid search."
+  },
+  {
+   "title": "Why Hyperbolic Embeddings Matter for Hierarchical Data",
+   "link": "https://qdrant.tech/articles/hyperbolic-embeddings-qdrant/",
+   "source": "Qdrant",
+   "category": "AI & ML",
+   "date": "2026-09-08T00:00:00.000Z",
+   "summary": "We choose embedding models, dimensions, and indexes. The geometry usually comes with the package. But why use a flat space, and what else could we choose? What Is a Manifold, and Where Do Our Vectors Live? A manifold is the space our embeddings live in. For embeddings, we care about the geometry we give that space. It "
+  },
+  {
+   "title": "Vespa Newsletter, September 2026",
+   "link": "https://blog.vespa.ai/vespa-newsletter-sept-2026/",
+   "source": "Vespa.ai",
+   "category": "AI & ML",
+   "date": "2026-09-08T00:00:00.000Z",
+   "summary": "Advances in Vespa include time-constrained ANN search, sub-query ranking support, flexible provisioning, new rank features and telemetry export"
+  },
+  {
+   "title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+   "link": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-09-07T12:26:31.000Z",
+   "summary": "Plus, a machine hermeneutics story"
+  },
+  {
+   "title": "Agentic AI 101: What Is It, How It Works, and How It Differs from AI Agents",
+   "link": "https://yellow.ai/blog/agentic-ai-101-what-is-it-how-it-works-and-how-it-differs-from-ai-agents/",
+   "source": "Yellow.ai",
+   "category": "India",
+   "date": "2026-09-07T11:04:42.000Z",
+   "summary": "Introduction AI agents have transformed how businesses operate, bringing intelligence and automation to everything from customer service to process optimization. These systems continue to grow more sophisticated, handling complex tasks and making data-driven decisions that drive business value. Now, a new capability is"
   },
   {
    "title": "5 CDC Tools and the Tradeoffs You Should Know",
@@ -4901,6 +6883,14 @@
    "summary": "Excel, still invincible!"
   },
   {
+   "title": "Native memory for Microsoft Agent Framework with Azure Cosmos DB",
+   "link": "https://devblogs.microsoft.com/agent-framework/native-memory-for-microsoft-agent-framework-with-azure-cosmos-db/",
+   "source": "Semantic Kernel",
+   "category": "AI Agents",
+   "date": "2026-09-04T13:00:07.000Z",
+   "summary": "Agents are more useful when they can remember what matters beyond the current conversation. Today, we’re announcing a new preview integration that gives Microsoft Agent Framework agents durable, cross-session memory backed by Azure Cosmos DB. The new Python package, agent-framework-azure-cosmos-memory, provides CosmosM"
+  },
+  {
    "title": "Introducing Trade from Charts (TFC) on Kite app",
    "link": "https://zerodha.com/z-connect/business-updates/introducing-trade-from-charts-tfc-on-kite-app",
    "source": "Zerodha Z-Connect",
@@ -4915,6 +6905,14 @@
    "category": "Software Engineering",
    "date": "2026-09-03T16:06:40.000Z",
    "summary": "Most of what an AI coding agent does for me isn't thinking. It's I/O. The post Portal by Spotify cut my Claude Code token usage by 90% appeared first on Spotify Engineering."
+  },
+  {
+   "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+   "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-09-03T15:02:08.000Z",
+   "summary": ""
   },
   {
    "title": "How River takes security work from a fix to merge",
@@ -4933,12 +6931,52 @@
    "summary": "From September 7, 2026, the way orders can be placed during the pre-open session is changing. There are also several changes to ETF trading, including Gold and Silver ETFs becoming part of the pre-open session for the first time. Before regular trading begins at 9:15 AM, exchanges run a pre-open session from 9:00 AM to"
   },
   {
+   "title": "v1.16.0",
+   "link": "https://github.com/langgenius/dify/releases/tag/1.16.0",
+   "source": "Dify",
+   "category": "AI Agents",
+   "date": "2026-09-01T16:00:43.000Z",
+   "summary": "Introducing Dify Agent (Beta): A New Agent Experience in Dify Warning You should provide Dify Agent services ⚠️only to trusted, non-malicious users⚠️. As many of you know, the shell-based LLM agent paradigm has brought a major leap in agent capabilities and changed how we think about agents. Meanwhile, Skills provide a"
+  },
+  {
+   "title": "1.15.0",
+   "link": "https://github.com/langgenius/dify/releases/tag/1.15.0",
+   "source": "Dify",
+   "category": "AI Agents",
+   "date": "2026-09-01T16:00:04.000Z",
+   "summary": "Dify 1.15.0 Release Note What's Changed UX & UI Enhancements Redesigned landing / onboarding for an easier first-run experience (#37433, #37844, #37800) Faster navigation — improved \"go to anything\" palette and autofocused search inputs (#32130, #37175) Safer deletes — one-click confirmation before removing an app (#37"
+  },
+  {
+   "title": "v1.16.1 - Bug Fixes and Security Enhancements",
+   "link": "https://github.com/langgenius/dify/releases/tag/1.16.1",
+   "source": "Dify",
+   "category": "AI Agents",
+   "date": "2026-09-01T15:59:51.000Z",
+   "summary": "What's Changed New Features Tool Multi-Select Input Workflow tool nodes now support multi-select dropdown inputs, allowing users to choose multiple values from a predefined list when configuring tool parameters. (#39346) Workflow Node Locator You can now click a node_id in workflow run logs or error messages to locate "
+  },
+  {
+   "title": "v1.17.0",
+   "link": "https://github.com/langgenius/dify/releases/tag/1.17.0",
+   "source": "Dify",
+   "category": "AI Agents",
+   "date": "2026-09-01T15:49:46.000Z",
+   "summary": "New Features Agent: E2B Sandbox, Home Snapshots, and Skill Management E2B sandbox backend: agent shell/code execution can now run on E2B cloud sandboxes in addition to the local sandbox. Select the backend with DIFY_AGENT_RUNTIME_BACKEND; a new docker-compose.e2b.yaml ships the E2B stack, E2B traffic is authenticated, "
+  },
+  {
    "title": "Introducing Minimac Systems",
    "link": "https://zerodha.com/z-connect/rainmatter/introducing-minimac-systems-oil-doesnt-wear-out-it-just-gets-dirty",
    "source": "Zerodha Z-Connect",
    "category": "Finance",
    "date": "2026-09-01T10:05:00.000Z",
    "summary": "We are happy to announce our investment in Minimac Systems, a Pune-based company that is building the circular economy for India’s industrial lubricants, one machine and one factory at a time. The oil nobody talks about When we talk about India’s oil problem, we often mean fuel. But there is a second, quieter oil econo"
+  },
+  {
+   "title": "How to extract meaning from charts and tables in PDFs",
+   "link": "https://weaviate.io/blog/charts-tables-pdfs",
+   "source": "Weaviate",
+   "category": "AI & ML",
+   "date": "2026-09-01T00:00:00.000Z",
+   "summary": "PDFs full of charts and tables are notoriously hard to put through a traditional RAG pipeline. In this post, we show how late-interaction multi-vector retrieval lets you search PDFs by what the page looks like: no OCR, no chunking, no text extraction."
   },
   {
    "title": "What Leading a Data Team Actually Looks Like Right Now",
@@ -4955,6 +6993,30 @@
    "category": "AI Agents",
    "date": "2026-08-31T18:30:00.000Z",
    "summary": ""
+  },
+  {
+   "title": "UX Without a UI: Notes from Researching Terminal UX for Opik MCP",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/agent-first-terminal-ux/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-08-31T17:48:18.000Z",
+   "summary": "The way developers interact with products is changing, and opening your app’s dashboard is no longer the obvious entry point. They want to use their apps inside the terminal. Why? Because they’re already there. We’re seeing more users instrumenting MCP and it makes sense. As engineers work primarily in their terminals,"
+  },
+  {
+   "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+   "link": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+   "source": "Import AI",
+   "category": "AI & ML",
+   "date": "2026-08-31T13:31:06.000Z",
+   "summary": "Plus, a live event with Robin Sloan!"
+  },
+  {
+   "title": "Ollama's transparent pricing",
+   "link": "https://ollama.com/blog/transparent-pricing",
+   "source": "Ollama",
+   "category": "AI & ML",
+   "date": "2026-08-31T00:00:00.000Z",
+   "summary": "Ollama's Pro, Max, and Team plans now use industry-standard per-token pricing with usage included on every plan."
   },
   {
    "title": "Improving our alignment and security efforts",
@@ -4979,6 +7041,30 @@
    "category": "Lifestyle",
    "date": "2026-08-28T12:07:56.000Z",
    "summary": "As long as it takes. I’d like to be someone who could “adjust my expectations,” make peace with “close enough,” or have the slightest amount of chill when it’s clear that whatever I’m trying to do isn’t something I can pull off, but we’re wired how we’re wired. Read more »"
+  },
+  {
+   "title": "A smarter way to run code migrations with less LLM context",
+   "link": "https://sourcegraph.com/blog/a-smarter-way-to-run-code-migrations-with-less-llm-context",
+   "source": "Sourcegraph",
+   "category": "Software Engineering",
+   "date": "2026-08-28T00:00:00.000Z",
+   "summary": "Deep Search runs scripts in a sandbox around Sourcegraph search APIs, so a migration audit returns a CSV checklist instead of thousands of files worth of tokens."
+  },
+  {
+   "title": "Agent Harness: Making your claw production-ready",
+   "link": "https://devblogs.microsoft.com/agent-framework/agent-harness-making-your-claw-production-ready/",
+   "source": "Semantic Kernel",
+   "category": "AI Agents",
+   "date": "2026-08-27T14:57:24.000Z",
+   "summary": "Part 4 of Build your own claw and agent harness with Microsoft Agent Framework. Over the last three parts our personal finance assistant grew from a single tool into a genuinely capable agent: it plans, reads your portfolio, asks before it trades, remembers what matters, loads skills on demand, reorganizes files with a"
+  },
+  {
+   "title": "Diffusion Language Models, From Scratch to Production",
+   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/diffusion-language-models/",
+   "source": "Comet ML",
+   "category": "AI & ML",
+   "date": "2026-08-27T14:05:04.000Z",
+   "summary": "“Language model” used to be a very general term for statistical models trained on language tasks. It included everything from n-gram models to LSTMs and GRUs. But following the release of GPT-3.5 and ChatGPT, the term “language model” narrowed, at least in the popular sense, to mean one thing: autoregressive Transforme"
   }
  ]
 }

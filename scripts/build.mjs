@@ -41,7 +41,22 @@ const failed = [];
 const fetched = await Promise.all(
   feeds.map(async (feed) => {
     try {
-      const result = await parser.parseURL(feed.url);
+      let result;
+      try {
+        const res = await fetch(feed.url, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'application/rss+xml, application/rdf+xml, application/atom+xml, application/xml, text/xml, */*'
+          },
+          signal: AbortSignal.timeout(20000)
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = (await res.text()).trim().replace(/^[\uFEFF\xA0]+/, '');
+        result = await parser.parseString(text);
+      } catch {
+        result = await parser.parseURL(feed.url);
+      }
+
       return result.items.slice(0, MAX_PER_FEED).flatMap((item) => {
         const title = clean(item.title);
         const link = item.link;
