@@ -158,22 +158,6 @@
   .chip[aria-pressed=true] { background: var(--chip-active-bg); color: var(--chip-active-text); border-color: var(--chip-active-bg); font-weight: 700; }
   .chip:hover:not([aria-pressed=true]) { border-color: var(--accent); color: var(--accent); }
 
-  /* Topic Hashtags row */
-  .tags-scroll {
-    overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none;
-    width: 100%; padding: 0 0 2px;
-  }
-  .tags-scroll::-webkit-scrollbar { display: none; }
-  .tags-bar { display: flex; gap: .35rem; align-items: center; flex-wrap: nowrap; width: max-content; }
-  .tag-label { font-size: .78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin-right: .2rem; }
-  .tag-pill {
-    font: inherit; font-size: .78rem; font-weight: 600; color: var(--muted); background: var(--surface);
-    border: 1px solid var(--line); border-radius: 999px; padding: .15rem .6rem; cursor: pointer;
-    display: inline-flex; align-items: center; gap: .2rem; height: 26px; transition: all .15s ease;
-    white-space: nowrap;
-  }
-  .tag-pill:hover { color: var(--accent); border-color: var(--accent); }
-  .tag-pill[aria-pressed=true] { background: var(--accent); color: #ffffff; border-color: var(--accent); }
 
   /* Date & Sort selectors + Actions */
   .actions-group { display: flex; gap: .35rem; align-items: center; flex-shrink: 0; flex-wrap: wrap; }
@@ -318,13 +302,6 @@
 
   .summary { margin: .35rem 0 0; color: var(--muted); font-size: .95rem; max-width: 62ch; line-height: 1.48; }
   
-  .post-tags { display: flex; gap: .35rem; flex-wrap: wrap; margin-top: .4rem; }
-  .inline-tag {
-    font-size: .72rem; font-weight: 600; color: var(--muted);
-    background: var(--surface-subtle); border: 1px solid var(--line);
-    border-radius: 4px; padding: .08rem .4rem; cursor: pointer;
-  }
-  .inline-tag:hover { color: var(--accent); border-color: var(--accent); }
 
   .empty { padding: 3.5rem 0; color: var(--muted); text-align: center; font-size: 1.05rem; }
   footer { color: var(--muted); font-size: .85rem; padding: 0 0 3rem; }
@@ -565,14 +542,6 @@
           <button id="resetBtn" class="reset-btn" type="button" style="display:none" aria-label="Clear active filters">Clear ✕</button>
         </div>
       </div>
-
-      <!-- Trending Topic Tags Bar -->
-      <div class="tags-scroll">
-        <div class="tags-bar" id="tagsBar">
-          <span class="tag-label">Topics:</span>
-          <!-- Dynamic tags injected here -->
-        </div>
-      </div>
     </div>
   </div>
 </header>
@@ -741,7 +710,6 @@
     readFilter: 'all', // 'all' | 'unread' | 'read' | 'starred'
     dateRange: 'all',  // 'all' | 'today' | '3days' | 'week' | 'month'
     sortBy: 'newest',  // 'newest' | 'oldest' | 'shortest' | 'longest'
-    activeTag: null,
     q: '',
     lastVisit: 0,
     updatedDate: null,
@@ -799,29 +767,6 @@
     return mins;
   }
 
-  // Topic Keyword Extractor
-  const TOPIC_PATTERNS = [
-    { tag: 'AI Agents', regex: /\b(agents?|agentic|langchain|autogen|crewai|tool use|mcp|function call)/i },
-    { tag: 'LLMs', regex: /\b(llms?|gpt-?4|claude|gemini|llama|foundation models?|reasoning models?|tokens?)/i },
-    { tag: 'ML & Deep Learning', regex: /\b(pytorch|tensorflow|fine-tuning|lora|diffusion|embeddings?|neural network)/i },
-    { tag: 'Architecture', regex: /\b(architecture|distributed|scalability|microservices|system design|latency|concurrency)/i },
-    { tag: 'Python', regex: /\b(python|fastapi|pydantic|django|flask|numpy|pandas)/i },
-    { tag: 'Rust', regex: /\b(rust|cargo|rustlang|memory safe)/i },
-    { tag: 'Data & SQL', regex: /\b(database|sql|postgres|vector db|bigquery|snowflake|spark|kafka|etl|data pipeline)/i },
-    { tag: 'Cloud & DevOps', regex: /\b(kubernetes|docker|cloud|aws|gcp|azure|ci\/cd|observability|terraform)/i },
-    { tag: 'Security', regex: /\b(security|vulnerability|exploit|cve|auth|zero day|sandbox)/i },
-    { tag: 'Web & TS', regex: /\b(react|typescript|javascript|frontend|next\.?js|node\.?js|css)/i }
-  ];
-
-  function extractTags(post) {
-    const text = (post.title + ' ' + (post.summary || '')).toLowerCase();
-    const tags = [];
-    for (const t of TOPIC_PATTERNS) {
-      if (t.regex.test(text)) tags.push(t.tag);
-    }
-    return tags;
-  }
-
   const fmtDay = (d) => {
     const today = new Date().toDateString();
     const yest = new Date(Date.now() - 864e5).toDateString();
@@ -856,7 +801,7 @@
 
   function updateResetBtn() {
     const isFiltered = state.cat !== 'All' || state.source !== 'All' || state.readFilter !== 'all' || 
-                       state.dateRange !== 'all' || state.sortBy !== 'newest' || state.activeTag !== null || 
+                       state.dateRange !== 'all' || state.sortBy !== 'newest' || 
                        state.q.trim() !== '';
     const btn = $('resetBtn');
     if (btn) btn.style.display = isFiltered ? 'inline-flex' : 'none';
@@ -885,12 +830,6 @@
       // Category & Source Filter
       if (state.cat !== 'All' && p.category !== state.cat) return false;
       if (state.source !== 'All' && p.source !== state.source) return false;
-
-      // Topic Tag Filter
-      if (state.activeTag) {
-        const tags = extractTags(p);
-        if (!tags.includes(state.activeTag)) return false;
-      }
 
       // Search Query
       if (q) {
@@ -969,28 +908,6 @@
     renderBriefing();
   });
 
-  // Render Topic Pills
-  function renderTopicTags() {
-    const tagsBar = $('tagsBar');
-    const allPills = tagsBar.querySelectorAll('.tag-pill');
-    allPills.forEach(p => p.remove());
-
-    for (const topic of TOPIC_PATTERNS) {
-      const pill = el('button', {
-        className: 'tag-pill',
-        type: 'button',
-        textContent: '#' + topic.tag
-      });
-      const isActive = state.activeTag === topic.tag;
-      pill.setAttribute('aria-pressed', isActive);
-      pill.onclick = () => {
-        state.activeTag = isActive ? null : topic.tag;
-        renderTopicTags();
-        render();
-      };
-      tagsBar.append(pill);
-    }
-  }
 
   function render() {
     const list = $('list');
@@ -1031,7 +948,6 @@
       const isRead = state.readSet.has(p.link);
       const isStarred = state.starredSet.has(p.link);
       const readMins = getReadTime(p);
-      const tags = extractTags(p);
 
       const titleKids = [];
       if (!isRead) {
@@ -1114,21 +1030,6 @@
       
       if (p.summary) {
         body.append(el('p', { className: 'summary', textContent: p.summary }));
-      }
-
-      // Inline detected topic tags
-      if (tags.length) {
-        const tagBox = el('div', { className: 'post-tags' });
-        for (const t of tags) {
-          const tSpan = el('button', { className: 'inline-tag', type: 'button', textContent: '#' + t });
-          tSpan.onclick = () => {
-            state.activeTag = (state.activeTag === t) ? null : t;
-            renderTopicTags();
-            render();
-          };
-          tagBox.append(tSpan);
-        }
-        body.append(tagBox);
       }
 
       const srcBtn = el('button', {
@@ -1269,13 +1170,11 @@
     state.readFilter = 'all';
     state.dateRange = 'all';
     state.sortBy = 'newest';
-    state.activeTag = null;
     state.q = '';
     $('q').value = '';
     $('dateFilter').value = 'all';
     $('sortSelect').value = 'newest';
     setReadFilter('all');
-    renderTopicTags();
     renderChips();
     renderSourceSelect();
     render();
@@ -1735,7 +1634,6 @@
       if (data.failed && data.failed.length) $('failed').textContent = `${data.failed.length} feed(s) failed on the last run.`;
       
       renderBriefing();
-      renderTopicTags();
       renderChips();
       renderSourceSelect();
       render();
