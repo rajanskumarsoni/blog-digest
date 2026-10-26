@@ -1,6 +1,10 @@
 {
- "updated": "2026-10-26T09:34:29.212Z",
- "failed": [],
+ "updated": "2026-10-26T09:35:17.519Z",
+ "failed": [
+  "Benn Stancil: Status code 403",
+  "Import AI: Status code 403",
+  "Deep Learning Focus: Status code 403"
+ ],
  "posts": [
   {
    "title": "iFixit's teardown of the iPhone Duo shows potential causes for cracked screens",
@@ -9,6 +13,14 @@
    "category": "Tech",
    "date": "2026-10-26T09:31:44.000Z",
    "summary": "iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display."
+  },
+  {
+   "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+   "link": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-26T09:30:00.000Z",
+   "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents."
   },
   {
    "title": "Valve Steam Frame Review: Costly and Inconsistent",
@@ -3195,6 +3207,22 @@
    "summary": "You can now deploy apps to Vercel without an account using . Share prototypes faster with a live URL before signing in to claim your project.Vercel CLI From a project directory that isn't linked to Vercel, run: The CLI builds your project locally when needed and returns a deployment URL you can share. Temporary deploym"
   },
   {
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-22T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Open call for guest investigators in the life sciences",
+   "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-22T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "Securing Quick access from corporate networks with AWS PrivateLink",
    "link": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
    "source": "AWS Machine Learning",
@@ -3289,22 +3317,6 @@
    "category": "AI Agents",
    "date": "2026-10-21T18:41:53.000Z",
    "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated discl"
-  },
-  {
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-21T18:30:00.000Z",
-   "summary": ""
-  },
-  {
-   "title": "Open call for guest investigators in the life sciences",
-   "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-21T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
@@ -3803,6 +3815,14 @@
    "summary": "Deployments that Vercel in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits.automatically skips Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using 's package graph and lockfile analys"
   },
   {
+   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+   "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-21T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "eMudhra Intermediate CA Compromise",
    "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
    "source": "Simon Willison",
@@ -3841,14 +3861,6 @@
    "category": "AI Agents",
    "date": "2026-10-20T19:31:57.000Z",
    "summary": "From GPU trading to physical settlement, independent markets, and programmable compute"
-  },
-  {
-   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-   "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-20T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "MemCurrent: Designing Persistent Memory for Production Agents",
@@ -4075,6 +4087,14 @@
    "summary": ""
   },
   {
+   "title": "How Claude designed protein binders against scorpion neurotoxins",
+   "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "source": "Anthropic Research",
+   "category": "AI & ML",
+   "date": "2026-10-20T00:00:00.000Z",
+   "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins."
+  },
+  {
    "title": "My obituary for programming",
    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
    "source": "Simon Willison",
@@ -4121,14 +4141,6 @@
    "category": "Software Engineering",
    "date": "2026-10-19T18:47:22.000Z",
    "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog."
-  },
-  {
-   "title": "How Claude designed protein binders against scorpion neurotoxins",
-   "link": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-   "source": "Anthropic Research",
-   "category": "AI & ML",
-   "date": "2026-10-19T18:30:00.000Z",
-   "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins."
   },
   {
    "title": "Open Thread 456",
@@ -4875,6 +4887,14 @@
    "summary": "Meta Muse Spark Open, Meta's open-weight model for agentic coding, is live on Together AI with a 1M-token context window on serverless and dedicated infrastructure."
   },
   {
+   "title": "An update on independent evaluators",
+   "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-15T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "proto-v0.6.0",
    "link": "https://github.com/vllm-project/vllm/releases/tag/proto-v0.6.0",
    "source": "vLLM",
@@ -4995,14 +5015,6 @@
    "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog."
   },
   {
-   "title": "An update on independent evaluators",
-   "link": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-14T18:30:00.000Z",
-   "summary": ""
-  },
-  {
    "title": "langchain==1.4.6",
    "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.6",
    "source": "LangChain",
@@ -5115,6 +5127,22 @@
    "summary": "Weaviate 1.40 adds PathSeer, a third HNSW filter strategy from a SIGMOD 2026 paper, contributed by the paper's first author. How it works, and how it compares to sweeping and ACORN."
   },
   {
+   "title": "Preparing for the 2026 US midterms",
+   "link": "https://www.anthropic.com/news/2026-us-midterms",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-14T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+   "link": "https://www.anthropic.com/news/singapore-office-opening",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-14T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "Scope workloads and share resilience policies with AWS Resilience Hub",
    "link": "https://aws.amazon.com/blogs/architecture/scope-workloads-and-share-resilience-policies-with-aws-resilience-hub/",
    "source": "AWS Architecture",
@@ -5128,22 +5156,6 @@
    "source": "Google DeepMind",
    "category": "AI & ML",
    "date": "2026-10-13T19:43:07.000Z",
-   "summary": ""
-  },
-  {
-   "title": "Preparing for the 2026 US midterms",
-   "link": "https://www.anthropic.com/news/2026-us-midterms",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-13T18:30:00.000Z",
-   "summary": ""
-  },
-  {
-   "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-   "link": "https://www.anthropic.com/news/singapore-office-opening",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-13T18:30:00.000Z",
    "summary": ""
   },
   {
@@ -5307,6 +5319,14 @@
    "summary": "AI agents can now use Ollama's cloud models safely inside Fly.io's cloud computers."
   },
   {
+   "title": "Redesigning source control at Anthropic",
+   "link": "https://www.anthropic.com/research/redesigning-source-control",
+   "source": "Anthropic Engineering",
+   "category": "Software Engineering",
+   "date": "2026-10-13T00:00:00.000Z",
+   "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months."
+  },
+  {
    "title": "3.4.1",
    "link": "https://github.com/stanfordnlp/dspy/releases/tag/3.4.1",
    "source": "DSPy",
@@ -5337,14 +5357,6 @@
    "category": "Tech",
    "date": "2026-10-12T20:49:49.000Z",
    "summary": "Signed-off-by: Matthew Bonanni mbonanni@redhat.com noreply@anthropic.com"
-  },
-  {
-   "title": "Redesigning source control at Anthropic",
-   "link": "https://www.anthropic.com/research/redesigning-source-control",
-   "source": "Anthropic Engineering",
-   "category": "Software Engineering",
-   "date": "2026-10-12T18:30:00.000Z",
-   "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months."
   },
   {
    "title": "Together AI integration: Evaluate open models and optimize evaluation costs in Arize AX",
@@ -5463,7 +5475,7 @@
    "link": "https://www.anthropic.com/news/distillation-defenses",
    "source": "Anthropic News",
    "category": "AI Agents",
-   "date": "2026-10-11T18:30:00.000Z",
+   "date": "2026-10-12T00:00:00.000Z",
    "summary": ""
   },
   {
@@ -5571,6 +5583,38 @@
    "summary": "The Engram plugin gives Claude Code persistent, long-term memory, so it remembers what you've done and brings it back when it matters."
   },
   {
+   "title": "The missing map of the sky",
+   "link": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
+   "source": "Anthropic Research",
+   "category": "AI & ML",
+   "date": "2026-10-08T00:00:00.000Z",
+   "summary": "Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light."
+  },
+  {
+   "title": "Introducing the Anthropic Cyber Mission",
+   "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-08T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "2026 Usage Policy update",
+   "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-08T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Building on our commitment to American scientific discovery",
+   "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-08T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "Top Forecasters On The Plague",
    "link": "https://www.astralcodexten.com/p/top-forecasters-on-the-plague",
    "source": "Astral Codex Ten",
@@ -5585,38 +5629,6 @@
    "category": "Ideas",
    "date": "2026-10-07T21:07:33.000Z",
    "summary": "..."
-  },
-  {
-   "title": "The missing map of the sky",
-   "link": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
-   "source": "Anthropic Research",
-   "category": "AI & ML",
-   "date": "2026-10-07T18:30:00.000Z",
-   "summary": "Brice Ménard, an astrophysicist at Johns Hopkins University and a researcher at Anthropic, explains how he worked with Claude Science to produce the first complete map of the sky in UV light."
-  },
-  {
-   "title": "Introducing the Anthropic Cyber Mission",
-   "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-07T18:30:00.000Z",
-   "summary": ""
-  },
-  {
-   "title": "2026 Usage Policy update",
-   "link": "https://www.anthropic.com/news/2026-usage-policy-update",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-07T18:30:00.000Z",
-   "summary": ""
-  },
-  {
-   "title": "Building on our commitment to American scientific discovery",
-   "link": "https://www.anthropic.com/news/genesis-mission-commitment",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-07T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "Building resilient systems with Sam Newman",
@@ -5751,7 +5763,7 @@
    "link": "https://www.anthropic.com/news/cyber-verification-program",
    "source": "Anthropic News",
    "category": "AI Agents",
-   "date": "2026-10-05T18:30:00.000Z",
+   "date": "2026-10-06T00:00:00.000Z",
    "summary": "We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
   },
   {
@@ -5867,20 +5879,20 @@
    "summary": "Analytical workloads are full of repeated strings: product names, country names, station names, user agents, category labels. Take DuckDB's public train services dataset, which has one row for every stop a Dutch railway train makes. The data comes from the open datasets published by the Rijden de Treinen (Are the train"
   },
   {
+   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+   "link": "https://www.anthropic.com/news/claude-frontier-academy",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-02T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment (preview)",
    "link": "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/",
    "source": "AWS News",
    "category": "Software Engineering",
    "date": "2026-10-01T20:04:04.000Z",
    "summary": "Introducing the public preview of AWS Well-Architected Agent, an AI-powered service that analyzes your AWS environment to deliver targeted, contextual recommendations for improving your applications' cost, security, performance, and resilience—with ready-to-implement fixes aligned to your business goals."
-  },
-  {
-   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-   "link": "https://www.anthropic.com/news/claude-frontier-academy",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-01T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "Trust Docker for the agents you don’t",
@@ -5955,6 +5967,14 @@
    "summary": "Weaviate v1.39.3 fixes a high-severity credential disclosure issue in the Google modules."
   },
   {
+   "title": "Barclays scales Claude to upgrade operations and improve client experience",
+   "link": "https://www.anthropic.com/news/barclays-scales-claude",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-01T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "Amazon S3 Tables now support all Apache Iceberg V3 data types",
    "link": "https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/",
    "source": "AWS News",
@@ -6001,14 +6021,6 @@
    "category": "Software Engineering",
    "date": "2026-09-30T18:30:24.000Z",
    "summary": "MHK built the SmartProminence AI Orchestrator, a HIPAA-eligible agentic workflow framework on AWS using Amazon Bedrock, Amazon ECS, and event-driven patterns. It reduced manual medical review effort by 90% and cut new AI feature deployment from months to weeks. Learn how MHK architected this reusable, multi-tenant orch"
-  },
-  {
-   "title": "Barclays scales Claude to upgrade operations and improve client experience",
-   "link": "https://www.anthropic.com/news/barclays-scales-claude",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-09-30T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake",
@@ -6311,7 +6323,7 @@
    "link": "https://www.anthropic.com/research/project-swap",
    "source": "Anthropic Research",
    "category": "AI & ML",
-   "date": "2026-09-23T18:30:00.000Z",
+   "date": "2026-09-24T00:00:00.000Z",
    "summary": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes."
   },
   {
@@ -6483,20 +6495,20 @@
    "summary": "Inside a global bank's shift to self-serve dedicated inference: how Together's DMI gave engineering teams direct control over scaling, models, and testing."
   },
   {
+   "title": "Partnering with Accenture on embedded evaluation",
+   "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-09-18T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "Making global data easier to explore",
    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
    "source": "Google AI",
    "category": "AI & ML",
    "date": "2026-09-17T20:00:00.000Z",
    "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search."
-  },
-  {
-   "title": "Partnering with Accenture on embedded evaluation",
-   "link": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-09-17T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "I don't like LLMs",
@@ -6513,6 +6525,14 @@
    "category": "AI & ML",
    "date": "2026-09-17T00:00:00.000Z",
    "summary": "4-bit Rotational Quantization in Weaviate 1.39: the SIMD performance work, a centered tier, scaling analysis and a TurboQuant comparison."
+  },
+  {
+   "title": "Introducing the Life Sciences Verification Program",
+   "link": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-09-17T00:00:00.000Z",
+   "summary": ""
   },
   {
    "title": "Fragments: September 16",
@@ -6537,14 +6557,6 @@
    "category": "AI Agents",
    "date": "2026-09-16T18:59:47.000Z",
    "summary": "Keep your domain services distributed. Move the specialist’s instructions, not another model, into the orchestrator. A multi-agent system often starts with a straightforward design: one agent understands the user’s request, delegates to specialist agents, and combines their answers. That was the starting point for my s"
-  },
-  {
-   "title": "Introducing the Life Sciences Verification Program",
-   "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-09-16T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "Prompt Management for AI Agents: The Best Tools Compared (2026)",
@@ -6979,20 +6991,20 @@
    "summary": "PDFs full of charts and tables are notoriously hard to put through a traditional RAG pipeline. In this post, we show how late-interaction multi-vector retrieval lets you search PDFs by what the page looks like: no OCR, no chunking, no text extraction."
   },
   {
+   "title": "Developing Enterprise Frontier Safeguards with our customers",
+   "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-09-01T00:00:00.000Z",
+   "summary": ""
+  },
+  {
    "title": "What Leading a Data Team Actually Looks Like Right Now",
    "link": "https://www.theseattledataguy.com/what-leading-a-data-team-actually-looks-like-right-now/",
    "source": "SeattleDataGuy",
    "category": "Data Science",
    "date": "2026-08-31T21:30:00.000Z",
    "summary": "There are certain problems that seem to never really go away if you’re leading a data team. Don’t get me wrong. The tech world is currently saturated by AI hype. Not only because every tool you look at now just feels like a thin layer of ChatGPT, but every conversation you have with the business… Read more The post Wha"
-  },
-  {
-   "title": "Developing Enterprise Frontier Safeguards with our customers",
-   "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-08-31T18:30:00.000Z",
-   "summary": ""
   },
   {
    "title": "UX Without a UI: Notes from Researching Terminal UX for Opik MCP",
@@ -7023,7 +7035,7 @@
    "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
    "source": "Anthropic News",
    "category": "AI Agents",
-   "date": "2026-08-30T18:30:00.000Z",
+   "date": "2026-08-31T00:00:00.000Z",
    "summary": ""
   },
   {
