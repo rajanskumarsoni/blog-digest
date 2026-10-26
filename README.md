@@ -33,16 +33,24 @@ If a blog has no obvious feed, try `/feed`, `/rss`, `/rss.xml` or `/atom.xml`
 after its address. The page footer and the Actions log list any feed that
 failed, so you can fix or remove a broken URL.
 
-## Settings
+## Features
 
-At the top of `scripts/build.mjs`:
-
-- `MAX_PER_FEED`: how many newest posts to take from each blog per run
-- `MAX_AGE_DAYS`: how long posts are kept
-- `MAX_ITEMS`: total posts stored
+- **⚡ Daily Automated Crawl**: Powered by GitHub Actions fetching 54+ curated engineering, AI, and tech feeds daily.
+- **✨ Daily Executive Engineering Briefing**: Collapsible morning summary with stats on new stories and trending topics.
+- **🏷️ Topic Tags & Filter Bar**: Clickable hashtags (`#AI Agents`, `#LLMs`, `#ML & Deep Learning`, `#Architecture`, `#Python`, `#Rust`, `#Data & SQL`, `#Cloud & DevOps`, `#Security`, `#Web & TS`).
+- **⭐ Starred / Bookmarks**: Save articles for later with one click, saved in `localStorage`.
+- **📖 In-App Quick Reader Modal**: Read clean summaries without leaving the site, complete with reading time estimation (`⏱️ 3m read`).
+- **🔊 Web Speech Audio Reader (TTS)**: Listen to article summaries with native browser speech synthesis.
+- **⏱️ Recency & Sort Controls**: Filter by `Today (< 24h)`, `Past 3 Days`, `This Week`, `This Month` and sort by `Newest`, `Oldest`, `Quick Reads`, `Deep Dives`.
+- **🎨 4 Reader Themes**: Switch between `🌙 Dark`, `🖤 OLED Pure Black`, `📜 Sepia (Warm Paper)`, and `☀️ Clean Light`.
+- **📲 Progressive Web App (PWA)**: Install directly to iOS or Android home screen with offline caching via service worker (`sw.js`).
+- **📥 OPML Import & Export**: One-click download of all feeds as `blog-digest-feeds.opml` or import directly from Feedly / Inoreader.
+- **💾 Backup & Restore**: Export and restore your read history and bookmarks across browsers and devices.
+- **➕ Add Blog Helper**: Interactive modal supporting single feeds, bulk CSV/JSON lines, with URL hints and direct GitHub editor link.
 
 ## Run it locally
 
     npm install
     npm run build
     npx serve .
+
