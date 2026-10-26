@@ -1,7 +1,314 @@
 {
- "updated": "2026-10-25T14:24:27.575Z",
- "failed": [],
+ "updated": "2026-10-26T06:38:21.774Z",
+ "failed": [
+  "Deep Learning Focus: Status code 403",
+  "Benn Stancil: Status code 403"
+ ],
  "posts": [
+  {
+   "title": "Life After 55: Cradle Of Life is reimagining senior living lifestyle for retired Indians",
+   "link": "https://yourstory.com/2026/09/life-after-55-cradle-of-life-is-reimagining-senior-living-lifestyle-for-retired-indians",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-26T06:30:00.000Z",
+   "summary": "Sharad Gadsing on why senior living needs to move beyond real estate and ageing, and create communities designed around how people want to live. Senior living is evolving beyond simply providing safe, comfortable homes. "
+  },
+  {
+   "title": "Who will shape India’s next 500 million digital users?",
+   "link": "https://yourstory.com/2026/10/who-will-shape-indias-next-500-million-digital-users",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-26T06:21:28.000Z",
+   "summary": "The next wave of India’s digital economy raises a different set of questions: who controls the layers through which consumers discover apps, access services and make payments? And how can India build for the next 500 mil"
+  },
+  {
+   "title": "Rapido rides ahead with Razorpay’s real‑time payments",
+   "link": "https://yourstory.com/2026/10/rapido-rides-ahead-with-razorpays-realtime-payments",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-26T05:30:00.000Z",
+   "summary": "Rapido rides ahead with Razorpay’s real‑time payments Getting around an Indian city has always been harder than it should be. Cabs were expensive, public transport was overcrowded, and for millions of daily commuters, th"
+  },
+  {
+   "title": "Frances Lee on American elections",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-26T04:51:28.000Z",
+   "summary": "More likely than interference with the election is that unsuccessful office-seekers will refuse to concede, claiming their opponents cheated. Nothing is more basic to democratic legitimacy than the loser’s consent. Many "
+  },
+  {
+   "title": "The best apps for tracking your reading and discovering new books",
+   "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-26T01:10:00.000Z",
+   "summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you."
+  },
+  {
+   "title": "Can you run regular Ethernet cables outside?",
+   "link": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-26T00:00:00.000Z",
+   "summary": "Just because you can do something doesn't mean you should."
+  },
+  {
+   "title": "Which Android phone is the closest equivalent to the iPhone Duo?",
+   "link": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T23:45:00.000Z",
+   "summary": "Can we find the iPhone Duo's perfect Android match?"
+  },
+  {
+   "title": "Why Google chrome is always using so much RAM",
+   "link": "https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T23:30:00.000Z",
+   "summary": "Chrome is known for being a memory hog, but it may be more urban myth than reality. Here's how Google Chrome manages RAM."
+  },
+  {
+   "title": "Most Windows users are seriously underusing this powerful desktop feature",
+   "link": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T23:00:00.000Z",
+   "summary": "Windows has an option to give you more working desktop space, but you might have overlooked it."
+  },
+  {
+   "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+   "link": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T22:45:00.000Z",
+   "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?"
+  },
+  {
+   "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+   "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T22:30:00.000Z",
+   "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having."
+  },
+  {
+   "title": "Your devices could be on the wrong Wi-Fi band, and it's slowing them down",
+   "link": "https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T22:00:00.000Z",
+   "summary": "Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance."
+  },
+  {
+   "title": "Sunnny",
+   "link": "https://sunnny.com/",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-25T21:50:00.000Z",
+   "summary": "My thanks to Sunnny for sponsoring last week at DF. Sunnny’s pitch to B2B companies is simple: you store valuable customer information across a myriad of systems, making it hard to get a simple overview. Sunnny consolida"
+  },
+  {
+   "title": "Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy",
+   "link": "https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-25T21:47:57.000Z",
+   "summary": "Some guy on Reddit (with an illustration video): Saw this online, tried it, and it works beautifully. Basically, I registered the lowest part of my right index finger. That part of the finger sits naturally when you go t"
+  },
+  {
+   "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+   "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-25T21:40:27.000Z",
+   "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repa"
+  },
+  {
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-25T21:31:16.000Z",
+   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+  },
+  {
+   "title": "Scott Walker’s The Drift will get under your skin",
+   "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-25T21:08:09.000Z",
+   "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing"
+  },
+  {
+   "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+   "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-25T20:20:08.000Z",
+   "summary": "\"That's a 12-year-old view of the world.\""
+  },
+  {
+   "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+   "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-25T20:16:19.000Z",
+   "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on"
+  },
+  {
+   "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
+   "link": "https://www.themarginalian.org/2026/10/25/20-childrens-books/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-10-25T20:13:16.000Z",
+   "summary": "“Anyone who writes down to children is simply wasting his time,” E.B. White insisted. “You have to write up, not down. Children are demanding. They are the most attentive, curious, eager, observant, sensitive, quick, and"
+  },
+  {
+   "title": "The Dark Wood of the Golden Birds: Margaret Wise Brown’s Lost Masterpiece about Mortality and the Meaning of Life, Newly Illustrated",
+   "link": "https://www.themarginalian.org/2026/10/25/dark-wood-margaret-wise-brown-ofra-amit/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-10-25T19:38:12.000Z",
+   "summary": "In early September 1948, a year after she rewilded the landscape of literature with Goodnight Moon, Margaret Wise Brown watched the love of her life fade to black. Michael Strange, born Blanche Oelrichs, had cast an inst"
+  },
+  {
+   "title": "Zen Browser is the Arc replacement I was looking for",
+   "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-25T19:24:50.000Z",
+   "summary": "Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long ti"
+  },
+  {
+   "title": "The Talk Show: ‘Lubricate the Inside of the Hinge’",
+   "link": "https://daringfireball.net/thetalkshow/2026/10/25/ep-456",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-25T19:03:13.000Z",
+   "summary": "Special guest: Joanna Stern. Sponsored by: Factor: Healthy eating, made easy. Get 50% off and one free breakfast item per box for one year, while supplies last, with code talkshow50off. Notion: The collaborative AI works"
+  },
+  {
+   "title": "What does the bell icon mean on your CarPlay screen?",
+   "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T18:45:00.000Z",
+   "summary": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher."
+  },
+  {
+   "title": "The most unexpected everyday tool can be found on your phone",
+   "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T18:30:00.000Z",
+   "summary": "If you have an iPhone, that is."
+  },
+  {
+   "title": "iPhone Portrait Mode, 10 Years In",
+   "link": "https://x.com/johnnie/status/2114007844605612167",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-25T18:09:19.000Z",
+   "summary": "Speaking of Johnnie Manzari, he wrote a post yesterday marking the 10 year anniversary of Portrait Mode: Initially, Portrait mode was seen as a giant math problem. You’d do disparity calculations on the two sensors and o"
+  },
+  {
+   "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+   "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T18:00:00.000Z",
+   "summary": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger."
+  },
+  {
+   "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+   "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-25T17:00:00.000Z",
+   "summary": "The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect stick"
+  },
+  {
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-25T16:57:32.000Z",
+   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+  },
+  {
+   "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+   "link": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T16:45:00.000Z",
+   "summary": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features."
+  },
+  {
+   "title": "8BitDo's latest button-only arcade controller is now up for pre-order",
+   "link": "https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T16:42:46.000Z",
+   "summary": "The Arcade Controller Pro starts at $119.99 and will start shipping in late November."
+  },
+  {
+   "title": "Now you can watch Instagram Reels on your Apple TV",
+   "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-25T16:20:17.000Z",
+   "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up f"
+  },
+  {
+   "title": "The internet needs IPv6 and so does your home network",
+   "link": "https://www.engadget.com/2293285/internet-home-network-needs-ipv6/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T16:15:00.000Z",
+   "summary": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet."
+  },
+  {
+   "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+   "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-25T16:05:00.000Z",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+  },
+  {
+   "title": "Here's how much PlayStation Plus cost in 2010 vs. 2026",
+   "link": "https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T15:45:00.000Z",
+   "summary": "Sony's gaming service has changed a lot in recent years, and the price reflects that."
+  },
+  {
+   "title": "Sunday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-25T15:42:58.000Z",
+   "summary": "1. A safe harbor for open source? 2. False but interesting claims about economic growth. 3. “In a calibrated model of the welfare effects of the estimated impacts of the Great Recession on consumption and mortality, we f"
+  },
+  {
+   "title": "4 Ray-Ban Meta privacy settings you should change before wearing them",
+   "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-25T15:15:00.000Z",
+   "summary": "Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy."
+  },
+  {
+   "title": "Seam Cutter",
+   "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-25T15:10:19.000Z",
+   "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a "
+  },
   {
    "title": "Why are earbuds usually cheaper than headphones?",
    "link": "https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/",
@@ -1403,6 +1710,14 @@
    "summary": "Fast, focused, low-cost decisions for any application."
   },
   {
+   "title": "Updates to My iPhone Duo Review",
+   "link": "https://daringfireball.net/2026/10/the_iphone_duo",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-22T18:49:38.000Z",
+   "summary": "Nothing major, but since publishing at 7:00pm last night, I’ve made a few additions and changes to my iPhone Duo review. I’m calling them out here, so that if you’ve already read it, you can see the changes. If I make mo"
+  },
+  {
    "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026",
    "source": "Marginal Revolution",
@@ -1737,14 +2052,6 @@
    "category": "AI & ML",
    "date": "2026-10-22T00:00:00.000Z",
    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
-  },
-  {
-   "title": "★ The iPhone Duo",
-   "link": "https://daringfireball.net/2026/10/the_iphone_duo",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-10-21T22:59:14.000Z",
-   "summary": "The very nature of the iPhone Duo raises numerous obvious questions about what it’s like to use. Does it not feel thick and heavy, awkward both to pocket and unpocket? Doesn’t the outer (cover) screen feel small and cram"
   },
   {
    "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
@@ -2321,14 +2628,6 @@
    "category": "Marketing",
    "date": "2026-10-20T13:15:03.000Z",
    "summary": "Companies without the internal resources or budget to build a dedicated search department still need to know what options exist for running AEO without a large team. Answer Engine Optimization is no longer optional for c"
-  },
-  {
-   "title": "[Sponsor] Sunnny",
-   "link": "https://sunnny.com/",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-10-20T13:09:38.000Z",
-   "summary": "All your B2B customer data. In that nice California sunnn. Early access now! ★"
   },
   {
    "title": "Introducing tsrs: A port of TypeScript to Rust",
