@@ -434,6 +434,130 @@
   }
   .tts-btn.is-playing { background: var(--accent); color: #ffffff; border-color: var(--accent); }
 
+  /* Filter Toggle Button & Badge */
+  .filter-toggle-btn {
+    font: inherit; font-size: .83rem; font-weight: 600; color: var(--ink);
+    background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+    padding: .45rem .75rem; cursor: pointer; display: inline-flex; align-items: center; gap: .4rem;
+    height: 38px; white-space: nowrap; transition: all .15s ease;
+  }
+  .filter-toggle-btn:hover { border-color: var(--accent); }
+  .filter-toggle-btn[aria-expanded=true] {
+    background: var(--chip-active-bg); color: var(--chip-active-text); border-color: var(--chip-active-bg);
+  }
+  .filter-badge {
+    background: var(--accent); color: #ffffff; font-size: .72rem; font-weight: 700;
+    border-radius: 999px; padding: .1rem .45rem; line-height: 1; min-width: 18px; text-align: center;
+  }
+  .filter-toggle-btn[aria-expanded=true] .filter-badge {
+    background: var(--ink); color: var(--bg);
+  }
+
+  /* Multi-filter Drawer / Panel */
+  .filter-panel {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+    padding: 1rem 1.15rem; margin-top: .65rem; box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    animation: filterSlideDown .18s ease-out; width: 100%;
+  }
+  @keyframes filterSlideDown {
+    from { opacity: 0; transform: translateY(-6px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .filter-panel-header {
+    display: flex; align-items: flex-start; justify-content: space-between; gap: .75rem;
+    padding-bottom: .75rem; border-bottom: 1px solid var(--line); margin-bottom: .85rem; flex-wrap: wrap;
+  }
+  .filter-panel-title {
+    font-size: .95rem; font-weight: 700; color: var(--ink); display: flex; align-items: center; gap: .4rem;
+  }
+  .filter-panel-sub {
+    font-size: .8rem; color: var(--muted); margin-top: .2rem;
+  }
+  .filter-panel-actions {
+    display: flex; align-items: center; gap: .45rem;
+  }
+  .btn-subfilter-action {
+    font: inherit; font-size: .78rem; font-weight: 600; color: var(--ink);
+    background: var(--bg); border: 1px solid var(--line); border-radius: 6px;
+    padding: .25rem .55rem; cursor: pointer; transition: all .15s ease;
+  }
+  .btn-subfilter-action:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-panel-close {
+    background: transparent; border: none; color: var(--muted); font-size: 1.1rem;
+    cursor: pointer; padding: .1rem .45rem; line-height: 1; border-radius: 4px;
+  }
+  .filter-panel-close:hover { color: var(--ink); background: var(--line); }
+
+  .filter-groups-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: .85rem;
+  }
+  .filter-group-card {
+    background: var(--bg); border: 1px solid var(--line); border-radius: 8px;
+    padding: .75rem; display: flex; flex-direction: column; gap: .5rem;
+  }
+  .filter-group-header {
+    display: flex; align-items: center; justify-content: space-between; gap: .4rem;
+    padding-bottom: .4rem; border-bottom: 1px solid var(--line);
+  }
+  .filter-group-name {
+    font-size: .84rem; font-weight: 700; color: var(--ink); display: flex; align-items: center; gap: .35rem;
+  }
+  .filter-group-select-all {
+    font: inherit; font-size: .72rem; color: var(--muted); background: transparent;
+    border: none; cursor: pointer; padding: .1rem .3rem; text-decoration: underline;
+  }
+  .filter-group-select-all:hover { color: var(--accent); }
+
+  .subfilter-items {
+    display: flex; flex-direction: column; gap: .3rem; list-style: none; margin: 0; padding: 0;
+  }
+  .subfilter-label {
+    display: flex; align-items: flex-start; justify-content: space-between; gap: .45rem;
+    font-size: .8rem; color: var(--ink); cursor: pointer; padding: .3rem .4rem;
+    border-radius: 6px; transition: background-color .12s ease; user-select: none;
+  }
+  .subfilter-label:hover { background: var(--surface); }
+  .subfilter-label input[type="checkbox"] {
+    margin-top: .15rem; cursor: pointer; accent-color: var(--accent); flex-shrink: 0;
+  }
+  .subfilter-text { flex: 1 1 auto; line-height: 1.35; }
+  .subfilter-count {
+    font-size: .72rem; font-weight: 600; color: var(--muted);
+    background: var(--surface); border: 1px solid var(--line);
+    border-radius: 999px; padding: .05rem .45rem; flex-shrink: 0;
+  }
+  .subfilter-label input:checked ~ .subfilter-text { font-weight: 600; color: var(--accent); }
+  .subfilter-label input:checked ~ .subfilter-count {
+    background: var(--accent); color: #ffffff; border-color: var(--accent);
+  }
+
+  /* Active Filter Bar (Chips under header / above list) */
+  .active-filter-bar {
+    display: flex; align-items: center; gap: .5rem; flex-wrap: wrap;
+    padding: .65rem 0 .25rem; font-size: .82rem;
+  }
+  .active-filter-label { color: var(--muted); font-weight: 600; font-size: .8rem; }
+  .active-filter-chips { display: flex; gap: .35rem; flex-wrap: wrap; align-items: center; }
+  .active-filter-chip {
+    display: inline-flex; align-items: center; gap: .35rem;
+    background: var(--surface); border: 1px solid var(--line);
+    color: var(--ink); font-size: .78rem; font-weight: 600;
+    border-radius: 999px; padding: .2rem .6rem;
+  }
+  .active-filter-chip button {
+    background: transparent; border: none; padding: 0; cursor: pointer;
+    font-size: .85rem; color: var(--muted); line-height: 1; display: inline-flex; align-items: center;
+  }
+  .active-filter-chip button:hover { color: #e53e3e; }
+  .clear-subfilters-btn {
+    font: inherit; font-size: .76rem; color: var(--muted);
+    background: transparent; border: 1px dashed var(--line);
+    border-radius: 999px; padding: .2rem .55rem; cursor: pointer;
+    transition: all .15s ease;
+  }
+  .clear-subfilters-btn:hover { color: var(--ink); border-color: var(--ink); }
+
   /* Mobile responsive layout */
   @media (max-width: 640px) {
     .wrap { padding: 0 .9rem; }
@@ -447,6 +571,7 @@
     .search-box { width: 100%; flex: 1 1 100%; }
     .select-box { width: 100%; }
     .filter-select { width: 100%; }
+    .filter-toggle-btn { width: 100%; justify-content: center; }
     .read-group { width: 100%; display: flex; overflow-x: auto; }
     .read-tab { flex: 1; text-align: center; padding: .35rem .25rem; font-size: .78rem; justify-content: center; }
     
@@ -455,6 +580,11 @@
     .actions-group { width: 100%; justify-content: space-between; }
     .mini-select { flex: 1; font-size: .76rem; }
     .action-btn, .reset-btn { font-size: .76rem; padding: .2rem .55rem; }
+
+    .filter-groups-grid { grid-template-columns: 1fr; }
+    .filter-panel-header { flex-direction: column; align-items: stretch; gap: .5rem; }
+    .filter-panel-actions { justify-content: space-between; }
+    .active-filter-bar { padding: .4rem 0; }
 
     .post {
       display: flex; flex-direction: column; gap: .35rem; padding: .8rem 0;
@@ -506,6 +636,10 @@
             <option value="All">All Publishers / Companies</option>
           </select>
         </div>
+        <button id="filterToggleBtn" class="filter-toggle-btn" type="button" aria-expanded="false" aria-controls="filterPanel" title="Filter by product, company, financial, trust, and knowledge types">
+          <span>🎛️ Content Filters</span>
+          <span id="activeFilterBadge" class="filter-badge" style="display:none">0</span>
+        </button>
         <div class="read-group" role="group" aria-label="Filter by read status">
           <button type="button" class="read-tab" id="tabAll" aria-pressed="true">All (<span id="countAll">0</span>)</button>
           <button type="button" class="read-tab" id="tabUnread" aria-pressed="false">Unread (<span id="countUnread">0</span>)</button>
@@ -523,7 +657,7 @@
           <!-- Recency Filter -->
           <select id="dateFilter" class="mini-select" aria-label="Filter by date range">
             <option value="all">📅 All Time</option>
-            <option value="today">⚡ Today (< 24h)</option>
+            <option value="today">⚡ Today (&lt; 24h)</option>
             <option value="3days">⏱️ Past 3 Days</option>
             <option value="week">🗓️ This Week</option>
             <option value="month">📆 This Month</option>
@@ -542,11 +676,34 @@
           <button id="resetBtn" class="reset-btn" type="button" style="display:none" aria-label="Clear active filters">Clear ✕</button>
         </div>
       </div>
+
+      <!-- Topic & Content Intent Multi-Filter Panel -->
+      <div id="filterPanel" class="filter-panel" style="display:none;" aria-hidden="true">
+        <div class="filter-panel-header">
+          <div class="filter-panel-title-group">
+            <div class="filter-panel-title">🎯 Content &amp; Intent Multi-Filters</div>
+            <div class="filter-panel-sub">Select multiple filters across categories to pinpoint exactly what you need. Matches any selected filter.</div>
+          </div>
+          <div class="filter-panel-actions">
+            <button id="selectAllFiltersBtn" class="btn-subfilter-action" type="button">Select all</button>
+            <button id="resetSubfiltersBtn" class="btn-subfilter-action" type="button">Clear</button>
+            <button id="closeFilterPanelBtn" class="filter-panel-close" type="button" aria-label="Close filters">✕</button>
+          </div>
+        </div>
+        <div class="filter-groups-grid" id="filterGroupsGrid"></div>
+      </div>
     </div>
   </div>
 </header>
 
 <main class="wrap" id="mainContent">
+  <!-- Active Multi-Filter Tags Bar -->
+  <div id="activeFilterBar" class="active-filter-bar" style="display:none;">
+    <span class="active-filter-label">Active filters:</span>
+    <div id="activeFilterChips" class="active-filter-chips"></div>
+    <button id="clearSubfiltersBtn" class="clear-subfilters-btn" type="button">Clear all ✕</button>
+  </div>
+
   <!-- Daily Executive Briefing (Collapsible) -->
   <div id="briefingBox" class="briefing-box" style="display:none;">
     <div class="briefing-head" id="briefingHead">
@@ -701,7 +858,154 @@
 <script>
 (() => {
   const $ = (id) => document.getElementById(id);
-  
+
+  // Content & Intent Multi-Filter Taxonomy (5 Groups, 20 Sub-filters)
+  const FILTER_GROUPS = [
+    {
+      id: 'products',
+      name: 'About products and services',
+      icon: '🚀',
+      filters: [
+        {
+          id: 'prod_launches',
+          name: 'New launches, updates and features',
+          regex: /\b(launch(ed|ing|es)?|announc(ed|ing|es|ement)|releas(ed|ing|es|e)|new feature|introduc(ed|ing|es|tion)|unveil(ed|ing|s)?|v\d+(\.\d+)?|preview|beta|rollout|now available|what's new|changelog|update)\b/i
+        },
+        {
+          id: 'prod_pricing',
+          name: 'Pricing changes, discounts, and sales',
+          regex: /\b(pric(e|ing|es)|tier|cost|costs|discount|discounts|free tier|sale|sales|billing|credit|credits|subscription|rate limit|quota|pay as you go)\b/i
+        },
+        {
+          id: 'prod_tutorials',
+          name: 'Tutorials, documentation, and how-to guides',
+          regex: /\b(how[- ]to|tutorial|guide|walkthrough|cookbook|getting started|quickstart|documentation|docs|step[- ]by[- ]step|hands[- ]on|example|best practices|tips|tricks|learn)\b/i
+        },
+        {
+          id: 'prod_roadmaps',
+          name: 'Product roadmaps and upcoming releases',
+          regex: /\b(roadmap|upcoming|future of|sneak peek|coming soon|preview|next generation|vision for|what's next|planned|in progress|horizon)\b/i
+        }
+      ]
+    },
+    {
+      id: 'company',
+      name: 'About the company itself',
+      icon: '🏢',
+      filters: [
+        {
+          id: 'comp_funding',
+          name: 'Funding rounds, acquisitions, partnerships, and leadership changes',
+          regex: /\b(funding|series [a-z]|seed round|raise(d|s)?|valuation|acquir(e|ed|ing|ition)|partner(ed|ing|ship|ships)|invest(ment|or|ors)?|ceo|cto|cfo|appoint(ed|ment)|board of directors|joined as|leadership|promot(ed|ion))\b/i
+        },
+        {
+          id: 'comp_hiring',
+          name: 'Hiring announcements and company culture',
+          regex: /\b(hir(ing|e|es)|we're hiring|join (our|the) team|careers?|workplace|culture|employee|life at|internship|fellowship|job opening)\b/i
+        },
+        {
+          id: 'comp_mission',
+          name: 'Mission, values, and brand story',
+          regex: /\b(mission|values|our story|brand|manifesto|why we built|purpose|vision|founding story|principles|pledge|credo)\b/i
+        },
+        {
+          id: 'comp_office',
+          name: 'Office openings, expansions, and awards',
+          regex: /\b(office|headquarters|expansion|expands|new hub|award(s|ed)?|recognition|honored|named to|leader in|gartner|forrester|fast company)\b/i
+        }
+      ]
+    },
+    {
+      id: 'financial',
+      name: 'Financial and legal information',
+      icon: '📈',
+      filters: [
+        {
+          id: 'fin_results',
+          name: 'Quarterly and annual results (required for public companies)',
+          regex: /\b(q[1-4]\s*(?:20\d\d|results|earnings)|quarterly results|annual report|earnings report|financial results|fiscal year|revenue|profit|q[1-4] earnings|shareholder)\b/i
+        },
+        {
+          id: 'fin_investor',
+          name: 'Investor presentations and shareholder letters',
+          regex: /\b(investor(s)?|shareholder(s)?|annual meeting|shareholder meeting|analyst day|letter from (the|our) ceo|capital markets|investor update)\b/i
+        },
+        {
+          id: 'fin_regulatory',
+          name: 'Regulatory filings, such as SEC filings in the US',
+          regex: /\b(regulatory|sec filing|form 10-[kq]|form 8-k|compliance|antitrust|doj|ftc|gdpr|dma|regulation|investigation|subpoena|patent|lawsuit|litigation)\b/i
+        },
+        {
+          id: 'fin_legal',
+          name: 'Terms of service and privacy policies',
+          regex: /\b(terms of service|privacy policy|terms of use|data processing|dpa|service terms|cookie policy|legal agreement|user agreement|acceptable use|eula)\b/i
+        }
+      ]
+    },
+    {
+      id: 'trust',
+      name: 'Trust and responsibility',
+      icon: '🛡️',
+      filters: [
+        {
+          id: 'trust_security',
+          name: 'Security incidents, outages, and data breaches (often legally required)',
+          regex: /\b(incident|postmortem|outage|downtime|breach|vulnerability|cve|zero-day|security advisory|patch|exploit|threat|malware|ransomware|status update|root cause analysis|rca)\b/i
+        },
+        {
+          id: 'trust_safety',
+          name: 'Product recalls and safety notices',
+          regex: /\b(safety notice|recall|advisory|risk mitigation|model safety|ai safety|red team(ing)?|safeguard(s)?|jailbreak|alignment|content moderation|harm evaluation|guardrail(s)?)\b/i
+        },
+        {
+          id: 'trust_sustainability',
+          name: 'Sustainability, ethics, and diversity reports',
+          regex: /\b(sustainability|diversity|inclusion|dei|carbon|climate|green energy|emissions|net zero|ethics|responsible ai|environmental|renewable|social impact)\b/i
+        },
+        {
+          id: 'trust_transparency',
+          name: 'Transparency reports, such as government data requests',
+          regex: /\b(transparency|government request|data request|law enforcement|audit report|compliance report|trust center|responsible disclosure)\b/i
+        }
+      ]
+    },
+    {
+      id: 'knowledge',
+      name: 'Knowledge and thought leadership',
+      icon: '💡',
+      filters: [
+        {
+          id: 'know_research',
+          name: 'Research papers, whitepapers, and case studies',
+          regex: /\b(research|paper|arxiv|whitepaper|case study|study|benchmark|evaluation|technical report|dataset|theory|mathematics|experiment|proof|finding)\b/i,
+          matchFn: (p) => p.category === 'Research' || (p.link && p.link.includes('arxiv.org'))
+        },
+        {
+          id: 'know_engineering',
+          name: 'Engineering deep-dives and open-source releases',
+          regex: /\b(engineering|deep dive|architecture|infrastructure|open source|open-source|github|repo|codebase|kernel|compiler|cuda|performance|scal(ing|ability)|latency|distributed|under the hood|how we built)\b/i
+        },
+        {
+          id: 'know_opinions',
+          name: 'Industry opinions and trend analyses',
+          regex: /\b(opinion|perspective|trend|trends|future of|analysis|state of ai|outlook|predictions|thoughts on|essay|reflection|commentary|landscape|why)\b/i
+        },
+        {
+          id: 'know_customer',
+          name: 'Customer success stories',
+          regex: /\b(customer story|customer stories|customer spotlight|case study|how \w+ uses|powered by|adoption|success story|in production|enterprise story|client story)\b/i
+        }
+      ]
+    }
+  ];
+
+  const FILTER_MAP = {};
+  for (const group of FILTER_GROUPS) {
+    for (const sf of group.filters) {
+      FILTER_MAP[sf.id] = { ...sf, groupId: group.id, groupName: group.name };
+    }
+  }
+
   // App State
   const state = {
     posts: [],
@@ -715,6 +1019,7 @@
     updatedDate: null,
     readSet: new Set(),
     starredSet: new Set(),
+    selectedSubfilters: new Set(),
     currentReadingPost: null,
     briefingOpen: true
   };
@@ -750,12 +1055,27 @@
     const rawBrief = localStorage.getItem('briefingOpen');
     if (rawBrief !== null) state.briefingOpen = rawBrief === 'true';
   } catch {}
+  try {
+    const rawSub = localStorage.getItem('bd_subfilters');
+    if (rawSub) state.selectedSubfilters = new Set(JSON.parse(rawSub));
+  } catch {}
 
   function saveReadSet() {
     try { localStorage.setItem('readPostLinks', JSON.stringify([...state.readSet])); } catch {}
   }
   function saveStarredSet() {
     try { localStorage.setItem('starredPostLinks', JSON.stringify([...state.starredSet])); } catch {}
+  }
+  function saveSelectedSubfilters() {
+    try { localStorage.setItem('bd_subfilters', JSON.stringify([...state.selectedSubfilters])); } catch {}
+  }
+
+  function postMatchesSubfilter(p, sfId) {
+    const filter = FILTER_MAP[sfId];
+    if (!filter) return false;
+    if (filter.matchFn && filter.matchFn(p)) return true;
+    const text = (p.title + ' ' + (p.summary || '')).toLowerCase();
+    return filter.regex.test(text);
   }
 
   // Calculate estimated reading time
@@ -802,7 +1122,7 @@
   function updateResetBtn() {
     const isFiltered = state.cat !== 'All' || state.source !== 'All' || state.readFilter !== 'all' || 
                        state.dateRange !== 'all' || state.sortBy !== 'newest' || 
-                       state.q.trim() !== '';
+                       state.q.trim() !== '' || state.selectedSubfilters.size > 0;
     const btn = $('resetBtn');
     if (btn) btn.style.display = isFiltered ? 'inline-flex' : 'none';
   }
@@ -830,6 +1150,18 @@
       // Category & Source Filter
       if (state.cat !== 'All' && p.category !== state.cat) return false;
       if (state.source !== 'All' && p.source !== state.source) return false;
+
+      // Content & Intent Subfilters (Multi-select: matches ANY selected filter)
+      if (state.selectedSubfilters.size > 0) {
+        let matchesAny = false;
+        for (const sfId of state.selectedSubfilters) {
+          if (postMatchesSubfilter(p, sfId)) {
+            matchesAny = true;
+            break;
+          }
+        }
+        if (!matchesAny) return false;
+      }
 
       // Search Query
       if (q) {
@@ -1063,6 +1395,7 @@
         state.cat = c;
         renderChips();
         renderSourceSelect();
+        renderFilterPanel();
         render();
         b.scrollIntoView({ behavior: 'smooth', inline: 'nearest', block: 'nearest' });
       };
@@ -1098,6 +1431,198 @@
       sel.append(opt);
     }
     sel.value = state.source;
+  }
+
+  function renderActiveFilterChips() {
+    const bar = $('activeFilterBar');
+    const chipsCont = $('activeFilterChips');
+    const badge = $('activeFilterBadge');
+    const count = state.selectedSubfilters.size;
+
+    if (badge) {
+      if (count > 0) {
+        badge.textContent = count;
+        badge.style.display = 'inline-block';
+      } else {
+        badge.style.display = 'none';
+      }
+    }
+
+    if (!bar || !chipsCont) return;
+
+    if (count === 0) {
+      bar.style.display = 'none';
+      chipsCont.replaceChildren();
+      return;
+    }
+
+    bar.style.display = 'flex';
+    chipsCont.replaceChildren();
+
+    for (const sfId of state.selectedSubfilters) {
+      const sf = FILTER_MAP[sfId];
+      if (!sf) continue;
+      const chip = el('span', { className: 'active-filter-chip', textContent: sf.name + ' ' });
+      const rmBtn = el('button', {
+        type: 'button',
+        title: `Remove ${sf.name} filter`,
+        textContent: '✕'
+      });
+      rmBtn.onclick = (e) => {
+        e.stopPropagation();
+        state.selectedSubfilters.delete(sfId);
+        saveSelectedSubfilters();
+        renderActiveFilterChips();
+        renderFilterPanel();
+        render();
+      };
+      chip.append(rmBtn);
+      chipsCont.append(chip);
+    }
+  }
+
+  function renderFilterPanel() {
+    const grid = $('filterGroupsGrid');
+    if (!grid) return;
+
+    // Dynamic match counts based on current category or all posts
+    const counts = {};
+    for (const sfId of Object.keys(FILTER_MAP)) {
+      counts[sfId] = 0;
+    }
+    const basePosts = state.cat === 'All'
+      ? state.posts
+      : state.posts.filter((p) => p.category === state.cat);
+
+    for (const p of basePosts) {
+      for (const sfId of Object.keys(FILTER_MAP)) {
+        if (postMatchesSubfilter(p, sfId)) {
+          counts[sfId]++;
+        }
+      }
+    }
+
+    grid.replaceChildren();
+
+    for (const group of FILTER_GROUPS) {
+      const card = el('div', { className: 'filter-group-card' });
+      const head = el('div', { className: 'filter-group-header' });
+      const title = el('div', { className: 'filter-group-name' },
+        el('span', { textContent: group.icon + ' ' }),
+        el('span', { textContent: group.name })
+      );
+
+      const allActive = group.filters.every((f) => state.selectedSubfilters.has(f.id));
+
+      const toggleGroupBtn = el('button', {
+        type: 'button',
+        className: 'filter-group-select-all',
+        textContent: allActive ? 'Deselect all' : 'Select all'
+      });
+      toggleGroupBtn.onclick = () => {
+        if (allActive) {
+          for (const f of group.filters) state.selectedSubfilters.delete(f.id);
+        } else {
+          for (const f of group.filters) state.selectedSubfilters.add(f.id);
+        }
+        saveSelectedSubfilters();
+        renderActiveFilterChips();
+        renderFilterPanel();
+        render();
+      };
+
+      head.append(title, toggleGroupBtn);
+
+      const itemsList = el('ul', { className: 'subfilter-items' });
+      for (const sf of group.filters) {
+        const li = el('li');
+        const label = el('label', { className: 'subfilter-label' });
+        const cb = el('input', {
+          type: 'checkbox',
+          checked: state.selectedSubfilters.has(sf.id)
+        });
+        cb.onchange = () => {
+          if (cb.checked) state.selectedSubfilters.add(sf.id);
+          else state.selectedSubfilters.delete(sf.id);
+          saveSelectedSubfilters();
+          renderActiveFilterChips();
+          renderFilterPanel();
+          render();
+        };
+
+        const textSpan = el('span', { className: 'subfilter-text', textContent: sf.name });
+        const countSpan = el('span', { className: 'subfilter-count', textContent: String(counts[sf.id] || 0) });
+
+        label.append(cb, textSpan, countSpan);
+        li.append(label);
+        itemsList.append(li);
+      }
+
+      card.append(head, itemsList);
+      grid.append(card);
+    }
+  }
+
+  // Filter panel actions and toggles
+  const filterToggleBtn = $('filterToggleBtn');
+  const filterPanel = $('filterPanel');
+  if (filterToggleBtn && filterPanel) {
+    filterToggleBtn.onclick = () => {
+      const isClosed = filterPanel.style.display === 'none' || !filterPanel.style.display;
+      if (isClosed) {
+        filterPanel.style.display = 'block';
+        filterToggleBtn.setAttribute('aria-expanded', 'true');
+        renderFilterPanel();
+      } else {
+        filterPanel.style.display = 'none';
+        filterToggleBtn.setAttribute('aria-expanded', 'false');
+      }
+      setHead();
+    };
+  }
+
+  const closeFilterPanelBtn = $('closeFilterPanelBtn');
+  if (closeFilterPanelBtn && filterPanel && filterToggleBtn) {
+    closeFilterPanelBtn.onclick = () => {
+      filterPanel.style.display = 'none';
+      filterToggleBtn.setAttribute('aria-expanded', 'false');
+      setHead();
+    };
+  }
+
+  const selectAllFiltersBtn = $('selectAllFiltersBtn');
+  if (selectAllFiltersBtn) {
+    selectAllFiltersBtn.onclick = () => {
+      for (const sfId of Object.keys(FILTER_MAP)) {
+        state.selectedSubfilters.add(sfId);
+      }
+      saveSelectedSubfilters();
+      renderActiveFilterChips();
+      renderFilterPanel();
+      render();
+    };
+  }
+
+  const resetSubfiltersBtn = $('resetSubfiltersBtn');
+  if (resetSubfiltersBtn) {
+    resetSubfiltersBtn.onclick = () => {
+      state.selectedSubfilters.clear();
+      saveSelectedSubfilters();
+      renderActiveFilterChips();
+      renderFilterPanel();
+      render();
+    };
+  }
+
+  const clearSubfiltersBtn = $('clearSubfiltersBtn');
+  if (clearSubfiltersBtn) {
+    clearSubfiltersBtn.onclick = () => {
+      state.selectedSubfilters.clear();
+      saveSelectedSubfilters();
+      renderActiveFilterChips();
+      renderFilterPanel();
+      render();
+    };
   }
 
   function setReadFilter(filter) {
@@ -1171,12 +1696,16 @@
     state.dateRange = 'all';
     state.sortBy = 'newest';
     state.q = '';
+    state.selectedSubfilters.clear();
+    saveSelectedSubfilters();
     $('q').value = '';
     $('dateFilter').value = 'all';
     $('sortSelect').value = 'newest';
     setReadFilter('all');
     renderChips();
     renderSourceSelect();
+    renderActiveFilterChips();
+    renderFilterPanel();
     render();
   });
 
@@ -1636,6 +2165,8 @@
       renderBriefing();
       renderChips();
       renderSourceSelect();
+      renderFilterPanel();
+      renderActiveFilterChips();
       render();
       try { localStorage.setItem('lastVisit', String(Date.now())); } catch {}
     })
