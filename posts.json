@@ -1,11 +1,1899 @@
 {
- "updated": "2026-10-28T07:02:16.130Z",
+ "updated": "2026-10-30T07:27:31.918Z",
  "failed": [
+  "Benn Stancil: Status code 403",
   "Deep Learning Focus: Status code 403",
-  "Import AI: Status code 403",
-  "Benn Stancil: Status code 403"
+  "Import AI: Status code 403"
  ],
  "posts": [
+  {
+   "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+   "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-30T07:01:00.000Z",
+   "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker."
+  },
+  {
+   "title": "Omio founder’s advice to entrepreneurs: Find a problem worth solving and stick with it",
+   "link": "https://yourstory.com/2026/10/omio-founder-advice-entrepreneurs-find-a-problem-worth-solving-stick-with-it",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T06:49:36.000Z",
+   "summary": "At TechSparks 2026, Naren Shaam, Founder and CEO of Omio Group, advised entrepreneurs to think globally from day one, tackle difficult problems, and stay committed for the long term."
+  },
+  {
+   "title": "Too much code, too little shipped: Why AI needs a software factory",
+   "link": "https://yourstory.com/2026/10/too-much-code-too-little-shipped-why-ai-needs-software-factory",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T06:40:49.000Z",
+   "summary": "Can AI run the entire software show? At TechSparks 2026, ForgeCode CEO Tushar Mathur explained how AI agents can automate software development while engineers focus on quality and results."
+  },
+  {
+   "title": "How Stelcore helps brands go global without building everything from scratch",
+   "link": "https://yourstory.com/2026/10/how-stelcore-helps-brands-go-global-techsparks-2026",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T05:48:43.000Z",
+   "summary": "Taking a brand global means navigating more than just new markets. At TechSparks 2026, Stelcore Group founder Bharat Mandot explained how the company connects importing, payments, logistics and compliance."
+  },
+  {
+   "title": "Pixxel deepens US push with dedicated federal subsidiary",
+   "link": "https://yourstory.com/2026/10/pixxel-deepens-us-push-with-dedicated-federal-subsidiary",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T05:22:45.000Z",
+   "summary": "Pixxel Federal will build on its existing enagements with NASA and the National Reconnaissance Office, as the Bengaluru-based company seeks to expands its satellite intelligence, advanced sensing and software business with American government agencies."
+  },
+  {
+   "title": "Hero MotoCorp to increase EV capacity to 80,000 units per month by Q2 FY28",
+   "link": "https://yourstory.com/2026/10/hero-motocorp-increase-ev-capacity-to-80000-units-per-month-by-q2-fy28",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T05:19:26.000Z",
+   "summary": "The automaker's electric two-wheeler capacity was at 15,000 units per month at the end of the financial year 2026. The capacity currently stands at 30,000 units."
+  },
+  {
+   "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
+   "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-30T05:02:52.000Z",
+   "summary": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTechPost."
+  },
+  {
+   "title": "D2C brands don't need an AI team to get discovered and grow, says Shopflo",
+   "link": "https://yourstory.com/2026/10/d2c-brands-dont-need-ai-team-get-discovered-grow-shopflo",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T04:44:10.000Z",
+   "summary": "What if your next customer is an AI agent? At TechSparks 2026, Mihir Shah of Shopflo by Pine Labs explained how brands can connect product catalogues to AI shopping platforms and drive conversions."
+  },
+  {
+   "title": "Chronicle of Higher Education interviews me on AI and education",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-30T04:32:28.000Z",
+   "summary": "Scott Carlson did the work (gated, but free with registration), here is one excerpt: Cowen: …Another proposal I’ve made is that schools should let people do one class, only one class, AI-only — no professor, except a professor grades at the end. The professor grades not answers to an exam but the workflow of how […] Th"
+  },
+  {
+   "title": "Pine Labs Q2 net profit soars 6.5x; Cognizant trims 2026 growth outlook",
+   "link": "https://yourstory.com/2026/10/pine-labs-q2-net-profit-soars-65x-cognizant-trims-2026-growth-outlook",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-30T02:00:00.000Z",
+   "summary": "Pine Labs’ net profit rose 6.5 times to Rs 38.6 crore in the second quarter of FY27, while revenue grew 24% year on year to Rs 806 crore. In other news, Cognizant has trimmed the upper end of its annual growth guidance for 2026."
+  },
+  {
+   "title": "When Your Parents Are Dying: Some of the Simplest, Most Difficult and Redemptive Life-Advice You’ll Ever Receive",
+   "link": "https://www.themarginalian.org/2026/10/29/when-your-parents-are-dying-mary-gaitskill/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-10-30T01:36:59.000Z",
+   "summary": "\"Death makes human beings seem like very small containers that are packed so densely we can only be aware of a fraction of what's inside us from moment to moment.\""
+  },
+  {
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-30T01:20:48.000Z",
+   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+  },
+  {
+   "title": "The director of Obsession put a new horror short on YouTube",
+   "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T23:57:18.000Z",
+   "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary ahea"
+  },
+  {
+   "title": "What Is Your Refugium?",
+   "link": "https://www.themarginalian.org/2026/10/29/horse-chestnut-refugium/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-10-29T23:48:04.000Z",
+   "summary": "For courage, says Bulgarian folk wisdom instructs, keep a horse chestnut in your pocket. Even as a child, I was mistrustful of superstition. But every autumn, I would pick up dozens of them from the sidewalks of Sofia and fill my pockets — not as a spell against fear but as an ode to joy. Conkers, as the English call t"
+  },
+  {
+   "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+   "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T23:44:56.000Z",
+   "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
+  },
+  {
+   "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+   "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T23:42:22.000Z",
+   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+  },
+  {
+   "title": "Intel says it’s selling every affordable laptop chip it can make",
+   "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T23:42:21.000Z",
+   "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time because it's cost-op"
+  },
+  {
+   "title": "Sony is working on a film adaptation of viral indie horror game Mouthwashing",
+   "link": "https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T22:52:36.000Z",
+   "summary": "The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation."
+  },
+  {
+   "title": "API credits benefit for eligible ChatGPT subscriptions",
+   "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-29T22:48:29.000Z",
+   "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty muc"
+  },
+  {
+   "title": "Announcing General Availability of Real-Time Mode for Spark Declarative Pipelines on Databricks",
+   "link": "https://www.databricks.com/blog/announcing-general-availability-real-time-mode-spark-declarative-pipelines-databricks",
+   "source": "Databricks",
+   "category": "Data Science",
+   "date": "2026-10-29T22:30:04.000Z",
+   "summary": "We introduced Real-Time Mode (RTM) last year which enabled customers to build low-latency, operational use cases..."
+  },
+  {
+   "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+   "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T22:27:23.000Z",
+   "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday."
+  },
+  {
+   "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+   "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T22:19:32.000Z",
+   "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on "
+  },
+  {
+   "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
+   "link": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T22:05:39.000Z",
+   "summary": "Twitter Circle, anyone?"
+  },
+  {
+   "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+   "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T21:51:29.000Z",
+   "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project."
+  },
+  {
+   "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
+   "link": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T21:48:05.000Z",
+   "summary": "Trying to make everyone happy could make no one happy."
+  },
+  {
+   "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+   "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T21:47:57.000Z",
+   "summary": "Reddit's search traffic \"was down meaningfully\" last quarter."
+  },
+  {
+   "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+   "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T21:20:47.000Z",
+   "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
+  },
+  {
+   "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+   "link": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-29T21:20:29.000Z",
+   "summary": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost."
+  },
+  {
+   "title": "Fan fiction website AO3 is down, and it could take weeks to recover",
+   "link": "https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T21:18:22.000Z",
+   "summary": "The site's data is reportedly intact, but the cause of the outage is still unknown."
+  },
+  {
+   "title": "Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan",
+   "link": "https://developer.apple.com/news/?id=w9mxlhek",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-29T21:03:42.000Z",
+   "summary": "Apple Developer News: Apple is making changes to the Taiwan storefront of the App Store, following discussions with the Taiwan Fair Trade Commission. As of October 31, 2026, the commission rate for standard Apple In-App Purchase and paid app transactions will be 26% on the Taiwan storefront of the App Store on iOS and "
+  },
+  {
+   "title": "GM reaches $220M settlement over selling drivers’ private data",
+   "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T21:01:04.000Z",
+   "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data."
+  },
+  {
+   "title": "langchain-core==1.7.3",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.3",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-29T20:56:14.000Z",
+   "summary": "Changes since langchain-core==1.7.2 release(core): 1.7.3 (#41564)"
+  },
+  {
+   "title": "What to Know About China’s Top-Secret Spaceplane",
+   "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T20:45:36.000Z",
+   "summary": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious."
+  },
+  {
+   "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+   "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T20:43:56.000Z",
+   "summary": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media."
+  },
+  {
+   "title": "Reddit will force users to log in as AI is killing search traffic",
+   "link": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T20:32:49.000Z",
+   "summary": "The company is starting with tests outside of the US."
+  },
+  {
+   "title": "Google fixes an annoying Photos bug that hid edited images from other apps",
+   "link": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T20:26:24.000Z",
+   "summary": "Hey, that's not what Magic Eraser is supposed to do!"
+  },
+  {
+   "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
+   "link": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T20:24:25.000Z",
+   "summary": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post Google’s Ads Decoded Explores How AI Is Changing Search Behavior appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+   "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T20:18:49.000Z",
+   "summary": "The latest update also brings a cloud recovery option for PCs that won't boot."
+  },
+  {
+   "title": "Google brings AI Mode advertisements to more countries",
+   "link": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T20:18:24.000Z",
+   "summary": "Adding sponsored content in more markets could make the feature profitable."
+  },
+  {
+   "title": "How the UK Amazon Quick User Group grew in 2026",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-29T20:16:40.000Z",
+   "summary": "The UK Amazon Quick User Group's 2026 roundup: three quarterly meetups, 150+ attendees, and customer stories from Arriva, Carsa, and Propulse Lab on using agentic AI and Amazon Quick to turn data into faster decisions, higher satisfaction, and scalable growth."
+  },
+  {
+   "title": "How BMW Group accelerated connected vehicle workloads on AWS Graviton",
+   "link": "https://aws.amazon.com/blogs/architecture/how-bmw-group-accelerated-connected-vehicle-workloads-on-aws-graviton/",
+   "source": "AWS Architecture",
+   "category": "Software Engineering",
+   "date": "2026-10-29T20:11:14.000Z",
+   "summary": "Learn how BMW Group migrated its connected vehicle platform from x86 to AWS Graviton. Using Karpenter, multi-architecture container builds, and Graviton-based CI/CD runners, the team moved workloads without disruption, cutting NGINX ingress CPU by about 57 percent and delivering about 40 percent better price-performanc"
+  },
+  {
+   "title": "Patrick Stewart has died at age 86",
+   "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T20:10:02.000Z",
+   "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, En"
+  },
+  {
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T20:08:31.000Z",
+   "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+  },
+  {
+   "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+   "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T20:08:10.000Z",
+   "summary": "Inspector general rejected request from Democratic and Republican senators."
+  },
+  {
+   "title": "Reddit will force everyone to log in",
+   "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T20:07:00.000Z",
+   "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot of Google searche"
+  },
+  {
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T20:05:47.000Z",
+   "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+  },
+  {
+   "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+   "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T20:02:03.000Z",
+   "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year."
+  },
+  {
+   "title": "Rivian’s R2 is officially its best-selling vehicle",
+   "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T20:02:00.000Z",
+   "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent "
+  },
+  {
+   "title": "A Health Update From Craig Hockenberry",
+   "link": "https://furbo.org/2026/10/28/a-health-update/",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-29T19:57:21.000Z",
+   "summary": "Craig Hockenberry: If you noticed that the Iconfactory sites were kinda broken last week, now you know why. It’s because I was kinda broken last week. Now I’m finishing this post from a comfy chair on our deck. Typing into the latest version of WordPress and PHP. And I couldn’t be happier. No, you teared up a little re"
+  },
+  {
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T19:56:19.000Z",
+   "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+  },
+  {
+   "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
+   "link": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T19:51:56.000Z",
+   "summary": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole."
+  },
+  {
+   "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+   "link": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T19:47:55.000Z",
+   "summary": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google’s Q3 Selloff Raises Advertiser Concerns About AI Search appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’",
+   "link": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-29T19:44:11.000Z",
+   "summary": "Rolfe Winkler, in a crackerjack story for The Wall Street Journal (gift link): Blevins, who left Apple in 2022, sometimes set up back-to-back meetings with suppliers so that rival sales teams might run into each other, stoking competitive tension. Sales representatives learned to pack nutrition bars to sustain them thr"
+  },
+  {
+   "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
+   "link": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T19:41:36.000Z",
+   "summary": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday."
+  },
+  {
+   "title": "Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof",
+   "link": "https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T19:40:27.000Z",
+   "summary": "Just what the Sandworm bucket needed: a second hole."
+  },
+  {
+   "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+   "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T19:19:28.000Z",
+   "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it collects and obtain \"expr"
+  },
+  {
+   "title": "Microsoft Research Focus – Edition #97",
+   "link": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/",
+   "source": "Microsoft Research",
+   "category": "AI & ML",
+   "date": "2026-10-29T19:19:16.000Z",
+   "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting. The post Microsoft Research Focus – Edition #97 appeared first on Microsof"
+  },
+  {
+   "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+   "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T19:17:49.000Z",
+   "summary": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?"
+  },
+  {
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-10-29T19:14:36.000Z",
+   "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+  },
+  {
+   "title": "Trump declares robot imports a national security threat",
+   "link": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T19:07:53.000Z",
+   "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs."
+  },
+  {
+   "title": "langchain-core==1.7.2",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.2",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-29T19:04:31.000Z",
+   "summary": "Changes since langchain-core==1.7.1 release(core): 1.7.2 (#41562) add_notification_metadata and get_notification_metadata (#41540) merge_content from changing the first message's content (#41502)"
+  },
+  {
+   "title": "Hacker may have stolen millions in a malware attack against online poker players",
+   "link": "https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T19:03:18.000Z",
+   "summary": "Wired has the story of a superuser cheating scandal."
+  },
+  {
+   "title": "Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible via @sejournal, @DuaneForrester",
+   "link": "https://www.searchenginejournal.com/accurate-facts-can-still-produce-a-false-ai-answer-and-courts-are-starting-to-hold-the-platform-responsible/594296/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T19:00:31.000Z",
+   "summary": "AI search merges businesses with their lookalikes, and courts are holding platforms liable. Here’s how conflation happens and how to make your entity unmistakable. The post Accurate Facts Can Still Produce A False AI Answer, And Courts Are Starting To Hold The Platform Responsible appeared first on Search Engine Journa"
+  },
+  {
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T18:45:31.000Z",
+   "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file f"
+  },
+  {
+   "title": "Netflix is making a live-action PUBG show written and directed by Donald Glover",
+   "link": "https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T18:45:00.000Z",
+   "summary": "The streamer also has an Assassin's Creed series in the works, along with a Gears of War feature film."
+  },
+  {
+   "title": "Strix now supports Vercel AI Gateway",
+   "link": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T18:44:00.000Z",
+   "summary": ", the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel .StrixAI Gateway Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all m"
+  },
+  {
+   "title": "Don't expect more Assassin's Creed remakes anytime soon",
+   "link": "https://www.engadget.com/2301452/dont-expect-more-assassins-creed-remakes-anytime-soon/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T18:40:00.000Z",
+   "summary": "Ubisoft shared some updates on the franchise, including confirmation of a New Game+ option for Assassin's Creed Valhalla."
+  },
+  {
+   "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+   "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T18:39:43.000Z",
+   "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched."
+  },
+  {
+   "title": "NVIDIA CEO Jensen Huang may have been the target of a Chinese government spy",
+   "link": "https://www.engadget.com/2301447/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-chinese-government-spy/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T18:34:43.000Z",
+   "summary": "President Trump reportedly chose to do nothing in response."
+  },
+  {
+   "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T18:29:12.000Z",
+   "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China."
+  },
+  {
+   "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+   "link": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-29T18:28:57.000Z",
+   "summary": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared first on MarkTechPos"
+  },
+  {
+   "title": "Building intent-driven UI testing with Amazon Nova Act",
+   "link": "https://aws.amazon.com/blogs/machine-learning/building-intent-driven-ui-testing-with-amazon-nova-act/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-29T18:20:27.000Z",
+   "summary": "Epsilon's Agentic Platform team delivers UI testing as a managed, multi-tenant service built on Amazon Nova Act and Amazon Bedrock AgentCore Browser Tool. Tests are written in plain English and run on browsers managed by AWS, giving every product team resilient, intent-driven testing with zero per-team infrastructure o"
+  },
+  {
+   "title": "Meta will now alert parents if teens 'repeatedly' search for self-harm content on Facebook",
+   "link": "https://www.engadget.com/2301410/meta-will-now-alert-parents-if-teens-repeatedly-search-for-self-harm-content-on-facebook/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T18:20:21.000Z",
+   "summary": "The company will also notify parents about conversations with Meta AI."
+  },
+  {
+   "title": "Ikea’s colorful donut-shaped smart lamp is $20 off",
+   "link": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T18:18:36.000Z",
+   "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt l"
+  },
+  {
+   "title": "How boAt delivers personalized fitness coaching with Amazon Bedrock",
+   "link": "https://aws.amazon.com/blogs/architecture/how-boat-delivers-personalized-fitness-coaching-with-amazon-bedrock/",
+   "source": "AWS Architecture",
+   "category": "Software Engineering",
+   "date": "2026-10-29T18:16:38.000Z",
+   "summary": "Learn how boAt built its AI Coach feature on Amazon Bedrock and AWS Lambda to deliver personalized, real-time fitness coaching to millions of smartwatch users across India, and the design choices that made the solution scalable and cost-effective."
+  },
+  {
+   "title": "Build a repeatable PHP-to-Java migration engine with Kiro",
+   "link": "https://aws.amazon.com/blogs/machine-learning/build-a-repeatable-php-to-java-migration-engine-with-kiro/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-29T18:14:17.000Z",
+   "summary": "Turn a PHP-to-Java migration from a one-time leap of faith into a measurable, repeatable process with Kiro. This post walks through a reusable engine: a mechanical discovery scanner and an eight-phase, parity-first workflow that treats the original PHP application as the specification and verifies the Java port with a "
+  },
+  {
+   "title": "Turning a solar power system into its own backup",
+   "link": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T18:02:26.000Z",
+   "summary": "Plant design allows it to run on either stored solar heat or combustion."
+  },
+  {
+   "title": "Can Artificial Intelligence Forecast Treatment Effects in Economics?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-29T18:02:03.000Z",
+   "summary": "I use LLMs to forecast treatment effects of research studies pre-registered on the AEA RCT Registry and the Open Science Framework. I focus on studies whose results were first publicly released in 2026 and elicit forecasts from models whose training or knowledge cut-off dates were before the relevant set of papers was "
+  },
+  {
+   "title": "Apple’s new laptop supports one of the coolest features for color pros",
+   "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-10-29T17:48:09.000Z",
+   "summary": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it use"
+  },
+  {
+   "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
+   "link": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T17:41:36.000Z",
+   "summary": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try it risk-free for 99 days."
+  },
+  {
+   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T17:21:33.000Z",
+   "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling."
+  },
+  {
+   "title": "Building a multiplayer game world with autonomous Fable-class models",
+   "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-29T17:00:26.000Z",
+   "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gami"
+  },
+  {
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "link": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "category": "AI & ML",
+   "date": "2026-10-29T17:00:00.000Z",
+   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+  },
+  {
+   "title": "IP geolocation now covers more visitors at higher resolution",
+   "link": "https://vercel.com/changelog/improved-ip-geolocation-data",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T17:00:00.000Z",
+   "summary": "on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic.IP geolocation Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all p"
+  },
+  {
+   "title": "Lend and borrow resources across teams with AWS Batch’s quota management for SageMaker Training jobs",
+   "link": "https://aws.amazon.com/blogs/machine-learning/lend-and-borrow-resources-across-teams-with-aws-batchs-quota-management-for-sagemaker-training-jobs/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-29T16:58:57.000Z",
+   "summary": "AWS Batch quota management is a new scheduling capability you can use to divide GPU capacity into quota shares per team or project, automatically lend idle capacity across shares, and use preemption to run your highest-priority SageMaker Training jobs first, all without manual coordination."
+  },
+  {
+   "title": "How MoEngage turned over 400 APIs into agent tools with AgentCore Gateway",
+   "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-turned-over-400-apis-into-agent-tools-with-agentcore-gateway/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-29T16:54:52.000Z",
+   "summary": "MoEngage turned roughly 400 private REST APIs across 7 AWS Regions into permission-scoped agent tools with Amazon Bedrock AgentCore Gateway. No per-service MCP servers, no public endpoints, and no 400-tool context bloat. See how OpenAPI specs, Cedar policies, and managed Amazon VPC Lattice egress made it work."
+  },
+  {
+   "title": "Links For October 2026",
+   "link": "https://www.astralcodexten.com/p/links-for-october-2026",
+   "source": "Astral Codex Ten",
+   "category": "Ideas",
+   "date": "2026-10-29T16:33:24.000Z",
+   "summary": "..."
+  },
+  {
+   "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+   "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T16:24:55.000Z",
+   "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings."
+  },
+  {
+   "title": "Thursday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-576",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-29T16:19:21.000Z",
+   "summary": "1. “A whopping 79 NBA players are listed on today’s 2:30 PM injury report for tonight’s games. That’s roughly 15% of the entire league” This is just week one people! And some commentary. 2. Video making the case that AI has been fine for jobs. 3. John Repetti reviews The Rouse at Jacobin. 4. Is […] The post Thursday as"
+  },
+  {
+   "title": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-29T16:11:08.000Z",
+   "summary": "NVIDIA Nemotron 3.5 Super VL is a 120B-parameter mixture-of-experts model that pairs reasoning and tool use with multimodal understanding. This post explores its architecture and use cases, then shows how to deploy it on Amazon EKS, EKS Auto Mode, and Amazon SageMaker HyperPod EKS with NVIDIA Dynamo and vLLM."
+  },
+  {
+   "title": "ThermoWorks debuts shorter version of its RFX Meat wireless probe for small cuts",
+   "link": "https://www.engadget.com/2301085/thermoworks-debuts-shorter-version-of-its-rfx-meat-wireless-probe-for-small-cuts/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T16:04:13.000Z",
+   "summary": "The RFX Meat Mini offers nearly identical performance to the full-sized grilling probe."
+  },
+  {
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "source": "NVIDIA",
+   "category": "AI & ML",
+   "date": "2026-10-29T16:00:35.000Z",
+   "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, invest"
+  },
+  {
+   "title": "Catching Bugs Before They Land: JiTTesting’s Human-on-the-Loop Approach at Full Scale",
+   "link": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+   "source": "Meta Engineering",
+   "category": "Software Engineering",
+   "date": "2026-10-29T16:00:12.000Z",
+   "summary": "Over the last year we’ve been sharing our work leveraging large language models to catch bugs on the fly — a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we’re sharing the results and positive impact we’ve seen with Catching JiTTests deployed into production. Our paper, “Just-in-Time Catching Tes"
+  },
+  {
+   "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+   "link": "https://latent.space/p/elorian/",
+   "source": "Latent Space",
+   "category": "AI Agents",
+   "date": "2026-10-29T16:00:00.000Z",
+   "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images."
+  },
+  {
+   "title": "Lighthouse Communities Foundation lists on BSE’s Social Stock Exchange to scale youth livelihoods",
+   "link": "https://yourstory.com/2026/10/lighthouse-communities-foundation-lists-on-bse-to-scale-youth-livelihood",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T15:49:52.000Z",
+   "summary": "Lighthouse Communities Foundation has joined BSE’s Social Stock Exchange to raise funds to help 500 young people in Pune build career confidence and job-ready skills."
+  },
+  {
+   "title": "Data Movement Strategies In System Design",
+   "link": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+   "source": "ByteByteGo",
+   "category": "Software Engineering",
+   "date": "2026-10-29T15:31:02.000Z",
+   "summary": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it."
+  },
+  {
+   "title": "How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO via @sejournal, @HelenPollitt1",
+   "link": "https://www.searchenginejournal.com/ask-an-seo-how-can-i-tell-if-my-images-are-optimised-for-multimodal-search/593861/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T15:30:40.000Z",
+   "summary": "Check whether search engines can find and understand your images, and spot technical issues that limit their visibility in multimodal search. The post How Can I Tell If My Images Are Optimized For Multimodal Search? – Ask an SEO appeared first on Search Engine Journal."
+  },
+  {
+   "title": "When Labels Say No, But Embeddings Say Yes",
+   "link": "https://towardsdatascience.com/when-labels-say-no-but-embeddings-say-yes/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-29T15:30:00.000Z",
+   "summary": "Why traditional retrieval metrics miss meaningful similarities The post When Labels Say No, But Embeddings Say Yes appeared first on Towards Data Science."
+  },
+  {
+   "title": "The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down",
+   "link": "https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-29T15:06:56.000Z",
+   "summary": "How Jason Snell beat me to linking to this, I don’t know. But like I said back in February, when it comes to signage, “Mind your P’s and Q’s” ought to be “Mind your H’s and S’s”. ★"
+  },
+  {
+   "title": "FromSoftware delays The Duskbloods until 2027",
+   "link": "https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-10-29T15:02:41.000Z",
+   "summary": "The studio is taking more time to refine the \"rules and balance\" of the Nintendo Switch 2 exclusive."
+  },
+  {
+   "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+   "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T15:00:00.000Z",
+   "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended."
+  },
+  {
+   "title": "Smarter cost controls for serverless",
+   "link": "https://www.databricks.com/blog/smarter-cost-controls-serverless",
+   "source": "Databricks",
+   "category": "Data Science",
+   "date": "2026-10-29T15:00:00.000Z",
+   "summary": "At Databricks, our serverless compute usage has grown more than 3x in the past year,..."
+  },
+  {
+   "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+   "link": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/",
+   "source": "NVIDIA Developer",
+   "category": "AI & ML",
+   "date": "2026-10-29T15:00:00.000Z",
+   "summary": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These... Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. T"
+  },
+  {
+   "title": "Bliki: LLM Voice",
+   "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "source": "Martin Fowler",
+   "category": "Software Engineering",
+   "date": "2026-10-29T14:28:00.000Z",
+   "summary": "Sometimes when I read a post, I get the growing feeling that I'm reading the output of an LLM. I can't necessarily define why, although there are the common tells (it's not the em-dashes, it's the load-bearing tapestries). As I do this my desire to read on atrophies, sometimes to the point of revulsion There are tools "
+  },
+  {
+   "title": "IG Defence, Oman’s MSA Global explore production of drone systems",
+   "link": "https://yourstory.com/2026/10/ig-defence-omans-msa-global-explore-production-of-drone-systems",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T14:07:22.000Z",
+   "summary": "India’s IG Defence and Oman’s MSA Global have signed an exploratory MoU to explore co-development and local manufacture of drone and counter-drone systems for Oman and the wider Gulf."
+  },
+  {
+   "title": "Quoting Ben Hylak",
+   "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-29T14:06:27.000Z",
+   "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags: model-context-protocol , ai"
+  },
+  {
+   "title": "OpenAI’s Agents Can Silently Block Your Site – & Your Logs Won’t Show It via @sejournal, @TaylorDanRW",
+   "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T14:00:06.000Z",
+   "summary": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI’s Agents Can Silently Block Your Site – & Your Logs Won’t Show It appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+   "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T14:00:00.000Z",
+   "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity."
+  },
+  {
+   "title": "Difference-in-Differences vs Lagged-Outcome Regression",
+   "link": "https://towardsdatascience.com/difference-in-differences-vs-lagged-outcome-regression/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-29T14:00:00.000Z",
+   "summary": "A simulation study and a pre-period check for choosing the right design for self-selected treatments in product analytics. The post Difference-in-Differences vs Lagged-Outcome Regression appeared first on Towards Data Science."
+  },
+  {
+   "title": "Why are good developers so wary of agentic development?",
+   "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+   "source": "Martin Fowler",
+   "category": "Software Engineering",
+   "date": "2026-10-29T13:50:00.000Z",
+   "summary": "TL;DR Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production. I’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone else and in many cases"
+  },
+  {
+   "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+   "link": "https://www.wired.com/story/petkit-sale-october-2026/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T13:41:26.000Z",
+   "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now."
+  },
+  {
+   "title": "Software engineering at Google & CS education with Titus Winters",
+   "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+   "source": "Pragmatic Engineer",
+   "category": "Software Engineering",
+   "date": "2026-10-29T13:37:13.000Z",
+   "summary": "Titus Winters shares lessons from engineering at Google’s scale and explores how AI is reshaping developer productivity and computer science education."
+  },
+  {
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face",
+   "category": "AI & ML",
+   "date": "2026-10-29T13:37:07.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
+   "source": "NVIDIA",
+   "category": "AI & ML",
+   "date": "2026-10-29T13:00:16.000Z",
+   "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcr"
+  },
+  {
+   "title": "Coding Agent Horror Stories: The CVE That Did Not Exist",
+   "link": "https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/",
+   "source": "Docker",
+   "category": "Software Engineering",
+   "date": "2026-10-29T13:00:00.000Z",
+   "summary": "An AI code review agent invented a CVE and recommended dangerous fixes. Learn how Docker Sandboxes contain agents and why their output needs verification."
+  },
+  {
+   "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+   "link": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T12:58:34.000Z",
+   "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access."
+  },
+  {
+   "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+   "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+   "source": "Cloudflare",
+   "category": "Software Engineering",
+   "date": "2026-10-29T12:55:00.000Z",
+   "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns."
+  },
+  {
+   "title": "India’s new-age manufacturers to benefit from $3 trillion global AI investment cycle: Avendus Capital",
+   "link": "https://yourstory.com/2026/10/new-age-manufacturers-to-benefit-from-3-trillion-global-ai-investment-cycle-avendus-capital",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T12:36:55.000Z",
+   "summary": "The investment banking firm has identified defence and aerospace, space technology, robotics and automation, semiconductors, energy transition, and advanced materials as the sectors that will drive India’s next phase of industrial growth."
+  },
+  {
+   "title": "7 Things emotionally intelligent people do differently",
+   "link": "https://yourstory.com/2026/10/emotionally-intelligent-people",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T12:30:00.000Z",
+   "summary": "Discover seven things emotionally intelligent people do differently to manage emotions, communicate better, and build healthier relationships."
+  },
+  {
+   "title": "Is the #1 AI Model Really #1?",
+   "link": "https://towardsdatascience.com/is-the-1-ai-model-really-1/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-29T12:30:00.000Z",
+   "summary": "On a 2,000-question test, my top two models couldn't be told apart at the usual 5% level. On a 200-question version, a different model would have taken first place about three times in ten. The post Is the #1 AI Model Really #1? appeared first on Towards Data Science."
+  },
+  {
+   "title": "Ace Blend bags $9.91M as it looks to scale science-led nutrition",
+   "link": "https://yourstory.com/2026/10/ace-blend-bags-991m-as-it-looks-to-scale-science-led-nutrition",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T12:18:20.000Z",
+   "summary": "The nutrition company will use the funding to advance research-led product development and launch patented nutrition formats."
+  },
+  {
+   "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+   "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T12:00:46.000Z",
+   "summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal."
+  },
+  {
+   "title": "ChatGPT Ads vs. Google Search ads: 5 differences to consider in your strategy",
+   "link": "https://blog.hubspot.com/marketing/chatgpt-ads-vs-google-search-ads",
+   "source": "HubSpot Marketing",
+   "category": "Marketing",
+   "date": "2026-10-29T12:00:04.000Z",
+   "summary": "It’s hard to believe anything could rival Google’s impact on our digital lives and habits, but ChatGPT is on its tail — especially now that it shows ads. For many marketers and businesses, this means debating ChatGPT Ads vs Google Search Ads for the first time. Should you move budget from Google Search ads to ChatGPT a"
+  },
+  {
+   "title": "What is turn taking in conversational AI: A guide to natural flow",
+   "link": "https://elevenlabs.io/blog/what-is-turn-taking",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-29T12:00:00.000Z",
+   "summary": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it."
+  },
+  {
+   "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
+   "link": "https://elevenlabs.io/blog/internal-ops-agents",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-29T12:00:00.000Z",
+   "summary": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering"
+  },
+  {
+   "title": "Introducing SFX v3 in ElevenCreative and ElevenAPI",
+   "link": "https://elevenlabs.io/blog/sound-effects-v3",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-29T12:00:00.000Z",
+   "summary": "SFX v3 is here: more reliable multi-sound prompts, more convincing music and vocals, and cleaner audio. Now in ElevenCreative and ElevenAPI."
+  },
+  {
+   "title": "5 entrepreneurial lessons from Giving Up Is Not an Option",
+   "link": "https://yourstory.com/2026/10/5-entrepreneurial-lessons",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T11:48:36.000Z",
+   "summary": "Discover five entrepreneurial lessons from Pawan Raj Kumar’s Giving Up Is Not an Option on persistence, resilience, adaptability, and success."
+  },
+  {
+   "title": "One Planet Partners partners with Japan's Sumitomo Mitsui Trust Bank to launch Rs 3,000 Cr fund",
+   "link": "https://yourstory.com/2026/10/one-planet-partners-japan-sumitomo-mitsui-trust-bank-rs-3000-cr-fund",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T11:21:17.000Z",
+   "summary": "Private equity firm One Planet Partner will invest in high-growth companies across the sectors of energy, mobility and manufacturing."
+  },
+  {
+   "title": "How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-29T11:17:47.000Z",
+   "summary": "From the Archives-written by ChatGPT. Both became dramatically more confident in AI’s capabilities while remaining optimistic about its economic potential. Their differences concern how benefits arrive, how seriously to weight emerging dangers, and whether AI might possess consciousness. Cowen emphasizes institutions, "
+  },
+  {
+   "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+   "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T11:07:37.000Z",
+   "summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal."
+  },
+  {
+   "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+   "link": "https://www.wired.com/story/best-kindle-accessories/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T11:03:00.000Z",
+   "summary": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and stickers, this is the guide for you."
+  },
+  {
+   "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+   "link": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-29T11:00:08.000Z",
+   "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\""
+  },
+  {
+   "title": "What Is Harness Engineering? A Hands-On Introduction",
+   "link": "https://towardsdatascience.com/what-is-harness-engineering-a-hands-on-introduction/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-29T11:00:00.000Z",
+   "summary": "Learn three essential primitives of harness engineering to future-proof your career The post What Is Harness Engineering? A Hands-On Introduction appeared first on Towards Data Science."
+  },
+  {
+   "title": "Freshworks acquires Israel-based AI startup Robusta Dev",
+   "link": "https://yourstory.com/2026/10/freshworks-acquires-israel-based-ai-startup-robusta-dev",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-10-29T10:56:05.000Z",
+   "summary": "Freshworks said that this acquisition will strengthen Freshservice's capabilities, which is Freshworks’ IT service management platform, in incident management and IT operations."
+  },
+  {
+   "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+   "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T10:45:00.000Z",
+   "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore."
+  },
+  {
+   "title": "Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy",
+   "link": "https://www.wired.com/review/review-hisense-ur8/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T10:30:00.000Z",
+   "summary": "The Hisense UR8 RGB MiniLED is more affordable than competitors and offers exceptional color accuracy, but is otherwise just OK."
+  },
+  {
+   "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+   "link": "https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T10:30:00.000Z",
+   "summary": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables."
+  },
+  {
+   "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+   "link": "https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T10:15:00.000Z",
+   "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose."
+  },
+  {
+   "title": "I Gave My Blood to the AI Death Clock",
+   "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T10:00:00.000Z",
+   "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me."
+  },
+  {
+   "title": "Reencle Essential Review: Same Scraps, Lower Price",
+   "link": "https://www.wired.com/review/reencle-essential-electric-composter/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-10-29T10:00:00.000Z",
+   "summary": "Reencle has made your favorite kitchen composter cheaper—with a few compromises."
+  },
+  {
+   "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+   "link": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+   "source": "Stratechery",
+   "category": "Tech",
+   "date": "2026-10-29T10:00:00.000Z",
+   "summary": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about."
+  },
+  {
+   "title": "Explaining funny",
+   "link": "https://seths.blog/2026/10/explaining-funny/",
+   "source": "Seth Godin",
+   "category": "Ideas",
+   "date": "2026-10-29T09:03:00.000Z",
+   "summary": "This is one of the most famous comedy bits of all time: But why is it funny? The disconnect between experiencing it and explaining it represents one of the challenges of teaching. It’s also at the heart of leadership, marketing and culture. Design, good taste, genre, communication style–these are all human endeavors th"
+  },
+  {
+   "title": "How we detect frontier model misalignment",
+   "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "source": "OpenAI",
+   "category": "AI & ML",
+   "date": "2026-10-29T09:00:00.000Z",
+   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+  },
+  {
+   "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+   "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-29T08:24:52.000Z",
+   "summary": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged. The post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents appeared firs"
+  },
+  {
+   "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+   "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-29T07:50:39.000Z",
+   "summary": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights. The post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared first on MarkTechPost."
+  },
+  {
+   "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
+   "link": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-29T07:45:03.000Z",
+   "summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. The post Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] appeared first on Search Engine Journal."
+  },
+  {
+   "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+   "link": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-29T07:28:36.000Z",
+   "summary": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch. The post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents appeared "
+  },
+  {
+   "title": "AI dominates human peer reviews",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-29T07:13:03.000Z",
+   "summary": "We show that AI-generated article reviews are now better, by every measure we could construct, than reviews written by well-compensated human experts and judged to be of unusually high quality by journal editors and authors. We then discuss how this result may inform journal policy choices, with concerning downsides as"
+  },
+  {
+   "title": "Why We're Moving n8n's Automation Team Beyond the Service Desk Model",
+   "link": "https://blog.n8n.io/why-were-moving-n8ns-automation-team-beyond-the-service-desk-model/",
+   "source": "n8n Blog",
+   "category": "AI Agents",
+   "date": "2026-10-29T07:10:00.000Z",
+   "summary": "Romina da Costa, head of internal AI and automation at n8n, shares the four principles her team uses to help every team build and own its automations."
+  },
+  {
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "link": "https://openai.com/index/ropes-gray-ai-diligence",
+   "source": "OpenAI",
+   "category": "AI & ML",
+   "date": "2026-10-29T07:00:00.000Z",
+   "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+  },
+  {
+   "title": "The fx adapter now runs the harness on the host",
+   "link": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T06:00:00.000Z",
+   "summary": "The fx adapter for the AI SDK’s now uses , the TypeScript library for fx. The harness and model requests run in your application’s process, while built-in filesystem and shell operations remain isolated in the sandbox.HarnessAgentlibfx This simplifies sandbox setup: you no longer need to install fx inside the sandbox, "
+  },
+  {
+   "title": "Vercel Flags starts 7x faster and no longer extends function duration",
+   "link": "https://vercel.com/changelog/vercel-flags-starts-7x-faster-and-no-longer-extends-function-duration",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T06:00:00.000Z",
+   "summary": "On Vercel, the SDK now initializes faster on cold starts, and usage reporting no longer keeps functions running after the response.Vercel Flags Two changes speed up SDK initialization on cold starts: In internal testing, eliminating the network wait reduced p75 cold-start SDK initialization time from over 70 ms to 10 m"
+  },
+  {
+   "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+   "link": "https://latent.space/p/ainews-gemini-4-carbon/",
+   "source": "Latent Space",
+   "category": "AI Agents",
+   "date": "2026-10-29T05:55:19.000Z",
+   "summary": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders."
+  },
+  {
+   "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+   "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-29T04:41:24.000Z",
+   "summary": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard. The post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language T"
+  },
+  {
+   "title": "My design Conversation with Roman Mars",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-29T04:41:19.000Z",
+   "summary": "Here is the audio, video, and transcript. Here is part of the episode summary: Roman Mars has built one of podcasting’s great empires out of noticing things everyone else walks past. His show, 99% Invisible, has racked up over 500 million downloads telling stories about the unnoticed design choices that quietly shape h"
+  },
+  {
+   "title": "Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen",
+   "link": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-29T04:06:15.000Z",
+   "summary": "Steven Levy, writing at Wired with the scoop on the new MacBook Pros (News+ link): This turnaround is a big deal to Apple fans. Ternus shrugs off the drama. “The Mac is first and foremost an indirect input device, built around the trackpad and keyboard. But I think there’s times when it’s comfortable and handy to have "
+  },
+  {
+   "title": "How Procore is powering construction analytics with OpenSharing",
+   "link": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
+   "source": "Databricks",
+   "category": "Data Science",
+   "date": "2026-10-29T00:29:00.000Z",
+   "summary": "Connecting an industry built on disconnected dataConstruction runs on data that rarely sits in one place..."
+  },
+  {
+   "title": "The Most Important Thing to Remember About Your Mother",
+   "link": "https://www.themarginalian.org/2026/10/28/florida-scott-maxwell-mother/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-10-29T00:06:05.000Z",
+   "summary": "\"It is not easy to give closeness and freedom, safety plus danger.\""
+  },
+  {
+   "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+   "link": "https://huggingface.co/blog/announcing-project-protostar",
+   "source": "Hugging Face",
+   "category": "AI & ML",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "link": "https://huggingface.co/blog/mistral-large4",
+   "source": "Hugging Face",
+   "category": "AI & ML",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+   "link": "https://huggingface.co/blog/anydecisionmodel",
+   "source": "Hugging Face",
+   "category": "AI & ML",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": ""
+  },
+  {
+   "title": "From Spreadsheets to DuckLake: A Data Engineer's Road to DuckDB",
+   "link": "https://duckdb.org/2026/10/29/from-spreadsheets-to-ducklake.html",
+   "source": "DuckDB Blog",
+   "category": "Data Science",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": "From Copy-Paste to Code Matt's career started in 2008 the way many data careers do: with spreadsheets. As a fresh graduate, he spent his days copying and pasting between Excel, Microsoft Access, and SQL Server. Assembling a single report could take three hours, and one mistake meant starting over. “There's got to be an"
+  },
+  {
+   "title": "Node.js 26 LTS is now Generally Available on Vercel",
+   "link": "https://vercel.com/changelog/node-js-26-lts-is-now-generally-available-on-vercel",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": "Node.js 26 LTS is now Generally Available for and .buildsVercel Functions This release includes: Node.js 26 is the default for all new projects. Minor and patch updates to Node.js 26 roll out automatically for builds and Vercel Functions. Read the to learn more.Node.js version documentation Read more () lets multiple r"
+  },
+  {
+   "title": "Vercel Connect adds webhook triggers for more providers",
+   "link": "https://vercel.com/changelog/vercel-connect-adds-webhook-triggers-for-more-providers",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": "now supports webhook triggers for , , , , and .Vercel ConnectResendXTwilioNotionTelegram Connect receives webhook events, such as Telegram bot messages or emails received by your Resend domain, and forwards them to an endpoint in your Vercel project. It verifies incoming requests and handles provider heartbeats and ver"
+  },
+  {
+   "title": "Control AI crawlers and assistants separately in Vercel Firewall",
+   "link": "https://vercel.com/changelog/block-ai-crawlers-and-assistants-independently-with-managed-rules",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": "You can now log or block requests from AI crawlers and AI assistants separately with the AI Bots managed ruleset in .Vercel Firewall For example, you can block AI crawlers while allowing AI assistants to retrieve your content to answer users’ questions. Vercel updates the rules as new bots are added. To configure these"
+  },
+  {
+   "title": "Vercel Plugin is now available in Antigravity",
+   "link": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": "The is now available in the marketplace.Vercel PluginGoogle Antigravity Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as , , and .AI SDKVercel FunctionsWorkflow This demo shows an Antigravity agent using the Vercel Plugin to build an"
+  },
+  {
+   "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
+   "link": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-29T00:00:00.000Z",
+   "summary": "now uses updated weights on , with lower pricing for input, cached input, and output tokens.Mistral Large 4 from MistralAI Gateway According to , the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks. The release also improves spreadsheet creation and edit"
+  },
+  {
+   "title": "Quoting Ted Sanders",
+   "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-28T23:23:21.000Z",
+   "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are "
+  },
+  {
+   "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T23:12:24.000Z",
+   "summary": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given. The post Google Says Lower AI Mode Monetization Weighed On Search Growth appeared first on Search Engine Journal."
+  },
+  {
+   "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+   "link": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-28T22:51:15.000Z",
+   "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters."
+  },
+  {
+   "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+   "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-28T22:35:50.000Z",
+   "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea."
+  },
+  {
+   "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+   "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-28T22:17:15.000Z",
+   "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\""
+  },
+  {
+   "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+   "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T22:14:34.000Z",
+   "summary": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Google Gives Restaurants Direct Control Over Ordering Providers via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T22:11:43.000Z",
+   "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Pages AI Cited Got Straight To The Answer More Often, Data Shows via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T20:42:47.000Z",
+   "summary": "Pages cited by AI often answered a question in their first lines, though the gap was smaller against pages AI pulled up but didn’t cite. The post Pages AI Cited Got Straight To The Answer More Often, Data Shows appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Why Agents Love Supabase",
+   "link": "https://latent.space/p/supabase/",
+   "source": "Latent Space",
+   "category": "AI Agents",
+   "date": "2026-10-28T19:48:05.000Z",
+   "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents"
+  },
+  {
+   "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+   "link": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-28T19:20:36.000Z",
+   "summary": "It has been nearly a year since any space tourism flights occurred."
+  },
+  {
+   "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+   "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-10-28T19:10:29.000Z",
+   "summary": "It's not as different from the previous model as you might have expected."
+  },
+  {
+   "title": "79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data via @sejournal, @gregjarboe",
+   "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T19:00:59.000Z",
+   "summary": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post 79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Vercel CI is now in beta",
+   "link": "https://vercel.com/changelog/vercel-ci-is-now-in-beta",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T19:00:00.000Z",
+   "summary": "You can now run CI for your Turborepo with one line of configuration. In Vercel's internal repositories, our wait time from to \"CI passed\" is 2-6x shorter, dramatically improving our CI's ability to keep up with our coding agents.git push To get started, prompt your agent in your repo: Each task marked with a tag runs "
+  },
+  {
+   "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-28T18:56:51.000Z",
+   "summary": "AI issues its judgment: 138 papers audited 2,035 problems found 147 serious enough to change a headline number 69% of papers have at least one 97% of major and moderate errors with a clear direction overstate the paper’s claim And on the method: Two independent audits of each paper. One by Claude Opus 5.5, one […] The "
+  },
+  {
+   "title": "How is AI shaping economic research?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-28T18:52:56.000Z",
+   "summary": "Does generative AI narrow or widen productivity gaps in research? We study the distributional effects of AI on research productivity in economics using evidence from three sources: NBER working-paper and publication records, text-based measures of LLM-assisted writing, and an original survey of 227 academic economists "
+  },
+  {
+   "title": "ViBench 2.0: A Benchmark for Long-Horizon Software Building",
+   "link": "https://replit.com/blog/vibench-2-long-horizon-software-benchmark",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T18:50:00.000Z",
+   "summary": "Today we’re releasing ViBench 2.0, a benchmark for long-horizon software development. It joins the Specialized Intelligence Index (SII) from Fireworks [1], our partner for open-weight model inference and training. The SII brings together practitioner-built benchmarks to compare open, closed, and specialized models on r"
+  },
+  {
+   "title": "How Revinate accelerated API adoption with Amazon API Gateway",
+   "link": "https://aws.amazon.com/blogs/architecture/how-revinate-accelerated-api-adoption-with-amazon-api-gateway/",
+   "source": "AWS Architecture",
+   "category": "Software Engineering",
+   "date": "2026-10-28T18:32:34.000Z",
+   "summary": "Accelerating API adoption while reducing operational overhead is a challenge that every growing organization faces. For Revinate, a hospitality provider serving over 12,500 hotels worldwide and powering more than 1.25 billion guest profiles, Amazon API Gateway became the foundation of their solution. Revinate empowers "
+  },
+  {
+   "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+   "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-28T18:28:26.000Z",
+   "summary": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that gates each agent befor"
+  },
+  {
+   "title": "Automating agentic AI Well-Architected reviews with the AWS Agentic AI Lens",
+   "link": "https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/",
+   "source": "AWS Architecture",
+   "category": "Software Engineering",
+   "date": "2026-10-28T18:25:50.000Z",
+   "summary": "Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload. Because the lens is not yet selectable in the console, the team encoded it as a Claude skill that assessed all 150 best practices against the workload's GitHub repository and produced an evidence-backed review workboo"
+  },
+  {
+   "title": "Distributed training with Ray Train DLCs and EFA on EKS",
+   "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-28T18:19:54.000Z",
+   "summary": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as published."
+  },
+  {
+   "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+   "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-10-28T18:12:13.000Z",
+   "summary": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see and change what."
+  },
+  {
+   "title": "Voice Agents are here. Context turns them into real customer value.",
+   "link": "https://www.databricks.com/blog/voice-agents-are-here-context-turns-them-real-customer-value",
+   "source": "Databricks",
+   "category": "Data Science",
+   "date": "2026-10-28T18:00:00.000Z",
+   "summary": "Why voice, and why nowConsider three moments that happen every day in consumer businesses: At..."
+  },
+  {
+   "title": "Box Mount now runs in Vercel Sandbox",
+   "link": "https://vercel.com/changelog/box-mount-now-runs-in-vercel-sandbox",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T18:00:00.000Z",
+   "summary": "Box Mount lets agents running in Vercel Sandbox read and write Box files through standard filesystem operations. It syncs a Box folder with a directory inside the sandbox. Unmount before you stop the sandbox, and everything the agent wrote is in Box after the sandbox is deleted. The contract-review example uses AI Gate"
+  },
+  {
+   "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+   "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-28T17:48:38.000Z",
+   "summary": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens. The post Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding a"
+  },
+  {
+   "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+   "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-28T17:20:29.000Z",
+   "summary": "MiniMax has open-sourced MCode Stack, an MIT-licensed repo of 17 SKILL.md skills and 5 checklists that its MiniMax Code team uses daily for code review, subagent splits, context budgets and long-running commands. The post MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily appeared first on Mar"
+  },
+  {
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "category": "AI & ML",
+   "date": "2026-10-28T17:00:58.000Z",
+   "summary": ""
+  },
+  {
+   "title": "GitHub Octoverse 2026",
+   "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-28T16:45:23.000Z",
+   "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, "
+  },
+  {
+   "title": "GitHub Universe 2026: Evolving every layer of the stack",
+   "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+   "source": "GitHub Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T16:09:28.000Z",
+   "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog."
+  },
+  {
+   "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+   "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+   "source": "GitHub Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T16:07:40.000Z",
+   "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog."
+  },
+  {
+   "title": "Claude marketing plugins worth adding to your stack in 2026",
+   "link": "https://blog.hubspot.com/marketing/claude-marketing-plugin",
+   "source": "HubSpot Marketing",
+   "category": "Marketing",
+   "date": "2026-10-28T16:00:05.000Z",
+   "summary": "Claude marketing plugins extend Claude into workflows for content creation, campaign planning, brand management, reporting, and publishing. The best options connect Claude with the tools and business data marketers already use, so the right Claude marketing plugin choice depends on the job Claude needs to handle."
+  },
+  {
+   "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+   "link": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+   "source": "Meta Engineering",
+   "category": "Software Engineering",
+   "date": "2026-10-28T16:00:01.000Z",
+   "summary": "This post describes the next generation of Meta Andromeda, Meta’s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval sca"
+  },
+  {
+   "title": "Replit’s Architecture Behind Secure Agent Work",
+   "link": "https://replit.com/blog/architecture-behind-secure-agent-work",
+   "source": "Replit Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T16:00:00.000Z",
+   "summary": "Last week’s security disclosures offered a glimpse of the challenges ahead. Critical flaws surfaced across software that much of the internet depends on. AI agents are making vulnerabilities faster and easier to find, while the time from discovery to exploitation continues to shrink. Companies increasingly need agents "
+  },
+  {
+   "title": "Wednesday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-28T15:55:58.000Z",
+   "summary": "1. A new taxonomy of work, for the AI era. Thread here. 2. On Morel’s Invention (NYT). 3. Iranian brick architecture. 4. How do non-profits use cash windfalls? 5. The roots of earlier German industrial success. 6. Susquehanna Hat Company skit. The post Wednesday assorted links appeared first on Marginal REVOLUTION."
+  },
+  {
+   "title": "How often to run AEO prompt tracking: A cadence guide",
+   "link": "https://blog.hubspot.com/marketing/how-often-to-run-prompt-tracking",
+   "source": "HubSpot Marketing",
+   "category": "Marketing",
+   "date": "2026-10-28T15:50:05.000Z",
+   "summary": "There’s no single right answer to how often you should run AEO prompt tracking, because the answer depends on what you’re trying to detect. But the question has two parts that people often blur together: how often data gets collected, and how often your team makes decisions from it."
+  },
+  {
+   "title": "Profound vs. Peec AI: Which is right for your team?",
+   "link": "https://blog.hubspot.com/marketing/profound-vs-peec-ai",
+   "source": "HubSpot Marketing",
+   "category": "Marketing",
+   "date": "2026-10-28T15:45:04.000Z",
+   "summary": "Profound and Peec AI are two of the most frequently compared tools in the AEO category right now, and the decision isn’t so straightforward. The two platforms take different approaches to data collection, pricing, and what happens after you read a visibility score."
+  },
+  {
+   "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+   "link": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+   "source": "ByteByteGo",
+   "category": "Software Engineering",
+   "date": "2026-10-28T15:31:05.000Z",
+   "summary": "In this article, we’ll look at how Uber built this gateway in detail."
+  },
+  {
+   "title": "How to Make AI Work for End-to-End Business Processes",
+   "link": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-28T15:30:00.000Z",
+   "summary": "From simplifying workflows to connecting knowledge and rules, coordinating AI agents, and delivering measurable business results. The post How to Make AI Work for End-to-End Business Processes appeared first on Towards Data Science."
+  },
+  {
+   "title": "My California Ballot, 2026",
+   "link": "https://www.astralcodexten.com/p/my-california-ballot-2026",
+   "source": "Astral Codex Ten",
+   "category": "Ideas",
+   "date": "2026-10-28T15:29:17.000Z",
+   "summary": "..."
+  },
+  {
+   "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+   "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+   "source": "NVIDIA",
+   "category": "AI & ML",
+   "date": "2026-10-28T15:00:46.000Z",
+   "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of un"
+  },
+  {
+   "title": "langchain-core==1.7.1",
+   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.1",
+   "source": "LangChain",
+   "category": "AI Agents",
+   "date": "2026-10-28T15:00:04.000Z",
+   "summary": "Changes since langchain-core==1.7.0 release(core): version 1.7.1 (#41548) #41504) #41512) #41465) #41442) #41425) #41407)"
+  },
+  {
+   "title": "Guessing the Name: MacBook Studio?",
+   "link": "https://www.macrumors.com/2026/10/28/macbook-studio/",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-10-28T14:58:45.000Z",
+   "summary": "Joe Rossignol, MacRumors: A teaser video shared by Apple CEO John Ternus today hints at a potential name for the rumored MacBook models with touch-enabled OLED displays: MacBook Studio. [...] Apple is expected to show off the new MacBooks to selected tech reporters and content creators at an experience in Los Angeles a"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "source": "Hugging Face",
+   "category": "AI & ML",
+   "date": "2026-10-28T14:58:17.000Z",
+   "summary": ""
+  },
+  {
+   "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+   "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T14:00:59.000Z",
+   "summary": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Where a Cell Sits Matters More Than How Many There Are",
+   "link": "https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-28T14:00:00.000Z",
+   "summary": "Using spatstat raster layers and point process models to ask how neurons, astrocytes and microglia sit relative to each other The post Where a Cell Sits Matters More Than How Many There Are appeared first on Towards Data Science."
+  },
+  {
+   "title": "The October inflection point for vibe game development",
+   "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-28T13:55:15.000Z",
+   "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time"
+  },
+  {
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "source": "OpenAI",
+   "category": "AI & ML",
+   "date": "2026-10-28T13:15:00.000Z",
+   "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+  },
+  {
+   "title": "Win the Agentic Era, Together: Introducing the Docker Navigator Partner Program",
+   "link": "https://www.docker.com/blog/docker-navigator-partner-program/",
+   "source": "Docker",
+   "category": "Software Engineering",
+   "date": "2026-10-28T13:00:00.000Z",
+   "summary": "Docker is launching the Navigator Partner Program, with three tiers, co-selling benefits, and a new incentive for every registered AI governance deal."
+  },
+  {
+   "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+   "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-10-28T13:00:00.000Z",
+   "summary": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+   "link": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "source": "Interconnects",
+   "category": "AI Agents",
+   "date": "2026-10-28T12:58:39.000Z",
+   "summary": "A sort of review of the benchmarking industry and what's missing."
+  },
+  {
+   "title": "Fragments: October 28",
+   "link": "https://martinfowler.com/fragments/2026-10-28.html",
+   "source": "Martin Fowler",
+   "category": "Software Engineering",
+   "date": "2026-10-28T12:55:00.000Z",
+   "summary": "Andrej Karpathy sees a widening gap in how people see LLM capabilities. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the cu"
+  },
+  {
+   "title": "Building and Visualising Kolmogorov–Arnold Networks",
+   "link": "https://towardsdatascience.com/building-and-visualising-kolmogorovarnold-networks/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-28T12:30:00.000Z",
+   "summary": "Exploring what happens when neural networks learn functions instead of weights. The post Building and Visualising Kolmogorov–Arnold Networks appeared first on Towards Data Science."
+  },
+  {
+   "title": "Conversational AI in banking: Use cases, benefits, examples",
+   "link": "https://elevenlabs.io/blog/conversational-ai-in-banking",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-28T12:00:00.000Z",
+   "summary": "Learn what conversational AI in banking is, how voice agents handle phone calls, use cases, core metrics, and how banks and fintechs use ElevenAgents today"
+  },
+  {
+   "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
+   "link": "https://elevenlabs.io/blog/lettuce",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-28T12:00:00.000Z",
+   "summary": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%."
+  },
+  {
+   "title": "ElevenLabs and adELA bring free voice restoration to Spain",
+   "link": "https://elevenlabs.io/blog/elevenlabs-adela",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-28T12:00:00.000Z",
+   "summary": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free."
+  },
+  {
+   "title": "How your transcript knows where each word is spoken",
+   "link": "https://elevenlabs.io/blog/cue-aligner",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-28T12:00:00.000Z",
+   "summary": "Meet Cue, ElevenLabs’ forced alignment model: character-level timestamps, any recording length, and an hour of audio aligned in under a second."
+  },
+  {
+   "title": "Voice AI for Karnataka",
+   "link": "https://elevenlabs.io/blog/voice-ai-for-karnataka",
+   "source": "ElevenLabs",
+   "category": "AI & ML",
+   "date": "2026-10-28T11:30:00.000Z",
+   "summary": "ElevenLabs signs an MoU with the Government of Karnataka to bring voice AI to citizen services, voice AI safety and voice restoration."
+  },
+  {
+   "title": "Inequality in Equal Land",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-10-28T11:18:28.000Z",
+   "summary": "Adam Nash has a good post on wealth inequality: …Every year, we pull the most recent data from the US Census on household wealth, cut by age. …invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age. For many students, it just doesn’t seem fair at […]"
+  },
+  {
+   "title": "Studying Fraudulent North Korean IT Workers",
+   "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
+   "source": "Schneier on Security",
+   "category": "Tech",
+   "date": "2026-10-28T11:05:00.000Z",
+   "summary": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers."
+  },
+  {
+   "title": "Your RAG Pipeline Is Missing a 1994 Algorithm",
+   "link": "https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-10-28T11:00:00.000Z",
+   "summary": "Embeddings know that \"broken\" means \"defective\". They may not notice that ZX-4821 is not ZX-4812. The post Your RAG Pipeline Is Missing a 1994 Algorithm appeared first on Towards Data Science."
+  },
+  {
+   "title": "Quoting Terk Terkowitz",
+   "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-10-28T10:09:07.000Z",
+   "summary": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. &mdash; "
+  },
+  {
+   "title": "Meta Earnings, Muse and the Frontier, Musebook",
+   "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+   "source": "Stratechery",
+   "category": "Tech",
+   "date": "2026-10-28T10:06:13.000Z",
+   "summary": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute."
+  },
+  {
+   "title": "The future of the firm",
+   "link": "https://openai.com/index/the-future-of-the-firm",
+   "source": "OpenAI",
+   "category": "AI & ML",
+   "date": "2026-10-28T10:00:00.000Z",
+   "summary": "How AI might enter the org chart—beneath, beside, and between us."
+  },
+  {
+   "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+   "link": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers-new",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T09:32:00.000Z",
+   "summary": "now supports up to 2 GB per compressed image layer, up from 500 MB, allowing larger layers to be pushed without splitting them. The total image size limit remains 15 GB.Vercel Container Registry The higher layer limit is useful for images with large toolchains or dependency sets, such as custom environments for coding-"
+  },
+  {
+   "title": "v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)",
+   "link": "https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1",
+   "source": "vLLM",
+   "category": "Tech",
+   "date": "2026-10-28T09:31:23.000Z",
+   "summary": "Signed-off-by: grYe99 guorongye99@gmail.com guorongye99@gmail.com bfa2a43)"
+  },
+  {
+   "title": "Legora is building the agentic operating system for legal work",
+   "link": "https://openai.com/index/legora",
+   "source": "OpenAI",
+   "category": "AI & ML",
+   "date": "2026-10-28T09:30:00.000Z",
+   "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+  },
+  {
+   "title": "Be careful what you wish for",
+   "link": "https://seths.blog/2026/10/be-careful-what-you-wish-for-2/",
+   "source": "Seth Godin",
+   "category": "Ideas",
+   "date": "2026-10-28T09:03:00.000Z",
+   "summary": "At a recent Q&A, a small businessperson asked how to get clients to be more alike, willing to engage in systemic work that would be easier to deliver and offer a simpler path to getting the job done. Of course, once there’s a manual, anyone can do the work, and anyone will. It might be […]"
+  },
+  {
+   "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+   "link": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+   "source": "Latent Space",
+   "category": "AI Agents",
+   "date": "2026-10-28T08:50:30.000Z",
+   "summary": "Since coding is solved, why code for the job?"
+  },
+  {
+   "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+   "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-10-28T08:18:03.000Z",
+   "summary": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B. The post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding appeared fir"
+  },
+  {
+   "title": "Introducing Virtual Models on AI Gateway",
+   "link": "https://vercel.com/blog/ai-gateway-virtual-models",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T07:25:00.000Z",
+   "summary": "Today, we are introducing on .Virtual ModelsAI Gateway Virtual Models are an abstraction of the model string and configurations your apps and developers use. With a single virtual model ID, you can change and update models, configure fallbacks and priority, and enforce Zero Data Retention centrally. The virtual model c"
+  },
   {
    "title": "Early progress on accelerating drug development with Claude",
    "link": "https://www.anthropic.com/research/early-progress-drug-development",
@@ -23,12 +1911,28 @@
    "summary": "As AI does more of the hands-on work, the hope is that experts still make the judgment calls, meaning the decisions with more than one defensible answer. We tested this with 50 professional analysts who did a statistical analysis with Claude Code. On each key decision, we randomly assigned which of two defensible optio"
   },
   {
+   "title": "Introducing Vercel CI",
+   "link": "https://vercel.com/blog/introducing-vercel-ci",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T07:00:00.000Z",
+   "summary": "Coding agents are opening more pull requests than ever, and each one waits on CI before anyone can review or merge it. Most CI systems run the entire workflow on every push, even a one-line change. The more your agents push, the more time you spend waiting on CI. Today, we're announcing Vercel CI in Beta. It runs only "
+  },
+  {
    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
    "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
    "source": "Wired",
    "category": "Tech",
    "date": "2026-10-28T06:00:00.000Z",
    "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn."
+  },
+  {
+   "title": "Vercel Agent can now validate alerts before paging",
+   "link": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
+   "source": "Vercel Blog",
+   "category": "Software Engineering",
+   "date": "2026-10-28T06:00:00.000Z",
+   "summary": "can now investigate alerts from before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as are sent to it.Vercel AgentVercel monitorsCritical To enable validation: You can also configure notification destinations with the using . Add when linking or updating"
   },
   {
    "title": "Jio Platforms makes strong market debut, lists on NSE with a gain of 21.3%",
@@ -421,6 +2325,14 @@
    "category": "Tech",
    "date": "2026-10-28T00:00:00.000Z",
    "summary": "You can probably still read on it, and, with some finessing, you can turn it into a useful display."
+  },
+  {
+   "title": "AI for Science expands to foundations and research institutions",
+   "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "source": "Anthropic News",
+   "category": "AI Agents",
+   "date": "2026-10-28T00:00:00.000Z",
+   "summary": ""
   },
   {
    "title": "langchain-anthropic==1.7.7",
@@ -1023,12 +2935,12 @@
    "summary": "Just a speed bump, but speed bumps are good. Pricing and configurations: M6 with 2 Thunderbolt ports: Base price: $1500 RAM: 16 GB +0 24 GB +200 SSD: 256 GB +0 512 GB +200 1 TB +500 M6 with 4 Thunderbolt ports: Base price: $1700 RAM: 16 GB +0 24 GB +200 SSD: 256 GB +0 512 GB +200 1 TB +500 2 TB +1000 Base price: $2300 "
   },
   {
-   "title": "I put a ghost in Claude Code. Then I evaluated it",
+   "title": "I put a ghost in Claude Code. Then I evaluated it.",
    "link": "https://arize.com/blog/i-put-a-ghost-in-claude-code-then-i-evaluated-it/",
    "source": "Arize AI",
    "category": "AI & ML",
    "date": "2026-10-27T16:41:36.000Z",
-   "summary": "I built a Halloween Claude Code mod that grades each turn as a treat or a trick and blocks dangerous commands, then traced and evaluated it with Arize AX. The post I put a ghost in Claude Code. Then I evaluated it appeared first on Arize AI."
+   "summary": "I built a Halloween Claude Code mod that grades each turn as a treat or a trick and blocks dangerous commands, then traced and evaluated it with Arize AX. The post I put a ghost in Claude Code. Then I evaluated it. appeared first on Arize AI."
   },
   {
    "title": "Tuesday assorted links",
@@ -1167,12 +3079,12 @@
    "summary": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?"
   },
   {
-   "title": "I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It",
+   "title": "An AI Agent Can Spot a Mistake and Still Not Fix It",
    "link": "https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/",
    "source": "Towards Data Science",
    "category": "Data Science",
    "date": "2026-10-27T15:30:00.000Z",
-   "summary": "I replayed correct model decisions through four broken browser actions. A simple page check missed half of the wrong clicks, and raised a false alarm on every click that worked inside an embedded page. The post I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It appeared first on Toward"
+   "summary": "I replayed correct model decisions through four deliberately broken browser actions, and a simple page check missed half of the wrong clicks, which shows that noticing a fault and recovering from it are different skills. The post An AI Agent Can Spot a Mistake and Still Not Fix It appeared first on Towards Data Science"
   },
   {
    "title": "Anyone can now bring their ideas into the company codebase",
@@ -1180,7 +3092,7 @@
    "source": "Replit Blog",
    "category": "Software Engineering",
    "date": "2026-10-27T15:30:00.000Z",
-   "summary": "Since we launched the first generally available coding agent in 2024, almost anyone can build an app. But changing your company’s core product is still out of reach for anyone outside engineering, and that bottleneck has only grown as more people build. The people who know what should change in a product often sit outs"
+   "summary": "Save a seat to hear directly from our product team in a webinar on November 5! Since we launched the first generally available coding agent in 2024, almost anyone can build an app. But changing your company’s core product is still out of reach for anyone outside engineering, and that bottleneck has only grown as more p"
   },
   {
    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
@@ -1501,14 +3413,6 @@
    "category": "India",
    "date": "2026-10-27T06:11:36.000Z",
    "summary": "The pre-Series B round, led by VC firm IvyCap Ventures, comprises fresh capital for business expansion and a secondary component for partial liquidity to early shareholders."
-  },
-  {
-   "title": "The fx adapter now runs the harness on the host",
-   "link": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
-   "source": "Vercel Blog",
-   "category": "Software Engineering",
-   "date": "2026-10-27T06:00:00.000Z",
-   "summary": "The fx adapter for the AI SDK’s now runs the harness and model requests in the same process as your application. Built-in filesystem and shell operations remain isolated in the sandbox.HarnessAgent The adapter uses , the TypeScript library for fx. It no longer needs to install fx inside the sandbox, run a sandbox bridg"
   },
   {
    "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
@@ -3455,14 +5359,6 @@
    "summary": "You can now create custom monitors to get alerts based on your results. Vercel Observability query For example, you can track signals such as AI Gateway costs, Core Web Vitals and other performance metrics, Workflow and external API failure rates, or Vercel Sandbox CPU time. Each monitor tracks a single metric, such as"
   },
   {
-   "title": "Vercel Agent can now validate alerts before paging",
-   "link": "https://vercel.com/changelog/vercel-agent-can-now-validate-alerts-before-paging-you",
-   "source": "Vercel Blog",
-   "category": "Software Engineering",
-   "date": "2026-10-26T06:00:00.000Z",
-   "summary": "can now investigate alerts from before they reach your paging system. With validation enabled for a webhook destination, only alerts Agent classifies as are sent to it.Vercel AgentVercel monitorsCritical To enable validation: You can also configure notification destinations with the using . Add when linking or updating"
-  },
-  {
    "title": "Vercel Sandbox commands now support stdin",
    "link": "https://vercel.com/changelog/vercel-sandbox-commands-now-support-stdin",
    "source": "Vercel Blog",
@@ -3780,7 +5676,7 @@
    "source": "DuckDB Blog",
    "category": "Data Science",
    "date": "2026-10-26T00:00:00.000Z",
-   "summary": "Last week we released DuckDB 2.0.0 LTS, our biggest feature release so far. The announcement covered the headline items: the Quack protocol, asynchronous I/O, the first-class VARIANT type, agent mode, the PEG parser and triggers. DuckDB 2.0.0 is now available in all primary clients – check the installation page for ins"
+   "summary": "Last week we released DuckDB 2.0.0 LTS, our biggest feature release so far. The announcement covered the headline items: the Quack protocol, asynchronous I/O, the first-class VARIANT type, agent mode, the PEG parser, and triggers. DuckDB 2.0.0 is now available in all primary clients – check the installation page for in"
   },
   {
    "title": "Deprecating the GraphQL API: timeline and migration paths",
@@ -5420,7 +7316,7 @@
    "source": "ElevenLabs",
    "category": "AI & ML",
    "date": "2026-10-23T12:00:00.000Z",
-   "summary": "Italy’s leading property marketplace goes from one conversational agent to an agentic network"
+   "summary": "Learn how Immobiliare.it uses ElevenAgents to run connected AI agents and subagents that qualify leads, answer buyers and support sellers across Italy."
   },
   {
    "title": "5 Lessons from Prithvi Raj Banerjee’s Mindful Thinking",
@@ -6447,6 +8343,14 @@
    "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO."
   },
   {
+   "title": "Fragments: October 21",
+   "link": "https://martinfowler.com/fragments/2026-10-21.html",
+   "source": "Martin Fowler",
+   "category": "Software Engineering",
+   "date": "2026-10-21T16:51:00.000Z",
+   "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not reali"
+  },
+  {
    "title": "Panache — RTS Belle Époque pour mobile",
    "link": "https://simonwillison.net/2026/Oct/21/panache/",
    "source": "Simon Willison",
@@ -6661,14 +8565,6 @@
    "category": "Tech",
    "date": "2026-10-21T11:02:22.000Z",
    "summary": "There’s a new archive of all the papers from twenty-five years of the Workshop on Economics and Information Security (WEIS). Really nice resource. It’s fun to reread my 2002 essay on the economics of information security."
-  },
-  {
-   "title": "Fragments: October 21",
-   "link": "https://martinfowler.com/fragments/2026-10-21.html",
-   "source": "Martin Fowler",
-   "category": "Software Engineering",
-   "date": "2026-10-21T10:51:00.000Z",
-   "summary": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say: When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out? I fear most people do not reali"
   },
   {
    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
@@ -8383,7 +10279,7 @@
    "summary": "..."
   },
   {
-   "title": "What Is Inside an Iceberg Table?",
+   "title": "What Is inside an Iceberg Table?",
    "link": "https://duckdb.org/2026/10/13/inside-iceberg-table.html",
    "source": "DuckDB Blog",
    "category": "Data Science",
@@ -8895,7 +10791,7 @@
    "summary": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied: we shipped the id and forgot the superego. classic software lifecycle. I don’t know what was on their mind, but their post immedia"
   },
   {
-   "title": "Importing Data using Java Table Functions",
+   "title": "Importing Data Using Java Table Functions",
    "link": "https://duckdb.org/2026/10/05/import-data-with-java.html",
    "source": "DuckDB Blog",
    "category": "Data Science",
@@ -10108,46 +12004,6 @@
    "source": "Anthropic News",
    "category": "AI Agents",
    "date": "2026-09-01T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "title": "What Leading a Data Team Actually Looks Like Right Now",
-   "link": "https://www.theseattledataguy.com/what-leading-a-data-team-actually-looks-like-right-now/",
-   "source": "SeattleDataGuy",
-   "category": "Data Science",
-   "date": "2026-08-31T21:30:00.000Z",
-   "summary": "There are certain problems that seem to never really go away if you’re leading a data team. Don’t get me wrong. The tech world is currently saturated by AI hype. Not only because every tool you look at now just feels like a thin layer of ChatGPT, but every conversation you have with the business… Read more The post Wha"
-  },
-  {
-   "title": "UX Without a UI: Notes from Researching Terminal UX for Opik MCP",
-   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/agent-first-terminal-ux/",
-   "source": "Comet ML",
-   "category": "AI & ML",
-   "date": "2026-08-31T17:48:18.000Z",
-   "summary": "The way developers interact with products is changing, and opening your app’s dashboard is no longer the obvious entry point. They want to use their apps inside the terminal. Why? Because they’re already there. We’re seeing more users instrumenting MCP and it makes sense. As engineers work primarily in their terminals,"
-  },
-  {
-   "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
-   "link": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
-   "source": "Import AI",
-   "category": "AI & ML",
-   "date": "2026-08-31T13:31:06.000Z",
-   "summary": "Plus, a live event with Robin Sloan!"
-  },
-  {
-   "title": "Ollama's transparent pricing",
-   "link": "https://ollama.com/blog/transparent-pricing",
-   "source": "Ollama",
-   "category": "AI & ML",
-   "date": "2026-08-31T00:00:00.000Z",
-   "summary": "Ollama's Pro, Max, and Team plans now use industry-standard per-token pricing with usage included on every plan."
-  },
-  {
-   "title": "Improving our alignment and security efforts",
-   "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-08-31T00:00:00.000Z",
    "summary": ""
   }
  ]
