@@ -1,12 +1,156 @@
 {
- "updated": "2026-11-05T06:13:55.489Z",
+ "updated": "2026-11-05T08:07:30.202Z",
  "failed": [
-  "Benn Stancil: Status code 403",
   "Deep Learning Focus: Status code 403",
+  "Benn Stancil: Status code 403",
   "Import AI: Status code 403",
   "e27: Status code 403"
  ],
  "posts": [
+  {
+   "title": "Tonbo Imaging turns profitable in Q2 FY27 with Rs 23.5 Cr; shares hit 20% upper circuit",
+   "link": "https://entrackr.com/fintrackr/tonbo-imaging-turns-profitable-in-q2-fy27-with-rs-235-cr-shares-hit-20-upper-circuit-12785666",
+   "source": "Entrackr",
+   "category": "Business Ideas",
+   "date": "2026-11-05T07:48:28.000Z",
+   "summary": "Defence technology company Tonbo Imaging reported over 20X year-on-year growth in revenue from operations in its first quarterly results (Q2 FY27) after listing on the stock exchanges. The company also turned profitable during the quarter. Tonbo Imaging’s revenue from operations increased to Rs 183.3 crore in Q2 FY27 f"
+  },
+  {
+   "title": "Tracking AI hiring in Singapore: Databricks, OpenAI, and more",
+   "link": "https://www.techinasia.com/visual-story/openai-anthropic-hiring-singapore",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T07:45:55.000Z",
+   "summary": "AI firms keep talking about the city-state. Their hiring data reveals who’s truly expanding in Southeast Asia."
+  },
+  {
+   "title": "Shiprocket swings to profit in Q2 FY27; revenue rises 35% to Rs 674 Cr",
+   "link": "https://entrackr.com/fintrackr/shiprocket-swings-to-profit-in-q2-fy27-revenue-rises-35-to-rs-674-cr-12785644",
+   "source": "Entrackr",
+   "category": "Business Ideas",
+   "date": "2026-11-05T07:40:41.000Z",
+   "summary": "New Delhi-based logistics and e-commerce enablement firm Shiprocket turned profitable in Q2 FY27, reporting a net profit of Rs 60 lakh against a net loss of Rs 20.30 crore in the corresponding quarter last year. Its operating revenue grew 34.8% year-on-year during the quarter. The company's revenue from operations rose"
+  },
+  {
+   "title": "Cohere to partner Singapore defense agency on security AI",
+   "link": "https://www.techinasia.com/news/cohere-partner-singapore-defense-agency-security-ai",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T07:30:09.000Z",
+   "summary": "The collaboration will support AI deployment for national security operations in highly secure environments."
+  },
+  {
+   "title": "Opening an investment account in India is getting easier for NRIs",
+   "link": "https://zerodha.com/z-connect/business-updates/opening-an-investment-account-in-india-is-getting-easier-for-nris",
+   "source": "Zerodha Z-Connect",
+   "category": "Finance",
+   "date": "2026-11-05T07:05:59.000Z",
+   "summary": "Opening a trading and demat account in India has become much simpler over the years. Resident Indians can complete the entire process online, from submitting documents and verifying their identity to signing the application, without visiting a branch or sending physical documents. For non-resident Indians (NRIs), howev"
+  },
+  {
+   "title": "Moonshot AI launches hosted AI agent service for enterprise",
+   "link": "https://www.techinasia.com/news/moonshot-ai-launches-hosted-ai-agent-service-for-enterprise",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T07:05:35.000Z",
+   "summary": "The launch also comes as China’s rules for public-facing generative AI services require security assessments and regulatory filings in some cases."
+  },
+  {
+   "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+   "link": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-05T07:00:00.000Z",
+   "summary": "Adult content creators and free speech advocates are sounding the alarm over a new law about to take effect in the United Kingdom banning simulated incest and some depictions of oral sex."
+  },
+  {
+   "title": "50 rising startups and tech companies in India",
+   "link": "https://www.techinasia.com/50-rising-startups-india",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T07:00:00.000Z",
+   "summary": "Which are the startups that are on the path to becoming the next big thing?"
+  },
+  {
+   "title": "ShareChat parent Mohalla Tech reports 40% revenue growth",
+   "link": "https://www.techinasia.com/news/sharechat-parent-mohalla-tech-reports-40-revenue-growth",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:53:41.000Z",
+   "summary": "Subscription revenue from Quick TV and Moj+ reached 2.9 billion rupees (US$31 million) in its first full year."
+  },
+  {
+   "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
+   "link": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-%e2%82%b9674-cr/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:49:09.000Z",
+   "summary": "Ecommerce enablement platform Shiprocket turned profitable in the September quarter, reporting a consolidated net profit of ₹0.6 Cr against a…"
+  },
+  {
+   "title": "Animoca’s Air partners with Fill Easy on digital identity",
+   "link": "https://www.techinasia.com/news/animocas-air-partners-with-fill-easy-on-digital-identity",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:38:32.000Z",
+   "summary": "The initiative aligns with European Union digital identity reforms that aim to standardize cross-border sharing of identity attributes."
+  },
+  {
+   "title": "Tonbo Imaging Turns Profitable In Q2 With ₹23.5 Cr PAT",
+   "link": "https://inc42.com/buzz/tonbo-imaging-turns-profitable-in-q2-with-%e2%82%b923-5-cr-pat/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:37:00.000Z",
+   "summary": "Defence tech company Tonbo Imaging swung to a consolidated net profit of ₹23.5 Cr in the September quarter of FY27…"
+  },
+  {
+   "title": "Philippine digital lender Skyro launches loans in Malaysia",
+   "link": "https://www.techinasia.com/news/philippine-digital-lender-skyro-launches-loans-malaysia",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:25:24.000Z",
+   "summary": "Its first product in Malaysia offers new customers loans of up to 1,000 ringgit (US$250) with repayment terms of up to four months through its mobile app."
+  },
+  {
+   "title": "[AINews] It's Swapping Season",
+   "link": "https://latent.space/p/ainews-it-s-swapping-season/",
+   "source": "Latent Space",
+   "category": "AI Agents",
+   "date": "2026-11-05T06:24:09.000Z",
+   "summary": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B."
+  },
+  {
+   "title": "Lenskart Shares Jump 11% To All-Time High After Q2 Profit More Than Doubles",
+   "link": "https://inc42.com/buzz/lenskart-shares-jump-11-to-all-time-high-after-q2-profit-more-than-doubles/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:22:08.000Z",
+   "summary": "Shares of omnichannel eyewear retailer Lenskart surged as much as 11.1% to an all-time high of ₹767.4 on the BSE…"
+  },
+  {
+   "title": "Decathlon India’s total income crosses Rs 4,500 Cr in FY26; EBITDA stands at Rs 424 Cr",
+   "link": "https://entrackr.com/fintrackr/decathlon-indias-total-income-crosses-rs-4500-cr-ebitda-stands-at-rs-424-cr-12785276",
+   "source": "Entrackr",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:16:51.000Z",
+   "summary": "As interest in sports beyond cricket continues to grow in India, people are increasingly taking up activities such as badminton, hockey, boxing, swimming, trekking and skating. This has also created opportunities for brands catering to a wider range of sporting needs. One such brand is Decathlon, which offers products "
+  },
+  {
+   "title": "Exclusive: Scripbox to convert into public company ahead of IPO plans",
+   "link": "https://entrackr.com/exclusive/exclusive-scripbox-to-convert-into-public-company-ahead-of-ipo-plans-12785270",
+   "source": "Entrackr",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:15:23.000Z",
+   "summary": "Bengaluru-based wealthtech startup Scripbox is set to convert into a public company after passing a resolution approving the move, a step that signals its preparation for a potential public listing. According to regulatory filings accessed by Entrackr, Scripbox’s board has passed a resolution to approve its conversion "
+  },
+  {
+   "title": "👨🏿‍🚀TechCabal Daily – A Chinese plot twist",
+   "link": "https://techcabal.com/2026/11/05/techcabal-daily-a-chinese-plot-twist/",
+   "source": "TechCabal",
+   "category": "Business Ideas",
+   "date": "2026-11-05T06:14:09.000Z",
+   "summary": "In today's edition: China inquiry prompted OPay to halt US IPO || Kenyan Treasury calls for cheaper bank loans || Africa’s credit rating agency to debut in 2027 || Helium Health raises $2.5 million"
+  },
   {
    "title": "AI Visibility vs. Search Rankings: Is Your Agency Measuring the Wrong Thing For 2027?",
    "link": "https://www.searchenginejournal.com/ai-visibility-vs-search-rankings-is-your-agency-measuring-the-wrong-thing-for-2027-spa/594163/",
@@ -112,6 +256,14 @@
    "summary": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals."
   },
   {
+   "title": "Centre Weighs Withdrawing Safe Harbour For Meta, Google, X: Report",
+   "link": "https://inc42.com/buzz/centre-weighs-withdrawing-safe-harbour-for-meta-google-x-report/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-05T05:55:54.000Z",
+   "summary": "The Centre is exploring withdrawing safe harbour protection from social media platforms such as Facebook, Instagram, YouTube, and X, potentially…"
+  },
+  {
    "title": "My very good Conversation with Richard Hanania",
    "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania",
    "source": "Marginal Revolution",
@@ -134,6 +286,14 @@
    "category": "Business Ideas",
    "date": "2026-11-05T05:45:08.000Z",
    "summary": "Venomics AI uses molecular sequencing, AI, and lab testing to identify venom-derived molecules that could be developed into drug candidates."
+  },
+  {
+   "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
+   "link": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-11-05T05:42:18.000Z",
+   "summary": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot. The post Google AI Research Releases Agile Deliberation Framework for Gray-Are"
   },
   {
    "title": "Specialty chemicals startup altM raises $10.3 Mn led by Rainmatter, Mela Ventures",
@@ -424,6 +584,22 @@
    "summary": "arXiv:2611.05803v1 Announce Type: new Abstract: How much phonological knowledge do language models (LMs) possess about Chinese characters, and how is this knowledge represented and used? We introduce PinyinBench, a controlled benchmark covering homophones, phonological features (initials, finals, and tones), and polyph"
   },
   {
+   "title": "CC Auto Review",
+   "link": "https://www.producthunt.com/products/cc-auto-review",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-05T04:54:13.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
+   "title": "Nemotron 3.5 Transcribe",
+   "link": "https://www.producthunt.com/products/nvidia",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-05T04:51:07.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "AI chip startup Tenspresso seeks $50m at $500m valuation",
    "link": "https://www.techinasia.com/news/ai-chip-startup-tenspresso-seeks-50m-at-500m-valuation",
    "source": "Tech in Asia",
@@ -648,12 +824,28 @@
    "summary": "Data center opposition crossed party lines in Tuesday’s midterms."
   },
   {
+   "title": "ChatGPT Images 2.6",
+   "link": "https://www.producthunt.com/products/chatgpt-images-2-6",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-05T00:41:38.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "Cleantech Startup altM Raises $10.3 Mn To Scale Manufacturing",
    "link": "https://inc42.com/buzz/cleantech-startup-altm-raises-10-3-mn-to-scale-manufacturing/",
    "source": "Inc42",
    "category": "Business Ideas",
    "date": "2026-11-05T00:30:27.000Z",
    "summary": "Cleantech startup altM has raised $10.3 Mn (₹97.5 Cr) in a Series A funding round led by new investors Rainmatter…"
+  },
+  {
+   "title": "altM raises $10.3M in Series A funding led by Rainmatter, Mela Ventures",
+   "link": "https://yourstory.com/2026/11/altm-raises-103m-series-a-funding-rainmatter-mela-ventures",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-11-05T00:30:00.000Z",
+   "summary": "Bengaluru-based altM will use the funds to expand its manufacturing capacity, strengthen research and development, support customer qualification programmes, and grow its engineering and commercial teams."
   },
   {
    "title": "X says its updated web app is way faster",
@@ -1110,6 +1302,14 @@
    "category": "Tech",
    "date": "2026-11-04T21:49:29.000Z",
    "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories."
+  },
+  {
+   "title": "Scrollsnacks",
+   "link": "https://www.producthunt.com/products/scrollsnacks",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-04T21:46:13.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "17 better ways Elon Musk could have wasted $446 million",
@@ -2872,6 +3072,14 @@
    "summary": "Remove discontinued tools from README Removed references to HeySpace, Zeitio, and Datree from the README."
   },
   {
+   "title": "SafetyClip",
+   "link": "https://www.producthunt.com/products/safetyclip",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-04T08:40:49.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "Databricks opens new office, plans $350m Singapore investment",
    "link": "https://www.techinasia.com/news/databricks-opens-office-plans-350m-singapore-investment",
    "source": "Tech in Asia",
@@ -2934,6 +3142,14 @@
    "category": "Business Ideas",
    "date": "2026-11-04T08:15:44.000Z",
    "summary": "KnowYi builds reasoning ML to capture unwritten engineering knowledge, ensuring physical hardware builds succeed on the first try."
+  },
+  {
+   "title": "Tencent Hy4",
+   "link": "https://www.producthunt.com/products/hunyuan-a13b",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-04T08:07:42.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "A thousand fewer paths to root",
@@ -4928,6 +5144,14 @@
    "summary": "Bangkok, October 26, 2026 – SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet has raised an additional $12.8 million in funding, with partic"
   },
   {
+   "title": "Pinku",
+   "link": "https://www.producthunt.com/products/pinku",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-03T07:52:00.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "Ecosystem Roundup: North Korea’s US$6.4B Binance heist took 54 minutes and isn’t over",
    "link": "https://e27.co/ecosystem-roundup-north-koreas-us6-4b-binance-heist-took-54-minutes-and-isnt-over-20261103/",
    "source": "e27",
@@ -5190,6 +5414,14 @@
    "category": "India",
    "date": "2026-11-03T02:26:28.000Z",
    "summary": "MobiKwik’s revenue rose 9.4% year-on-year (YoY) to Rs 295.70 crore. The company attributed the quarter’s performance to higher gross merchandise value (GMV) growth and improved margins."
+  },
+  {
+   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+   "link": "https://hackertimes.ca/",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-03T01:53:34.000Z",
+   "summary": "Comments"
   },
   {
    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
@@ -6144,6 +6376,14 @@
    "summary": "Changes since langchain-anthropic==1.7.7 release(anthropic): 1.7.8 (#41638) #41637) #41553)"
   },
   {
+   "title": "Living Brain",
+   "link": "https://www.producthunt.com/products/chatandbuild",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-02T15:07:36.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
    "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
    "source": "Search Engine Journal",
@@ -6376,6 +6616,14 @@
    "summary": ""
   },
   {
+   "title": "Clocknext",
+   "link": "https://www.producthunt.com/products/clocknext",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-02T11:41:56.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "NTT DATA explores expansion in Mangaluru and Udupi, meets Priyank Kharge",
    "link": "https://yourstory.com/2026/11/ntt-data-explores-expansion-in-mangaluru-and-udupi-meets-priyank-kharge",
    "source": "YourStory",
@@ -6502,6 +6750,14 @@
    "category": "India",
    "date": "2026-11-02T09:36:56.000Z",
    "summary": "WOI India introduced platforms focused on venture building, sales, marketing, and ecommerce, along with an investor network and a Founder Card connecting entrepreneurs to the Startup Park ecosystem."
+  },
+  {
+   "title": "Show HN: I've updated my Linux System Call website and API",
+   "link": "https://syscall.sh/",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-02T09:29:16.000Z",
+   "summary": "Comments"
   },
   {
    "title": "Startup news and updates: daily roundup (November 02, 2026)",
@@ -7088,6 +7344,14 @@
    "summary": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how."
   },
   {
+   "title": "Maritime",
+   "link": "https://www.producthunt.com/products/maritime",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-01T19:24:15.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "Apple’s HomeView could add security camera features",
    "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
    "source": "The Verge",
@@ -7134,6 +7398,14 @@
    "category": "Tech",
    "date": "2026-11-01T16:19:21.000Z",
    "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nea"
+  },
+  {
+   "title": "Pushary for Teams",
+   "link": "https://www.producthunt.com/products/pushary",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-01T16:09:33.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "The Enterprise Context Layer: A Practitioner's Guide to 6 Advanced Architectural Patterns",
@@ -7566,6 +7838,14 @@
    "category": "Tech",
    "date": "2026-10-31T20:00:00.000Z",
    "summary": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry."
+  },
+  {
+   "title": "MCPCore",
+   "link": "https://www.producthunt.com/products/mcpcore",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-10-31T19:36:00.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "Keyboards of The Verge",
@@ -10696,6 +10976,14 @@
    "summary": "The post India needs about 2 million caregivers. The govt has trained fewer than 40,000 appeared first on The Ken."
   },
   {
+   "title": "Zerg Client",
+   "link": "https://www.producthunt.com/products/zerg",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-10-29T02:11:01.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "How Procore is powering construction analytics with OpenSharing",
    "link": "https://www.databricks.com/blog/how-procore-powering-construction-analytics-opensharing-0",
    "source": "Databricks",
@@ -10862,6 +11150,14 @@
    "category": "Marketing",
    "date": "2026-10-28T22:11:43.000Z",
    "summary": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Bridge",
+   "link": "https://www.producthunt.com/products/meetonbridge",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-10-28T21:00:49.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "Pages AI Cited Got Straight To The Answer More Often, Data Shows via @sejournal, @MattGSouthern",
@@ -11710,302 +12006,6 @@
    "category": "AI & ML",
    "date": "2026-10-28T04:00:00.000Z",
    "summary": "arXiv:2610.36191v1 Announce Type: new Abstract: Large language models (LLMs) frequently generate fluent yet factually incorrect responses, raising concerns about their reliability. Recent hallucination detectors increasingly exploit internal representations, but extracting informative signals from high-dimensional hidd"
-  },
-  {
-   "title": "Beyond IceBERT: Open-Data ModernBERT Encoders for Icelandic from 12M to 1B Parameters",
-   "link": "https://arxiv.org/abs/2610.36230",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36230v1 Announce Type: new Abstract: IceBERT, the reference encoder for Icelandic, found that a cleaned web crawl is enough to train a strong model and that starting from a multilingual model can help on some tasks. We revisit both findings with the ModernBERT architecture. We train Icelandic encoders from 1"
-  },
-  {
-   "title": "Detect Before You Disambiguate: Perturbation-Based Input Ambiguity Detection in LLMs",
-   "link": "https://arxiv.org/abs/2610.36353",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36353v1 Announce Type: new Abstract: Large language models (LLMs) often answer ambiguous inputs as if they had a single intended meaning. This is problematic because input ambiguity is an upstream source of uncertainty: when a prompt admits multiple valid interpretations, the key question is whether the mode"
-  },
-  {
-   "title": "AK_QMUL at ArGuard Shared Tasks: A Single Fine-Tuned JAIS for Arabic Harmful-Prompt Detection",
-   "link": "https://arxiv.org/abs/2610.36360",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36360v1 Announce Type: new Abstract: We present AK_QMUL's submissions to the ArGuard-2026 shared tasks on Arabic harmful-prompt detection: a binary safe/unsafe task (B1) and a seven-way harm-domain task (B2). Both submissions use one backbone -- JAIS-6.7B fine-tuned with 4-bit QLoRA and a linear classificati"
-  },
-  {
-   "title": "No Tokenizer, Still a Gap: Cross-Lingual Fairness of Homoglyph and Invisible-Character Watermarking",
-   "link": "https://arxiv.org/abs/2610.36432",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36432v1 Announce Type: new Abstract: Homoglyph and invisible-character watermarks are edit-based watermarks. Instead of changing how a model generates text, they hide a signal in the text after it is written. They swap some characters for homoglyphs, which look the same, or very similar, but have different U"
-  },
-  {
-   "title": "CONCUR: Concordant Auxiliary Rewards for Multi-Task, Multi-Reward Reinforcement Learning",
-   "link": "https://arxiv.org/abs/2610.36437",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36437v1 Announce Type: new Abstract: When a Large Language Model (LLM) is trained with Reinforcement Learning (RL) on multiple tasks, a task's primary reward can gate auxiliary rewards such as a length reward: on a failing response, an auxiliary cannot exceed the primary. However, group-relative advantage es"
-  },
-  {
-   "title": "Do AI Scientists Know What's New?",
-   "link": "https://arxiv.org/abs/2610.36511",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36511v1 Announce Type: new Abstract: A major challenge facing AI scientific discovery pipelines is how to determine when a generated idea is meaningfully novel. Ideally, novelty checks in these pipelines must be able to reject non-novel ideas while not rejecting too many novel ideas, and they should also be "
-  },
-  {
-   "title": "Benchmarking Task Takeover Across Agent Handoffs",
-   "link": "https://arxiv.org/abs/2610.36523",
-   "source": "arXiv cs.CL (Computation & Language / LLMs)",
-   "category": "AI & ML",
-   "date": "2026-10-28T04:00:00.000Z",
-   "summary": "arXiv:2610.36523v1 Announce Type: new Abstract: As agents collaborate on longer tasks, responsibility may pass between models before the work is complete. The receiving model must build on prior decisions, observations, and actions while addressing the remaining requirements. Evaluating this transition requires connect"
-  },
-  {
-   "title": "iOS 27.2 brings two new features to Apple's CarPlay",
-   "link": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-28T03:51:54.000Z",
-   "summary": "iOS 27.2 comes with some changes for Apple CarPlay, too."
-  },
-  {
-   "title": "How Alex Lee became the first engineer at Magic Patterns",
-   "link": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/",
-   "source": "Y Combinator",
-   "category": "Business Ideas",
-   "date": "2026-10-28T02:59:08.000Z",
-   "summary": "Alex Lee left his own startup to join Magic Patterns as founding engineer — and built a slide deck feature in a weekend."
-  },
-  {
-   "title": "‘Winner’ to patsy: what the radical insurance reforms could mean for the patient",
-   "link": "https://the-ken.com/story/winner-to-patsy-what-the-radical-insurance-reforms-could-mean-for-the-patient/",
-   "source": "The Ken",
-   "category": "Business Ideas",
-   "date": "2026-10-28T02:30:22.000Z",
-   "summary": "The post ‘Winner’ to patsy: what the radical insurance reforms could mean for the patient appeared first on The Ken."
-  },
-  {
-   "title": "Why women should build their front row; AI automation and its impact on jobs",
-   "link": "https://yourstory.com/2026/10/why-women-should-build-their-front-row-ai-automation-jobs",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-10-28T02:00:00.000Z",
-   "summary": "Kripa Venkatachalam, VP, India Technical Field Organisation & Global Customer Success at Cadence Design Systems, reflects on gender barriers, changing workplace policies, and the importance of having people who cheer you."
-  },
-  {
-   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-10-28T01:15:28.000Z",
-   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
-  },
-  {
-   "title": "⚡ How Do You Reach $50M ARR With Fewer Than 50 People?",
-   "link": "https://trends.vc/how-do-you-reach-50m-arr-with-fewer-than-50-people/",
-   "source": "Trends.vc",
-   "category": "Business Ideas",
-   "date": "2026-10-28T00:57:19.000Z",
-   "summary": "This week’s Founder Finds includes: 🖍️ An agentic design tool📄 Making sites agent ready⚡ $50M ARR with under 50 people🌙 Simple morning and evening rituals➡️ And more… 🪶 REMEMBER THIS: Tiny habits can change your life in a decade. 🤓 FAV FINDS Tools, tweets and more from Trends Pro Members 🖍️ Paper.design shared by"
-  },
-  {
-   "title": "What It Takes to Be Free",
-   "link": "https://www.themarginalian.org/2026/10/27/freedom/",
-   "source": "The Marginalian",
-   "category": "Ideas",
-   "date": "2026-10-28T00:02:10.000Z",
-   "summary": "We spend our lives trying to find our power and our freedom. It is not easy: We live in a culture that has distorted the meaning and measure of power, confusing visibility with value, status with substance, attention with love; we live in a universe where free will may be an illusion, where chance deals the vast majori"
-  },
-  {
-   "title": "Bottlenecks & Switching Traps",
-   "link": "https://www.antler.co/blog/bottlenecks-and-switching-traps-uk-visa-report-2026",
-   "source": "Antler",
-   "category": "Business Ideas",
-   "date": "2026-10-28T00:00:01.000Z",
-   "summary": "Antler's 2026 report shows how the UK visa system blocks international founders, from endorsement bottlenecks to hidden costs, and how to fix it."
-  },
-  {
-   "title": "Don't throw away your old Kindle — repurpose it instead",
-   "link": "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-28T00:00:00.000Z",
-   "summary": "You can probably still read on it, and, with some finessing, you can turn it into a useful display."
-  },
-  {
-   "title": "AI for Science expands to foundations and research institutions",
-   "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "source": "Anthropic News",
-   "category": "AI Agents",
-   "date": "2026-10-28T00:00:00.000Z",
-   "summary": ""
-  },
-  {
-   "title": "langchain-anthropic==1.7.7",
-   "link": "https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.7",
-   "source": "LangChain",
-   "category": "AI Agents",
-   "date": "2026-10-27T23:48:26.000Z",
-   "summary": "Changes since langchain-anthropic==1.7.6 release(anthropic): 1.7.7 (#41538) #41536) #41407) #41391) #41266)"
-  },
-  {
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-10-27T23:34:27.000Z",
-   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
-  },
-  {
-   "title": "This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts",
-   "link": "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-27T23:30:00.000Z",
-   "summary": "The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)"
-  },
-  {
-   "title": "Siri AI Expands to More Languages in OS 27.2",
-   "link": "https://nr.apple.com/Du9G9W8Nq1",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-10-27T23:19:39.000Z",
-   "summary": "Apple Newsroom yesterday: With the 27.2 software updates released today, Siri AI — an entirely new version of Siri that is profoundly more capable, conversational, and personal — is expanding to more people around the world, with availability now in the French, Japanese, Korean, Portuguese, and Spanish languages. [...]"
-  },
-  {
-   "title": "Discord public server messages may be soon searchable on Google, but you can opt out",
-   "link": "https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-27T23:04:49.000Z",
-   "summary": "The platform's Discoverable Servers are about to get a lot more discoverable."
-  },
-  {
-   "title": "How to change and customize your Android Auto display",
-   "link": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-27T23:00:00.000Z",
-   "summary": "Tailor your tech to fit your daily drive seamlessly."
-  },
-  {
-   "title": "The data center boom has an upside: innovation for the US grid",
-   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-10-27T22:55:41.000Z",
-   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
-  },
-  {
-   "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-   "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-   "source": "The Verge",
-   "category": "Tech",
-   "date": "2026-10-27T22:55:05.000Z",
-   "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing on th"
-  },
-  {
-   "title": "Opik Security Incident: October 2026",
-   "link": "https://live-comet-marketing-site.pantheonsite.io/blog/security-incident-october-2026/",
-   "source": "Comet ML",
-   "category": "AI & ML",
-   "date": "2026-10-27T22:50:42.000Z",
-   "summary": "No customer data, accounts, or API keys were accessed. On October 26, 2026, Comet contained a security incident affecting Opik on comet.com. This post explains what happened, what was affected, and what we have done in response. What happened Between October 24 and 26, 2026, an unauthorized party used a comet.com user "
-  },
-  {
-   "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-   "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-10-27T22:37:30.000Z",
-   "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6."
-  },
-  {
-   "title": "The best ways to tell if someone is using AI glasses",
-   "link": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-27T22:30:00.000Z",
-   "summary": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP."
-  },
-  {
-   "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-   "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-10-27T22:26:03.000Z",
-   "summary": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
-  },
-  {
-   "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-   "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-10-27T22:22:32.000Z",
-   "summary": "International travel used to be the main risk of measles cases in the US—not anymore."
-  },
-  {
-   "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-   "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-10-27T22:17:18.000Z",
-   "summary": "A whole crop of venture capital firms are raising significant new funds."
-  },
-  {
-   "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-   "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-10-27T22:04:50.000Z",
-   "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space."
-  },
-  {
-   "title": "Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote",
-   "link": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-10-27T22:00:04.000Z",
-   "summary": "Apple Newsroom, with software news for Apple’s “Pro and Tell” week: Apple today introduced transformative updates to Apple Creator Studio, the powerful collection of creative apps designed to put studio-grade tools into the hands of modern creators across Mac, iPad, and iPhone. Final Cut Pro for Mac now includes built-"
-  },
-  {
-   "title": "What are wrong number text scams, and how can you avoid them?",
-   "link": "https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-10-27T22:00:00.000Z",
-   "summary": "It's not an honest mistake; it's the start of an attack on your wallet."
-  },
-  {
-   "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
-   "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
-   "source": "MarkTechPost",
-   "category": "AI & ML",
-   "date": "2026-10-27T21:54:37.000Z",
-   "summary": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search. The post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB appeared first"
-  },
-  {
-   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-10-27T21:50:04.000Z",
-   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says."
-  },
-  {
-   "title": "GM is embracing hybrids now",
-   "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-10-27T21:47:02.000Z",
-   "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs."
   }
  ]
 }
