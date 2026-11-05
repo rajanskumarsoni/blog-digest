@@ -433,5 +433,110 @@
     "name": "arXiv cs.CL (Computation & Language / LLMs)",
     "category": "AI & ML",
     "url": "https://export.arxiv.org/rss/cs.CL"
+  },
+  {
+    "name": "Product Hunt",
+    "category": "Business Ideas",
+    "url": "https://www.producthunt.com/feed"
+  },
+  {
+    "name": "BetaList",
+    "category": "Business Ideas",
+    "url": "https://feeds.feedburner.com/betalist"
+  },
+  {
+    "name": "Show HN (Hacker News)",
+    "category": "Business Ideas",
+    "url": "https://news.ycombinator.com/showrss"
+  },
+  {
+    "name": "Reddit Startups",
+    "category": "Business Ideas",
+    "url": "https://www.reddit.com/r/startups/.rss"
+  },
+  {
+    "name": "Crunchbase News",
+    "category": "Business Ideas",
+    "url": "https://news.crunchbase.com/feed/"
+  },
+  {
+    "name": "CB Insights",
+    "category": "Business Ideas",
+    "url": "https://www.cbinsights.com/research/feed/"
+  },
+  {
+    "name": "Y Combinator",
+    "category": "Business Ideas",
+    "url": "https://blog.ycombinator.com/feed/"
+  },
+  {
+    "name": "Antler",
+    "category": "Business Ideas",
+    "url": "https://www.antler.co/blog/rss.xml"
+  },
+  {
+    "name": "Tech in Asia",
+    "category": "Business Ideas",
+    "url": "https://www.techinasia.com/feed"
+  },
+  {
+    "name": "Sifted",
+    "category": "Business Ideas",
+    "url": "https://sifted.eu/feed"
+  },
+  {
+    "name": "TechCabal",
+    "category": "Business Ideas",
+    "url": "https://techcabal.com/feed/"
+  },
+  {
+    "name": "Disrupt Africa",
+    "category": "Business Ideas",
+    "url": "https://disrupt-africa.com/feed/"
+  },
+  {
+    "name": "Wamda",
+    "category": "Business Ideas",
+    "url": "https://wamda.com/feed"
+  },
+  {
+    "name": "Inc42",
+    "category": "Business Ideas",
+    "url": "https://inc42.com/feed/"
+  },
+  {
+    "name": "Entrackr",
+    "category": "Business Ideas",
+    "url": "https://entrackr.com/rss"
+  },
+  {
+    "name": "The Ken",
+    "category": "Business Ideas",
+    "url": "https://the-ken.com/feed/"
+  },
+  {
+    "name": "Trends.vc",
+    "category": "Business Ideas",
+    "url": "https://trends.vc/feed/"
+  },
+  {
+    "name": "Rest of World",
+    "category": "Business Ideas",
+    "url": "https://restofworld.org/feed/"
+  },
+  {
+    "name": "Free for Dev (GitHub)",
+    "category": "Business Ideas",
+    "url": "https://github.com/ripienaar/free-for-dev/commits/master.atom"
+  },
+  {
+    "name": "e27",
+    "category": "Business Ideas",
+    "url": "https://e27.co/feed"
+  },
+  {
+    "name": "Awesome Indie (GitHub)",
+    "category": "Business Ideas",
+    "url": "https://github.com/mezod/awesome-indie/commits/master.atom"
   }
 ]

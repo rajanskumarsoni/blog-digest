@@ -43,15 +43,19 @@ const fetched = await Promise.all(
     try {
       let result;
       try {
+        const isReddit = feed.url.includes('reddit.com');
         const res = await fetch(feed.url, {
           headers: {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'User-Agent': isReddit
+              ? 'mac:blogdigest.reader:v1.0.0 (by /u/blogdigest)'
+              : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'application/rss+xml, application/rdf+xml, application/atom+xml, application/xml, text/xml, */*'
           },
           signal: AbortSignal.timeout(20000)
         });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const text = (await res.text()).trim().replace(/^[\uFEFF\xA0]+/, '');
+        let text = (await res.text()).trim().replace(/^[\uFEFF\xA0]+/, '');
+        text = text.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
         result = await parser.parseString(text);
       } catch {
         result = await parser.parseURL(feed.url);
