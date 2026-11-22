@@ -1,13 +1,1013 @@
 {
- "updated": "2026-11-21T08:30:27.398Z",
+ "updated": "2026-11-22T08:24:53.109Z",
  "failed": [
   "Benn Stancil: Status code 403",
   "Deep Learning Focus: Status code 403",
   "Import AI: Status code 403",
-  "e27: Status code 403",
-  "Reddit Startups: Status code 429"
+  "Reddit Startups: Status code 429",
+  "e27: Status code 403"
  ],
  "posts": [
+  {
+   "title": "Teaching AI to build scientific models",
+   "link": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+   "source": "Anthropic Research",
+   "category": "AI & ML",
+   "date": "2026-11-22T08:24:52.997Z",
+   "summary": "In this guest post, Jakob Macke, Daniel Gedon, and Stefan Wahl discuss how AI is starting to change the scientific modeling process, from construction to interpretation."
+  },
+  {
+   "title": "Early progress on accelerating drug development with Claude",
+   "link": "https://www.anthropic.com/research/early-progress-drug-development",
+   "source": "Anthropic Research",
+   "category": "AI & ML",
+   "date": "2026-11-22T08:24:52.997Z",
+   "summary": "We're at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines."
+  },
+  {
+   "title": "Show HN: I built a newspaper for white-collar crime that paints every portrait",
+   "link": "https://financialcrimes.fyi/",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T08:12:40.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "Geefah – Furnished resort-style homes leased monthly near hospitals and business",
+   "link": "https://betalist.com/startups/geefah?utm_campaign=startup-200837&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T08:00:00.000Z",
+   "summary": "Geefah leases company-managed furnished homes for 4 to 5 months to professionals. Our homes are in pre-vetted locations near hospitals and business centers with resort-style living including a pool, spa, and clubhouse. We offer a turnkey solution with fully stocked kitchens and extras to make your home feel like home. "
+  },
+  {
+   "title": "Danish daughters",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-11-22T07:40:20.000Z",
+   "summary": "Using Danish administrative data, we compare parents of only children who experience a stroke at the same age and differ only in the gender of their child. Before the stroke, parents of daughters and parents of sons follow similar health trajectories, with comparable levels of pre-existing conditions and healthcare uti"
+  },
+  {
+   "title": "Series SEA: Who’s investing in the region’s fintech startups?",
+   "link": "https://www.techinasia.com/top-sea-investors-fintech",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T07:00:00.000Z",
+   "summary": "We've compiled a list of investors that are pouring money into Southeast Asia’s fintech startups."
+  },
+  {
+   "title": "Merge pull request #5238 from rtman/patch-4",
+   "link": "https://github.com/ripienaar/free-for-dev/commit/49ffc1a7fa4a0df8e4f9fa98fb6234d1be8e1cc1",
+   "source": "Free for Dev (GitHub)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T06:46:37.000Z",
+   "summary": "Merge pull request #5238 from rtman/patch-4 remove hyperserve, now a free trial."
+  },
+  {
+   "title": "TheWijn.org – Explore curated wine facts, terms, events, and producers",
+   "link": "https://betalist.com/startups/thewijn-org?utm_campaign=startup-200778&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T06:45:00.000Z",
+   "summary": "TheWijn.org is a curated, searchable reference for wine lovers and professionals. It organizes concise entries on wineries, wine countries, tasting terms, winemaking practices, events, media, and reports with sources and cross-links. Visitors can browse country pages, learn terminology like 20-point tasting sheets, and"
+  },
+  {
+   "title": "remove hyperserve, now a free trial.",
+   "link": "https://github.com/ripienaar/free-for-dev/commit/5e69f16101f1e079dff9d4ab70104cd123fd2043",
+   "source": "Free for Dev (GitHub)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T06:43:00.000Z",
+   "summary": "remove hyperserve, now a free trial."
+  },
+  {
+   "title": "Will AI Growth Reach the Developing World?",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-11-22T06:14:28.000Z",
+   "summary": "Here is the abstract from a new NBER paper by Daniel Björkegren, David Lagakos & Mitchell VanVuren: This paper explores how economic growth driven by AI will impact the developing world. Our analysis is based on a growth model of a developed and developing economy where AI services are traded on the world market, and ["
+  },
+  {
+   "title": "Show HN: The Riemann Proof Handbook",
+   "link": "https://github.com/tamnd/riemann-handbook",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T05:46:30.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "Show HN: Npx.tools, a keyboard-friendly index of developer tools",
+   "link": "https://npx.tools/",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T05:39:43.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "The GTA VI-Sized Hole In Indian Gaming",
+   "link": "https://inc42.com/features/the-gta-vi-sized-hole-in-indian-gaming/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-22T05:30:37.000Z",
+   "summary": "At midnight on Thursday, when Grand Theft Auto VI finally launched, India was just another market waiting to play the…"
+  },
+  {
+   "title": "Fimvory – A cozy planner that turns your daily tasks and routines into quests",
+   "link": "https://betalist.com/startups/fimvory?utm_campaign=startup-200207&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T05:30:00.000Z",
+   "summary": "Fimvory brings your tasks, calendar, and routines into a daily planner with a small world that grows as you use it. You can break bigger projects into quests, plan your day around your energy, and make room for breaks. Completing everyday tasks and rituals earns rewards you can use to build and decorate your world. Vie"
+  },
+  {
+   "title": "KKR’s Helix eyes majority stake in data center firm EdgeCore",
+   "link": "https://www.techinasia.com/news/kkrs-helix-eyes-majority-stake-data-center-firm-edgecore",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T04:31:34.000Z",
+   "summary": "Helix launched in June under former AWS chief Adam Selipsky with US$10 billion."
+  },
+  {
+   "title": "Arceris – Secure AI interactions across browser, API, and developer tools",
+   "link": "https://betalist.com/startups/arceris?utm_campaign=startup-200759&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T04:15:00.000Z",
+   "summary": "Arceris provides an enterprise AI security gateway that inspects AI traffic at the network layer. It secures browser chats, APIs, mobile apps, and developer tools by enforcing redaction, access controls, and topic policies in real time. Arceris can be self-hosted, decrypts and re-encrypts HTTPS to analyze prompts and r"
+  },
+  {
+   "title": "A list of fundraising startups from Asia and beyond (Updated)",
+   "link": "https://www.techinasia.com/visual-story/list-fundraising-startups-southeast-asia-india",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T04:00:00.000Z",
+   "summary": "Fundraising is hard. To make things slightly easier, we've compiled this list of fundraising startups for our subscribers."
+  },
+  {
+   "title": "LG Uplus unveils 2027 reorganization to expand AI business",
+   "link": "https://www.techinasia.com/news/lg-uplus-unveils-2027-reorganization-expand-ai-business",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T03:43:13.000Z",
+   "summary": "LG Uplus also created a Digital Business Unit for its consumer operations."
+  },
+  {
+   "title": "Show HN: Hikari.ImGui, a pure C# re-implementation of Dear ImGui",
+   "link": "https://github.com/LeastActionTech/Hikari.ImGui",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T03:17:57.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "Show HN: A modern take on the Go language",
+   "link": "https://github.com/telgatech/gpp",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T03:09:48.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "Content, AI, empowerment: test your business creativity with Edition 259 of our weekly quiz!",
+   "link": "https://yourstory.com/2026/11/content-ai-empowerment-business-creativity-entrepreneur-quiz",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-11-22T03:04:28.000Z",
+   "summary": "This insightful feature from YourStory tests and strengthens your business acumen! Here are 5 questions to kick off this 259th quiz. Ready?"
+  },
+  {
+   "title": "Tiquiz – Build AI-powered quizzes that segment leads in your email tool",
+   "link": "https://betalist.com/startups/tiquiz?utm_campaign=startup-200757&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T03:00:00.000Z",
+   "summary": "Tiquiz is a quiz funnel software that uses AI to write quizzes, capture leads, tag them in GoHighLevel or Systeme.io, and send follow-up emails. View startup"
+  },
+  {
+   "title": "WeChat tightens account rules over impersonation, fake titles",
+   "link": "https://www.techinasia.com/news/wechat-tightens-account-rules-impersonation-fake-titles",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T02:53:36.000Z",
+   "summary": "China's 2022 provisions require platforms to manage account names, profile photos, and bios."
+  },
+  {
+   "title": "Show HN: Lifetime Black Friday Deals (Mega List)",
+   "link": "https://www.blackfridaydeals.directory/black-friday-lifetime-deals",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-22T02:47:09.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "The Only Three Distinctions Between People",
+   "link": "https://www.themarginalian.org/2026/11/21/nathaniel-hawthorne-classification/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-11-22T02:37:53.000Z",
+   "summary": "It may be that consciousness evolved to sieve the relevant from the incomprehensible allness of all there is, to parse the world into concepts and find an organizing principle for the chaos of them. Our cognitive inheritance is a restless yearning to fathom how things cohere and where they belong, a yearning we have gi"
+  },
+  {
+   "title": "China plans new standards for AI token pricing, quality",
+   "link": "https://www.techinasia.com/news/china-plans-standards-ai-token-pricing-quality",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T02:28:23.000Z",
+   "summary": "Alibaba, Baidu, ByteDance, and iFlytek cut prices for access to large AI models in 2024."
+  },
+  {
+   "title": "How Illumine cracked the US SaaS market from India: AI, GTM, Growth playbook",
+   "link": "https://yourstory.com/2026/11/how-illumine-cracked-the-us-saas-market-india-ai-gtm-growth-playbook",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-11-22T02:20:00.000Z",
+   "summary": "In this episode of the Prime Venture Partners Podcast, Illumine co-founders Navneet Rastogi and Sourabh Agarwal share how they went from losing nearly 200 customers during COVID to building a global childcare SaaS business, competing with established US players and scaling sales from India."
+  },
+  {
+   "title": "These funds have not invested in China in the past year",
+   "link": "https://www.techinasia.com/funds-invested-china-year",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-22T02:00:00.000Z",
+   "summary": "Pitching your startup to an investor? First, check if they’re still active in your market."
+  },
+  {
+   "title": "Meta ads is now available in AWS Quick",
+   "link": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+   "source": "AWS Machine Learning",
+   "category": "AI & ML",
+   "date": "2026-11-22T01:59:13.000Z",
+   "summary": "AWS Quick now has a Meta ads AI connector. Meta advertisers can use natural language in Quick to create, manage, and analyze campaigns while staying connected to the Meta ad management network, and combine Meta ad data with first- and third-party sources to build dashboards, documents, slide decks, and automated workfl"
+  },
+  {
+   "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+   "link": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-11-22T01:51:43.000Z",
+   "summary": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verif"
+  },
+  {
+   "title": "1stContact.ai – Turn more leads into booked meetings with AI-powered CRM",
+   "link": "https://betalist.com/startups/1stcontact-ai?utm_campaign=startup-200738&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T01:45:00.000Z",
+   "summary": "1stContact.ai is an AI-powered CRM that includes business coaching and IMPACT TOOLS on all plans. We are not just a technology company; we also help improve your people and processes at launch. We unify voice AI, SMS, email, and pipeline management so you can capture, qualify, and convert more leads. It answers calls 2"
+  },
+  {
+   "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+   "link": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-22T01:00:00.000Z",
+   "summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money."
+  },
+  {
+   "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+   "link": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-22T01:00:00.000Z",
+   "summary": "It's not simple to say that one is better than the other."
+  },
+  {
+   "title": "This is what can happen if too many devices are sharing your home network",
+   "link": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-22T00:45:00.000Z",
+   "summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money."
+  },
+  {
+   "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
+   "link": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-22T00:30:00.000Z",
+   "summary": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away."
+  },
+  {
+   "title": "PDFreflow – Read any PDF on your phone in a reflowed, single-column layout",
+   "link": "https://betalist.com/startups/pdfreflow?utm_campaign=startup-200735&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-22T00:30:00.000Z",
+   "summary": "Reading a two-column paper on a phone requires pinch, zoom, drag, and scroll repeatedly. PDFreflow solves this with its own PDF layout engine that turns papers, RFCs, textbooks, and manuals into one readable column in reading order, removing headers and page numbers while keeping formulas, figures, and tables in place."
+  },
+  {
+   "title": "10 things you should never do on your Android phone",
+   "link": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-22T00:15:00.000Z",
+   "summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life."
+  },
+  {
+   "title": "This is the best type of wireless earbuds for audio output",
+   "link": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-22T00:00:00.000Z",
+   "summary": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice."
+  },
+  {
+   "title": "Muru",
+   "link": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-11-21T23:56:28.000Z",
+   "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he "
+  },
+  {
+   "title": "How to calibrate your 3D printer (and why you should)",
+   "link": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T23:45:00.000Z",
+   "summary": "Your 3D printer might not need replacing just because its prints keep failing. A few calibration checks could solve the problem and improve print quality."
+  },
+  {
+   "title": "Indian Startup IPO Tracker 2026",
+   "link": "https://inc42.com/features/indian-startup-ipo-tracker-2026/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T23:31:54.000Z",
+   "summary": "Dalal Street emerged as a founder’s paradise in 2025, with 18 Indian startups listing on the bourses and collectively mopping…"
+  },
+  {
+   "title": "Building your own mini PC is harder than you would think",
+   "link": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T23:30:00.000Z",
+   "summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own."
+  },
+  {
+   "title": "HeyIdentity – A fake OIDC provider to test app sign-in as any user and role",
+   "link": "https://betalist.com/startups/heyidentity?utm_campaign=startup-194077&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T23:15:00.000Z",
+   "summary": "HeyIdentity is a hosted test identity provider. Your app signs in with real OIDC redirects and signed tokens, but the sign-in page shows a list of test users you set up, and you select one. You choose each user's roles and claims and change them instantly. No ticket to IT or shared test accounts that others changed. It"
+  },
+  {
+   "title": "Six products and services Google discontinued in 2026",
+   "link": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T23:00:00.000Z",
+   "summary": "Here's a rundown of some Google tools that ended up in the graveyard this year."
+  },
+  {
+   "title": "Why does your phone say no service even with a SIM card?",
+   "link": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T22:30:00.000Z",
+   "summary": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through."
+  },
+  {
+   "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
+   "link": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T22:15:00.000Z",
+   "summary": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use."
+  },
+  {
+   "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+   "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-11-21T22:12:41.000Z",
+   "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
+  },
+  {
+   "title": "This built-in windows tool can tell if your DirectX has a problem",
+   "link": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T22:00:00.000Z",
+   "summary": "DxDiag is a handy and free resource for troubleshooting DirectX."
+  },
+  {
+   "title": "Quick Share – Transfer files instantly across devices with secure local or cloud links",
+   "link": "https://betalist.com/startups/quick-share?utm_campaign=startup-183940&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T22:00:00.000Z",
+   "summary": "Quick Share lets you send files, photos, videos, folders, and text between phones, tablets, and computers with speed and privacy. It connects devices on the same Wi-Fi or LAN for direct, offline transfers that never touch external servers. When devices aren’t nearby, you can use Cloud Transfer to share via temporary, p"
+  },
+  {
+   "title": "Amazon is complaining about NYC Council on shipping labels, too",
+   "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T21:59:31.000Z",
+   "summary": "Amazon is getting increasingly aggressive about not wanting to employ its army of delivery workers. | Photo: The Verge Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add "
+  },
+  {
+   "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
+   "link": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T21:51:29.000Z",
+   "summary": "It's still unclear who is responsible for the two incidents."
+  },
+  {
+   "title": "The free Raspberry Pi tool you should be using to access it remotely",
+   "link": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T21:45:00.000Z",
+   "summary": "Avoid forwarding ports by using this handy tool."
+  },
+  {
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-11-21T21:37:10.000Z",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+  },
+  {
+   "title": "How long can fiber optic cables be before they lose signal?",
+   "link": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/",
+   "source": "Engadget",
+   "category": "Tech",
+   "date": "2026-11-21T21:30:00.000Z",
+   "summary": "Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities."
+  },
+  {
+   "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
+   "link": "https://inc42.com/buzz/budget-2027-industry-body-bwa-seeks-tax-relief-for-crypto-startups/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T21:27:16.000Z",
+   "summary": "Industry body Bharat Web3 Association (BWA) has submitted its recommendations to the finance ministry ahead of the upcoming Union Budget…"
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-11-21T21:07:42.000Z",
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+  },
+  {
+   "title": "Sell My Data To AI – License company records to vetted AI buyers with rights checks",
+   "link": "https://betalist.com/startups/sell-my-data-to-ai?utm_campaign=startup-200605&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T20:45:00.000Z",
+   "summary": "Sell My Data To AI brokers licenses for company records to AI labs and training-data firms. It helps data owners assess what they can legally license, estimate value, document a manifest, and run de-identification and rights checks before buyers review samples. Sellers approve every buyer and term, and pay only if a de"
+  },
+  {
+   "title": "Atomberg & Voltas Execute JV Agreement To Build AC Compressors",
+   "link": "https://inc42.com/buzz/atomberg-voltas-execute-jv-agreement-to-build-ac-compressors/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T20:41:00.000Z",
+   "summary": "IPO-bound consumer appliances startup Atomberg has executed a joint venture (JV) agreement with Tata-owned Voltas to manufacture compressors for room…"
+  },
+  {
+   "title": "★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2",
+   "link": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-11-21T20:09:57.000Z",
+   "summary": "On Monday, when the second betas of the v27.3 OSes came out, I posted about Apple adding the new privacy controls they had promised a month prior, in the wake of Meta’s Muse app surprising some users with what information it had access to (e.g., incoming iMessages) after being granted Full Disk Access — which authoriza"
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T20:03:37.000Z",
+   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to N"
+  },
+  {
+   "title": "oovi",
+   "link": "https://www.producthunt.com/products/oovi",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-21T20:02:03.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
+   "title": "JobRequester – Capture jobs, autofill applications, and track work-search logs",
+   "link": "https://betalist.com/startups/jobrequester?utm_campaign=startup-200598&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T19:30:00.000Z",
+   "summary": "JobRequester streamlines your job hunt by capturing listings with one click, autofilling applications, and organizing every role under its company. It reads titles, salaries, and Glassdoor insights from major boards and ATS platforms, then tracks stages, emails, interviews, and notes all in one place. For unemployment "
+  },
+  {
+   "title": "Merge pull request #5235 from madhuryadutta/master",
+   "link": "https://github.com/ripienaar/free-for-dev/commit/25771fcc2b43206049d6ded23fce218037f4dc17",
+   "source": "Free for Dev (GitHub)",
+   "category": "Business Ideas",
+   "date": "2026-11-21T19:01:38.000Z",
+   "summary": "Merge pull request #5235 from madhuryadutta/master Update Aiven.io Free Plan Offerings"
+  },
+  {
+   "title": "Suggest Questions For The 2027 ACX/Metaculus Prediction Contest",
+   "link": "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
+   "source": "Astral Codex Ten",
+   "category": "Ideas",
+   "date": "2026-11-21T19:00:45.000Z",
+   "summary": "..."
+  },
+  {
+   "title": "update: Aiven.io offering details",
+   "link": "https://github.com/ripienaar/free-for-dev/commit/76cc61905ac077585092e866378bef168b5ee43e",
+   "source": "Free for Dev (GitHub)",
+   "category": "Business Ideas",
+   "date": "2026-11-21T18:56:48.000Z",
+   "summary": "update: Aiven.io offering details They are retiring the free MySQL offering starting December 21, 2027. Signed-off-by: Madhurya Dutta"
+  },
+  {
+   "title": "Trump says reported FBI database hack is ‘not good’",
+   "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-11-21T18:44:53.000Z",
+   "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center."
+  },
+  {
+   "title": "The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.",
+   "link": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-11-21T18:28:22.000Z",
+   "summary": "Sumathi Reddy, writing for The Wall Street Journal (gift link): The U.S.’s loss of what is known as measles-elimination status is a massive public-health defeat that begs a question: How long will it take to regain it? Based on other countries’ experience it could be up to five years, say doctors and epidemiologists. B"
+  },
+  {
+   "title": "Stalled Withdrawals, Millions Stolen: Inside India’s Crypto Exchange Troubles",
+   "link": "https://inc42.com/buzz/stalled-withdrawals-millions-stolen-inside-indias-crypto-exchange-troubles/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T18:23:17.000Z",
+   "summary": "India’s cryptocurrency exchanges are facing turbulence on multiple fronts, with banking disruptions, regulatory scrutiny, and cybersecurity incidents exposing vulnerabilities across…"
+  },
+  {
+   "title": "Price Driven – We get Canadians a fair new-car price without dealer visits",
+   "link": "https://betalist.com/startups/price-driven?utm_campaign=startup-200596&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T18:15:00.000Z",
+   "summary": "Buying a new car takes hours of calls and dealer visits. We do that work for you. Pick a car and get a free report showing the dealer invoice, MSRP, and market price. Use it to make your own offer or let us make dealers compete for you. We reach out to dealers across Canada and you receive 1 to 3 offers in 2 to 5 busin"
+  },
+  {
+   "title": "Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier",
+   "link": "https://support.apple.com/en-us/127901",
+   "source": "Daring Fireball",
+   "category": "Tech",
+   "date": "2026-11-21T18:02:51.000Z",
+   "summary": "Apple Support: Starting with the 2027 software releases, Siri AI and Apple Intelligence features are available for free for users with a supported device set to a supported language. Some features rely on powerful server models and have limits where increased access is available with eligible iCloud+ plans, starting wi"
+  },
+  {
+   "title": "The FBI and USDA were reportedly hacked",
+   "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T17:42:27.000Z",
+   "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law enfor"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-11-21T17:00:00.000Z",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+   "title": "zQinta – Turn any topic into an AI-powered knowledge tree for learning",
+   "link": "https://betalist.com/startups/zqinta?utm_campaign=startup-200551&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T17:00:00.000Z",
+   "summary": "zQinta is a learning platform and Mac app that turns any topic into an AI-generated knowledge tree with concepts, chat, quizzes, and often video and audio. You can buy courses and books on the website, import them into the app, and explore or remix them as your own boards. zQinta also offers expert reviews of AI conten"
+  },
+  {
+   "title": "Saturday assorted links",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-11-21T16:41:52.000Z",
+   "summary": "1. Many federal agencies are hiring economists. 2. Theodore Zeldin, RIP. 3. Henry Oliver on Paradise Lost. 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT). 5. Good AI policy ideas from Joshua Saxe. 6. Podcast with SBF from prison, have not had a chance to listen"
+  },
+  {
+   "title": "EP234: Docker vs Kubernetes",
+   "link": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+   "source": "ByteByteGo",
+   "category": "Software Engineering",
+   "date": "2026-11-21T16:31:20.000Z",
+   "summary": "Which one should we use?"
+  },
+  {
+   "title": "Resurf",
+   "link": "https://www.producthunt.com/products/resurf-2",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-21T16:21:36.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
+   "title": "Swish FY26: Revenue Surges Close To ₹50 Cr While Loss Widens To ₹91 Cr",
+   "link": "https://inc42.com/buzz/swish-fy26-revenue-surges-close-to-%e2%82%b950-cr-while-loss-widens-to-%e2%82%b991-cr/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T16:15:56.000Z",
+   "summary": "Quick food delivery startup Swish clocked in a revenue of over ₹50 Cr in the fiscal year 2025-26 (FY26). However,…"
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-11-21T16:00:00.000Z",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+  },
+  {
+   "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+   "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T16:00:00.000Z",
+   "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In additio"
+  },
+  {
+   "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+   "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T16:00:00.000Z",
+   "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a great holiday gift for anyone who loves displaying family photos. If you p"
+  },
+  {
+   "title": "ZoneTempo – Get voice pace and heart rate coaching over your music while you run",
+   "link": "https://betalist.com/startups/zonetempo?utm_campaign=startup-200507&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T15:45:00.000Z",
+   "summary": "ZoneTempo is an iPhone running coach app that talks over your music so you can run by ear instead of checking your screen. Pick a genre and your cadence, and the music matches your steps. Connect your WHOOP or any heart rate monitor, and the coach tells you when to slow down or speed up to stay in your zone. When you’r"
+  },
+  {
+   "title": "Show HN: Zero C# – C# without a runtime or GC",
+   "link": "https://onurgumus.github.io/zero-csharp/index.html",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-21T15:39:09.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "Alaska, your next governor is a Wikipedia nerd",
+   "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+   "source": "TechCrunch",
+   "category": "Tech",
+   "date": "2026-11-21T15:18:29.000Z",
+   "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits."
+  },
+  {
+   "title": "A simple observation",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-11-21T15:12:31.000Z",
+   "summary": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that “capabilities” do not necessarily translate into significant social and economic outcomes. Yet cybersecurity stocks are up considerably over the last few months, due to height"
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T15:00:00.000Z",
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to sa"
+  },
+  {
+   "title": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+   "link": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-11-21T15:00:00.000Z",
+   "summary": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together. The post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science."
+  },
+  {
+   "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+   "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T14:55:28.000Z",
+   "summary": "The Liberty 5 Pro are Soundcore’s most ambitious earbuds to date. | Photo: John Higgins / The Verge If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, whic"
+  },
+  {
+   "title": "Answer Engine Optimization (AEO): The Complete Guide",
+   "link": "https://copyblogger.com/answer-engine-optimization/",
+   "source": "Copyblogger",
+   "category": "Marketing",
+   "date": "2026-11-21T14:30:08.000Z",
+   "summary": "Key takeaways Answer engine optimization (AEO) is the work of getting your business quoted, cited and recommended inside AI-generated answers... Continue Reading The post Answer Engine Optimization (AEO): The Complete Guide appeared first on Copyblogger."
+  },
+  {
+   "title": "Ligasxfutbol – Organize your soccer league easily and for free",
+   "link": "https://betalist.com/startups/ligasxfutbol?utm_campaign=startup-199950&utm_medium=atom&utm_source=newsfeed",
+   "source": "BetaList",
+   "category": "Business Ideas",
+   "date": "2026-11-21T14:30:00.000Z",
+   "summary": "Create the calendar for your 7th, indoor, or 11th football league for free. Write down results and scorers and share the classification with a link, without using Excel. It's fast and generates a public link so players can see all the league data. View startup"
+  },
+  {
+   "title": "Copywriting: The Complete Guide",
+   "link": "https://copyblogger.com/copywriting-101/",
+   "source": "Copyblogger",
+   "category": "Marketing",
+   "date": "2026-11-21T14:09:36.000Z",
+   "summary": "Key takeaways Copywriting is writing that gets a specific reader to take a specific action. Content earns attention, and copy... Continue Reading The post Copywriting: The Complete Guide appeared first on Copyblogger."
+  },
+  {
+   "title": "DGGI Probes ₹1 Lakh Cr China-Linked Gaming Transactions",
+   "link": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T14:06:36.000Z",
+   "summary": "The Directorate General of GST Intelligence (DGGI) conducted searches across Vijayawada and Hyderabad’s Banjara Hills as part of an investigation…"
+  },
+  {
+   "title": "New-Age Tech Stocks Miss Market Rally This Week, Paytm Sheds 10.8%",
+   "link": "https://inc42.com/buzz/new-age-tech-stocks-miss-market-rally-this-week-paytm-sheds-10-8/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T14:04:05.000Z",
+   "summary": "New-age tech stocks largely missed the rally in Indian equities this week, with only 22 of the 69 stocks under…"
+  },
+  {
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T14:00:00.000Z",
+   "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of Chess's new Classic "
+  },
+  {
+   "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+   "link": "https://github.com/natsu0529/agent-mcts",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-21T13:53:08.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "Exclusive: Bewakoof Cofounder Prabhkiran Singh Launches AI Shopping Assistant Save8",
+   "link": "https://inc42.com/buzz/bewakoof-cofounder-prabhkiran-singh-launches-ai-shopping-assistant-save8/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T13:53:04.000Z",
+   "summary": "Bewakoof cofounder and former CEO Prabhkiran Singh has launched Save8, an AI-powered shopping assistant that helps consumers compare prices and…"
+  },
+  {
+   "title": "Show HN: I made a PS1 style racing game",
+   "link": "https://outpostracer.com",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-21T13:47:45.000Z",
+   "summary": "Comments"
+  },
+  {
+   "title": "IIT Delhi Alumnus’ Startup Sues Apple For ₹1,500 Cr Over NameDrop Patent Infringement",
+   "link": "https://inc42.com/buzz/iit-delhi-alumnus-startup-sues-apple-for-%e2%82%b91500-cr-over-namedrop-patent-infringement/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T13:43:51.000Z",
+   "summary": "What happens when two iPhones are brought close together? Users get to exchange contact details without typing or scanning a…"
+  },
+  {
+   "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+   "link": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T13:00:00.000Z",
+   "summary": "Both 18 Pro phones feature rear displays used for selfies, notifications, and AI apps. Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a ph"
+  },
+  {
+   "title": "The game of the year is finally here",
+   "link": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+   "source": "The Verge",
+   "category": "Tech",
+   "date": "2026-11-21T13:00:00.000Z",
+   "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation and F1 b"
+  },
+  {
+   "title": "The Outages Are Just Getting Started",
+   "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T13:00:00.000Z",
+   "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
+  },
+  {
+   "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+   "source": "Search Engine Journal",
+   "category": "Marketing",
+   "date": "2026-11-21T13:00:00.000Z",
+   "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse appeared first on Search Engine Journal."
+  },
+  {
+   "title": "Censored vs. Truncated Regression in Python, Explained",
+   "link": "https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/",
+   "source": "Towards Data Science",
+   "category": "Data Science",
+   "date": "2026-11-21T13:00:00.000Z",
+   "summary": "A simulated salary survey shows OLS shrinking a $5k-per-year effect to $3.2k, then recovers it with Tobit and truncated likelihoods built from scratch. The post Censored vs. Truncated Regression in Python, Explained appeared first on Towards Data Science."
+  },
+  {
+   "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+   "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-11-21T12:13:50.000Z",
+   "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost."
+  },
+  {
+   "title": "Moniepoint MFB opens Northern regional headquarters in physical banking push",
+   "link": "https://techcabal.com/2026/11/21/moniepoint-northern-regional-headquarters/",
+   "source": "TechCabal",
+   "category": "Business Ideas",
+   "date": "2026-11-21T12:03:42.000Z",
+   "summary": "Moniepoint has commissioned its North Central regional headquarters in Abuja as CBN requirements push nationally licensed microfinance banks to expand their physical presence."
+  },
+  {
+   "title": "“Race realism” isn’t realistic—and it isn’t good science",
+   "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "source": "Ars Technica",
+   "category": "Tech",
+   "date": "2026-11-21T12:01:13.000Z",
+   "summary": "Modern genetics does not support claims of innate racial differences in intelligence."
+  },
+  {
+   "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+   "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T12:01:00.000Z",
+   "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks."
+  },
+  {
+   "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+   "link": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T12:00:00.000Z",
+   "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate."
+  },
+  {
+   "title": "Paul Litvak’s Evidence Guide",
+   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
+   "source": "Marginal Revolution",
+   "category": "Ideas",
+   "date": "2026-11-21T11:58:56.000Z",
+   "summary": "I’m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation. Here is the rest of the thread. Here is the site. This is happening quickly, people. Via Andrea. The post Paul Litvak’s Evidence Guide appeared"
+  },
+  {
+   "title": "Sarvam’s Token Factory Raises India’s AI Inference Stakes",
+   "link": "https://inc42.com/features/sarvams-token-factory-raises-indias-ai-inference-stakes/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T11:57:54.000Z",
+   "summary": "Sarvam AI’s latest announcement of its Token Factory has brought a new layer of India’s artificial intelligence (AI) infrastructure ecosystem…"
+  },
+  {
+   "title": "Funding and acquisitions in Indian startups this week [Nov 16- Nov 21]",
+   "link": "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487",
+   "source": "Entrackr",
+   "category": "Business Ideas",
+   "date": "2026-11-21T11:56:03.000Z",
+   "summary": "This week, 23 Indian startups raised $290 million across 6 growth-stage and 17 early-stage deals, including two undisclosed rounds. The week also saw five key appointments, two exits and one fund launch. In contrast, 12 startups had collectively secured about $31.3 million in the previous week. [Growth-stage deals] Gro"
+  },
+  {
+   "title": "African startups don’t need to move to Dubai to attract Gulf money",
+   "link": "https://techcabal.com/2026/11/21/gulf-capital-digital-nomads/",
+   "source": "TechCabal",
+   "category": "Business Ideas",
+   "date": "2026-11-21T11:55:41.000Z",
+   "summary": "The Gulf is attracting startups with venture capital, funding programmes, and access to international markets. Nigerian entrepreneur Samuel Ubido believes African founders are overlooking opportunities in the region, and they may not need to relocate to benefit."
+  },
+  {
+   "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+   "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+   "source": "MarkTechPost",
+   "category": "AI & ML",
+   "date": "2026-11-21T11:46:17.000Z",
+   "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost."
+  },
+  {
+   "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+   "link": "https://www.wired.com/review/sony-bravia-9-ii/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T11:30:00.000Z",
+   "summary": "The Bravia 9 II comes at a premium cost but offers great, highly customizable features."
+  },
+  {
+   "title": "Our Top Tested Picks From Tineco’s Black Friday Sale (2026)",
+   "link": "https://www.wired.com/story/tineco-black-friday-sale-2026/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T11:30:00.000Z",
+   "summary": "Get WIRED-tested vacuum cleaners, carpet cleaners, and steam mops for up to 60 percent off."
+  },
+  {
+   "title": "Momentum by Google and YourStory to bring India’s founders, investors, and policymakers into one room in New Delhi",
+   "link": "https://yourstory.com/2026/11/momentum-by-google--yourstory-uniting-indias-startup-ecos",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-11-21T11:10:07.000Z",
+   "summary": "Momentum by Google, in collaboration with YourStory, puts India’s startup future on one stage, with the people who will build, fund, and shape it."
+  },
+  {
+   "title": "Best Laptops for Travel (2026): Which to Take on the Road",
+   "link": "https://www.wired.com/story/best-laptops-for-travel/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T11:00:00.000Z",
+   "summary": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing."
+  },
+  {
+   "title": "Mapping the dominant players in Israel’s AI field",
+   "link": "https://www.techinasia.com/visual-story/mapping-dominant-players-israels-ai-field",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-21T11:00:00.000Z",
+   "summary": "Mapping Israel's AI sector: Key players, top investors, and funding insights in one report."
+  },
+  {
+   "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+   "link": "https://inc42.com/features/indian-listed-new-age-tech-company-tracker-market-cap-revenue-more/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T10:34:59.000Z",
+   "summary": "For years, we at Inc42 have tracked the Indian tech startup ecosystem and seen it grow from a kid to…"
+  },
+  {
+   "title": "Fi Money Manages To Cut FY26 Loss By 25%To ₹153.3 Cr, Revenue Sinks 21%",
+   "link": "https://inc42.com/buzz/fi-money-manages-to-cut-fy26-loss-by-25to-%e2%82%b9153-3-cr-revenue-sinks-21/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T10:18:16.000Z",
+   "summary": "Following an extended period of turbulence, fintech startup Fi Money managed to narrow its consolidated net loss for the fiscal…"
+  },
+  {
+   "title": "Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23%",
+   "link": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T10:12:47.000Z",
+   "summary": "Haircare brand Traya’s top line zoomed significantly in the fiscal year FY26, crossing the ₹500 Cr threshold. The Fireside-backed startup’s…"
+  },
+  {
+   "title": "Emergent properties",
+   "link": "https://seths.blog/2026/11/emergent-properties/",
+   "source": "Seth Godin",
+   "category": "Ideas",
+   "date": "2026-11-21T10:03:00.000Z",
+   "summary": "No system stays the way it began, and all systems evolve characteristics that surprise us. The rise of the automobile system led to roads and gas stations, of course, but also parking lots, drive-through fast food restaurants and drunk driving. The TV industrial complex was based on the effectiveness of advertising, an"
+  },
+  {
+   "title": "17 Best Gifts for Women in the Enshittocene (2026)",
+   "link": "https://www.wired.com/story/best-gifts-for-women/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T10:02:00.000Z",
+   "summary": "The least you can do is buy her something nice."
+  },
+  {
+   "title": "The Manosphere Isn’t Ready for Brothercore",
+   "link": "https://www.wired.com/story/hey-brother-house-manosphere-content/",
+   "source": "Wired",
+   "category": "Tech",
+   "date": "2026-11-21T10:00:00.000Z",
+   "summary": "Vulnerable, huggable, affirming, chiseled: Welcome to Hey Brother House, a content incubator for bros who just want to trauma-dump and play Mario Kart."
+  },
+  {
+   "title": "Google Commits $5 Mn To Sundar Pichai’s Alma Mater IIT Kharagpur",
+   "link": "https://inc42.com/buzz/google-commits-5-mn-to-sundar-pichais-alma-mater-iit-kharagpur/",
+   "source": "Inc42",
+   "category": "Business Ideas",
+   "date": "2026-11-21T09:45:32.000Z",
+   "summary": "Google announced a commitment of $5 Mn in funding to IIT Kharagpur, the alma mater of CEO Sundar Pichai, to…"
+  },
+  {
+   "title": "These are the most active investors in India’s startups",
+   "link": "https://www.techinasia.com/active-investors-indias-startups",
+   "source": "Tech in Asia",
+   "category": "Business Ideas",
+   "date": "2026-11-21T09:00:00.000Z",
+   "summary": "Which investors are writing the most checks to India-based startups?"
+  },
   {
    "title": "The missing map of the sky",
    "link": "https://www.anthropic.com/research/the-missing-map-of-the-sky",
@@ -31,6 +1031,14 @@
    "category": "Software Engineering",
    "date": "2026-11-21T08:30:27.160Z",
    "summary": ""
+  },
+  {
+   "title": "Google announces $5M funding for IIT Kharagpur for advanced AI research",
+   "link": "https://yourstory.com/2026/11/google-announces-5m-funding-for-iit-kharagpur-for-advanced-ai-research",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-11-21T08:23:27.000Z",
+   "summary": "The funding will support the institute's researchers and students across three core pillars: advanced AI research, educational opportunities, and AI capacity building."
   },
   {
    "title": "Karnataka CM to lead delegation to Japan to explore investments",
@@ -239,6 +1247,14 @@
    "category": "Business Ideas",
    "date": "2026-11-21T04:01:51.000Z",
    "summary": "The benchmark's 99 problems draw on 117 papers and patents."
+  },
+  {
+   "title": "How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently",
+   "link": "https://www.themarginalian.org/2026/11/20/daniel-dennett-rapoport-rules-criticism/",
+   "source": "The Marginalian",
+   "category": "Ideas",
+   "date": "2026-11-21T04:01:45.000Z",
+   "summary": "\"Just how charitable are you supposed to be when criticizing the views of an opponent?\""
   },
   {
    "title": "Nvidia shares sink 12% on report of SEC accounting probe",
@@ -473,6 +1489,22 @@
    "summary": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which evaluates and sets up "
   },
   {
+   "title": "Security event: Prompt leakage for requests in June and July of 2026",
+   "link": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-11-21T00:00:00.000Z",
+   "summary": "We are notifying customers about a security incident involving a subset of prompts submitted to Together AI’s serverless inference service in June and July 2026."
+  },
+  {
+   "title": "Qwen4 Max is live on Together AI",
+   "link": "https://www.together.ai/blog/qwen4-max",
+   "source": "Together AI",
+   "category": "Tech",
+   "date": "2026-11-21T00:00:00.000Z",
+   "summary": "Qwen4 Max, Alibaba's flagship Qwen model, is live on Together AI and 30% off through November 22, 2026. We sent it a bug report and an entire repository in one request. Its patch passed the project's tests, for 69 cents."
+  },
+  {
    "title": "Why you shouldn't depend on GTA 6 to auto-save",
    "link": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save/",
    "source": "Engadget",
@@ -623,6 +1655,14 @@
    "category": "AI & ML",
    "date": "2026-11-20T21:12:00.000Z",
    "summary": "Ads Engine makes new versions of the video ads you already run: new hooks, new soundtracks, and dubbed versions with translated captions."
+  },
+  {
+   "title": "Creavit Studio 4.0",
+   "link": "https://www.producthunt.com/products/creavit-studio",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-20T21:11:32.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
@@ -1545,6 +2585,14 @@
    "summary": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery"
   },
   {
+   "title": "Spacetech firm SatSure raises Rs 60 Cr from Antariksh fund",
+   "link": "https://yourstory.com/2026/11/spacetech-firm-satsure-raises-rs-60-cr-from-antariksh-fund",
+   "source": "YourStory",
+   "category": "India",
+   "date": "2026-11-20T10:54:50.000Z",
+   "summary": "SatSure’s Rs 60 crore investment from India’s dedicated spacetech fund will support satellite development, AI capabilities and global expansion as the country’s private space industry continues to gather momentum."
+  },
+  {
    "title": "Centre’s Antariksh VC Fund Leads SatSure’s ₹200 Cr Series B Round",
    "link": "https://inc42.com/buzz/centres-antariksh-vc-fund-leads-satsures-%e2%82%b9200-cr-series-b-round/",
    "source": "Inc42",
@@ -2457,6 +3505,14 @@
    "summary": "Discussion | Link"
   },
   {
+   "title": "llm-gemini 0.38.1",
+   "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "source": "Simon Willison",
+   "category": "AI Agents",
+   "date": "2026-11-20T03:01:57.000Z",
+   "summary": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a signi"
+  },
+  {
    "title": "OpenMapp – Find BJJ gyms, classes, and open mats near you with real prices",
    "link": "https://betalist.com/startups/openmapp?utm_campaign=startup-199890&utm_medium=atom&utm_source=newsfeed",
    "source": "BetaList",
@@ -2535,6 +3591,14 @@
    "category": "Business Ideas",
    "date": "2026-11-20T02:10:55.000Z",
    "summary": "ByteDance accounted for about 73% of Nscale’s US$33 million revenue in 2025, according to filings."
+  },
+  {
+   "title": "Mockreel",
+   "link": "https://www.producthunt.com/products/mockreel",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-20T02:04:14.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "ThreadLore",
@@ -2694,7 +3758,7 @@
    "source": "DuckDB Blog",
    "category": "Data Science",
    "date": "2026-11-20T00:00:00.000Z",
-   "summary": "Today we're releasing DuckDB 2.0.1, the first patch release in the 2.0 LTS (Cyanoptera) line. This planned release arrives one month after 2.0.0 and contains bugfixes, performance improvements, and security patches. In addition, it provides a more convenient way of registering custom extension repositories. You can obt"
+   "summary": "Today we're releasing DuckDB 2.0.1, the first patch release in the 2.0 LTS (Cyanoptera) line. This planned release arrives one month after 2.0.0 and contains bugfixes, performance improvements, and security patches. In addition, it provides a more convenient way of registering custom extension repositories and it ships"
   },
   {
    "title": "Qwen3 TTS is now available on Together AI",
@@ -2705,7 +3769,7 @@
    "summary": "Qwen3 TTS is now available on Together AI. Keep one voice across your product, change its tone with a plain-language instruction and move it between 10 languages, with first audio in as little as 97ms."
   },
   {
-   "title": "Ruby2Shell (CVE-2026-132825): find vulnerable Ruby across your repos before the proof of concept lands",
+   "title": "Ruby2Shell (CVE-2026-132825): find vulnerable Ruby across your repos",
    "link": "https://sourcegraph.com/blog/ruby2shell-cve-2026-132825-find-vulnerable-ruby",
    "source": "Sourcegraph",
    "category": "Software Engineering",
@@ -2727,6 +3791,14 @@
    "category": "AI Agents",
    "date": "2026-11-19T23:58:21.000Z",
    "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs"
+  },
+  {
+   "title": "Pushback: Flight Tracker",
+   "link": "https://www.producthunt.com/products/pushback-flight-tracker",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-19T23:48:07.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "Show HN: erXos – a microkernel OS in Erlang based on Genera/Plan 9/QNX ideas",
@@ -3665,6 +4737,14 @@
    "summary": "Comments"
   },
   {
+   "title": "TeaserKit",
+   "link": "https://www.producthunt.com/products/teaserkit",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-19T15:08:42.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
    "title": "Razorpay To File UDRHP By Next Week, Eyes IPO By February 2027: Report",
    "link": "https://inc42.com/buzz/razorpay-to-file-udrhp-by-next-week-eyes-ipo-by-february-2027-report/",
    "source": "Inc42",
@@ -4391,6 +5471,14 @@
    "category": "Business Ideas",
    "date": "2026-11-19T07:58:19.000Z",
    "summary": "NETS will become the first national payment rail to join Ant’s Agentic Mobile Protocol."
+  },
+  {
+   "title": "DeNotch",
+   "link": "https://www.producthunt.com/products/denotch",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-19T07:57:34.000Z",
+   "summary": "Discussion | Link"
   },
   {
    "title": "AI can write code, but knowing what to build still matters",
@@ -7769,6 +8857,14 @@
    "summary": "The post What’s common to the Rs 43,000 cr Ganga clean-up and data centres? appeared first on The Ken."
   },
   {
+   "title": "Show HN: An ASCII cell aquarium for your terminal",
+   "link": "https://github.com/kborer/cells/",
+   "source": "Show HN (Hacker News)",
+   "category": "Business Ideas",
+   "date": "2026-11-18T02:18:29.000Z",
+   "summary": "Comments"
+  },
+  {
    "title": "Emerging cryptographic requirements and the transition to quantum-resistant security",
    "link": "https://yourstory.com/2026/11/emerging-cryptographic-requirements-and-the-transition-to-quantum-resistant-security",
    "source": "YourStory",
@@ -8550,6 +9646,14 @@
    "source": "Product Hunt",
    "category": "Business Ideas",
    "date": "2026-11-17T19:25:40.000Z",
+   "summary": "Discussion | Link"
+  },
+  {
+   "title": "Ulika",
+   "link": "https://www.producthunt.com/products/ulika",
+   "source": "Product Hunt",
+   "category": "Business Ideas",
+   "date": "2026-11-17T19:23:36.000Z",
    "summary": "Discussion | Link"
   },
   {
@@ -10903,1110 +12007,6 @@
    "category": "Tech",
    "date": "2026-11-16T19:36:25.000Z",
    "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors."
-  },
-  {
-   "title": "Which Google Pixel phone is most similar to the Galaxy S26+?",
-   "link": "https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/",
-   "source": "Engadget",
-   "category": "Tech",
-   "date": "2026-11-16T19:30:00.000Z",
-   "summary": "Trying to choose between the Google Pixel 11 Pro and Samsung Galaxy S26+? We break down the specs, cameras and prices to help find the best one for you."
-  },
-  {
-   "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-   "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T19:26:55.000Z",
-   "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements."
-  },
-  {
-   "title": "‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2",
-   "link": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-11-16T19:22:38.000Z",
-   "summary": "Juli Clover, MacRumors: Apple today added a new option for unlocking the iPhone Duo using the front-facing camera, giving device users multiple ways to access their content. The feature is available in the second iOS 27.3 beta. The option to unlock with facial recognition is only available on the Lock Screen, and authe"
-  },
-  {
-   "title": "The Calm Creator Mastermind",
-   "link": "https://www.producthunt.com/products/the-calm-creator-mastermind",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T19:19:03.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Monday assorted links",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586",
-   "source": "Marginal Revolution",
-   "category": "Ideas",
-   "date": "2026-11-16T19:17:13.000Z",
-   "summary": "1. Some Henry Oliver book reviews. 2. Washington Monthly’s The Reader, book reviews. And High Line, a new publishing house for disfavored books. 3. Inflation-indexed bonds around the world. 4. Garett Jones on Richard Posner. 5. “A survey released Monday found that new international student enrollment plunged by 15 perc"
-  },
-  {
-   "title": "OpenVorld",
-   "link": "https://www.producthunt.com/products/openvorld",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T19:15:46.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-   "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T19:12:02.000Z",
-   "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-  },
-  {
-   "title": "US moves to cut China’s remote access to AI chips",
-   "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-11-16T19:10:09.000Z",
-   "summary": "Trump bets China won’t mind US blocking remote access to AI chips."
-  },
-  {
-   "title": "Ondago – Move AI coding agent sessions between computers, cloud, and phone",
-   "link": "https://betalist.com/startups/ondago?utm_campaign=startup-201009&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:55:00.000Z",
-   "summary": "Ondago is one workspace for your AI coding sessions. It finds the Claude Code, Codex, and OpenCode sessions on your computer and lets you continue any of them on another machine, in a cloud container, or from your phone, with the conversation and working files intact. You can answer an agent's questions, approve its ac"
-  },
-  {
-   "title": "Island is a new screen-time app that turns staying off your phone into a game",
-   "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T18:54:18.000Z",
-   "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits."
-  },
-  {
-   "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
-   "link": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:50:27.000Z",
-   "summary": "AI-native customer relationship management (CRM) platform Dreamteam, cofounded by former Freshworks executives, has emerged out of stealth mode. The startup…"
-  },
-  {
-   "title": "Lampa Camera",
-   "link": "https://www.producthunt.com/products/lampa-camera",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:33:44.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Clean data was never enough: How IFS Copperleaf taught AI its business with Databricks Genie One",
-   "link": "https://www.databricks.com/blog/clean-data-was-never-enough-how-ifs-copperleaf-taught-ai-its-business-databricks-genie-one-0",
-   "source": "Databricks",
-   "category": "Data Science",
-   "date": "2026-11-16T18:30:56.000Z",
-   "summary": "IFS Copperleaf is a leading global provider of Asset Investment Planning (AIP) software..."
-  },
-  {
-   "title": "ExtraDock 5",
-   "link": "https://www.producthunt.com/products/extradock",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:29:20.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "infaiw",
-   "link": "https://www.producthunt.com/products/infaiw",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:23:22.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Shipyard",
-   "link": "https://www.producthunt.com/products/shipyard",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:21:35.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
-   "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T18:21:14.000Z",
-   "summary": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory."
-  },
-  {
-   "title": "How MoEngage built agentic customer engagement on Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/how-moengage-built-agentic-customer-engagement-on-amazon-bedrock-agentcore/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T18:16:07.000Z",
-   "summary": "MoEngage built Merlin AI, a set of AI agents on Amazon Bedrock and Amazon Bedrock AgentCore that let marketing and product teams draft, analyze, and adjust campaigns from a single conversation. Learn how MoEngage turned its existing APIs into MCP tools and kept each tenant's data isolated while giving agents secure acc"
-  },
-  {
-   "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T18:11:10.000Z",
-   "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
-  },
-  {
-   "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
-   "link": "https://fakemetrics.com/",
-   "source": "Show HN (Hacker News)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T18:08:04.000Z",
-   "summary": "Comments"
-  },
-  {
-   "title": "AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more (November 16, 2026)",
-   "link": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/",
-   "source": "AWS News",
-   "category": "Software Engineering",
-   "date": "2026-11-16T17:55:46.000Z",
-   "summary": "A second delivery of the same message can reveal more about an application than its happy-path demo. I like tools that make those cases easier to investigate while a change is still small. Last week’s launch of AWS Emulator brings part of that work onto your own machine: developers and coding agents can exercise AWS […"
-  },
-  {
-   "title": "How did non-technical founders evaluate a potential technical co-founder? (I will not promote)",
-   "link": "https://www.reddit.com/r/startups/comments/1xxw539/how_did_nontechnical_founders_evaluate_a/",
-   "source": "Reddit Startups",
-   "category": "Business Ideas",
-   "date": "2026-11-16T17:54:31.000Z",
-   "summary": "I’m a business/sales founder currently looking for a technical co-founder and I’ve had a few very promising conversations with one candidate. So far we’ve talked through the business, product, technical architecture, how she would approach taking the current MVP to production, etc. The next step I was considering is si"
-  },
-  {
-   "title": "canfit",
-   "link": "https://www.producthunt.com/products/canfit",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T17:42:21.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’",
-   "link": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-11-16T17:37:48.000Z",
-   "summary": "Robbie Whelan, Anissa Gardizy, Kate Clark, reporting for The Wall Street Journal: In his final months as chief executive of Nvidia, Jensen Huang was laying the groundwork to pull back the company’s approach to backstopping the AI economy. Now, with a finance chief at the helm who was already wary of some deals the oust"
-  },
-  {
-   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
-   "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T17:36:43.000Z",
-   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
-  },
-  {
-   "title": "Alert Commerce – Live Shopify app install and uninstall signals with store contacts",
-   "link": "https://betalist.com/startups/alert-commerce?utm_campaign=startup-202546&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T17:35:00.000Z",
-   "summary": "Alert watches Shopify stores and notifies you when they install or drop an app or upgrade to Shopify Plus. Each signal includes the store's apps, ads, and contacts, helping Shopify app companies and agencies reach the right store at the right time. You can search, filter, and export data to CSV. View startup"
-  },
-  {
-   "title": "Build a real-time next-best-offer recommender using Databricks Feature Views",
-   "link": "https://www.databricks.com/blog/build-real-time-next-best-offer-recommender-using-databricks-feature-views",
-   "source": "Databricks",
-   "category": "Data Science",
-   "date": "2026-11-16T17:30:00.000Z",
-   "summary": "Real-time personalization depends on understanding what customers want in the moment..."
-  },
-  {
-   "title": "Modernizing mainframe Assembler to Java using Amazon Bedrock and AWS Transform",
-   "link": "https://aws.amazon.com/blogs/machine-learning/modernizing-mainframe-assembler-to-java-using-amazon-bedrock-and-aws-transform/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T17:29:29.000Z",
-   "summary": "Legacy mainframe Assembler applications are costly to maintain and hard to staff. This post presents a multi-stage, AI-powered methodology using Amazon Bedrock, Kiro IDE, and AWS Transform to extract business rules, convert Assembler through an intermediate COBOL stage, and deploy modernized Java Spring Boot applicatio"
-  },
-  {
-   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
-   "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T17:10:00.000Z",
-   "summary": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
-  },
-  {
-   "title": "Novo Nordisk modernizes manufacturing process documents with Amazon Bedrock AgentCore",
-   "link": "https://aws.amazon.com/blogs/machine-learning/novo-nordisk-modernizes-manufacturing-process-documents-with-amazon-bedrock-agentcore/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T17:04:11.000Z",
-   "summary": "Novo Nordisk's Manufacturing Technology team within the Tablet area team built a process-intelligence assistant on Amazon Bedrock AgentCore, using a GraphRAG architecture that pairs a knowledge graph in Amazon Neptune with hybrid search in Amazon OpenSearch Serverless to turn millions of controlled manufacturing docume"
-  },
-  {
-   "title": "OpenAI will embed safety researchers to investigate AI subversion",
-   "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T17:02:43.000Z",
-   "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
-  },
-  {
-   "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
-   "link": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
-   "source": "Microsoft Research",
-   "category": "AI & ML",
-   "date": "2026-11-16T17:01:35.000Z",
-   "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively. The post"
-  },
-  {
-   "title": "Teach Genie One your workflows: The ultimate guide for skills in Genie One",
-   "link": "https://www.databricks.com/blog/teach-genie-one-your-workflows-ultimate-guide-skills-genie-one",
-   "source": "Databricks",
-   "category": "Data Science",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "Every team has “recipes” that govern how they work. The way finance puts together..."
-  },
-  {
-   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-   "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-   "source": "TechCrunch",
-   "category": "Tech",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning."
-  },
-  {
-   "title": "Broadening access to AI for scientists",
-   "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "source": "OpenAI",
-   "category": "AI & ML",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
-  },
-  {
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "link": "https://openai.com/index/strengthening-online-child-safety",
-   "source": "OpenAI",
-   "category": "AI & ML",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
-  },
-  {
-   "title": "Introducing the Databricks AI Index: The state of enterprise AI tokenomics",
-   "link": "https://www.databricks.com/blog/introducing-databricks-ai-index-state-enterprise-ai-tokenomics",
-   "source": "Databricks",
-   "category": "Data Science",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "Developers have more AI models and coding agents to choose from than ever before...."
-  },
-  {
-   "title": "Tabular foundation models on Databricks AI Runtime",
-   "link": "https://www.databricks.com/blog/tabular-foundation-models-databricks-ai-runtime",
-   "source": "Databricks",
-   "category": "Data Science",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "Many of the most valuable predictive machine learning applications rely on tabular data..."
-  },
-  {
-   "title": "Hy4 Flash now available on AI Gateway for 50% off",
-   "link": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
-   "source": "Vercel Blog",
-   "category": "Software Engineering",
-   "date": "2026-11-16T17:00:00.000Z",
-   "summary": "is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026.Hy4 Flash from Tencent Hy4 Flash is the new lower-cost model in the Hy4 family. It keeps the full Hy4 feature set at roughly a tenth of the price per token: reasoning with preserved think"
-  },
-  {
-   "title": "Liquid d1.2",
-   "link": "https://www.producthunt.com/products/lfm2",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:59:43.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "WispOS",
-   "link": "https://www.producthunt.com/products/wispos",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:56:27.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Russ Roberts and I do EconTalk podcast on Montaigne",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne",
-   "source": "Marginal Revolution",
-   "category": "Ideas",
-   "date": "2026-11-16T16:53:41.000Z",
-   "summary": "Self-recommending, we start with Montaigne’s essay on education… The post Russ Roberts and I do EconTalk podcast on Montaigne appeared first on Marginal REVOLUTION."
-  },
-  {
-   "title": "How much does founder-market-fit actually matter at an early stage? (I will not promote)",
-   "link": "https://www.reddit.com/r/startups/comments/1xxu8k2/how_much_does_foundermarketfit_actually_matter_at/",
-   "source": "Reddit Startups",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:44:12.000Z",
-   "summary": "I'm currently building a startup in the retail-tech space, mostly on my own. I'm a pre-final-year CS student, and most of my experience so far has been in robotics. I somehow ended up working in that space and have completed two internships there (around 8 months in total). My current product is more focused on NLP and"
-  },
-  {
-   "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-   "link": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-11-16T16:39:29.000Z",
-   "summary": "International authorities will announce US lost its elimination status Tuesday."
-  },
-  {
-   "title": "How Instacart Uses LLMs to Make People Buy More",
-   "link": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
-   "source": "ByteByteGo",
-   "category": "Software Engineering",
-   "date": "2026-11-16T16:30:56.000Z",
-   "summary": "In this article, we’ll look at how Instacart used LLMs to build a product search that could accurately understand a user’s shopping intention."
-  },
-  {
-   "title": "After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th",
-   "link": "https://towardsdatascience.com/after-10-heads-in-a-row-small-llms-bet-up-to-82-on-an-11th/",
-   "source": "Towards Data Science",
-   "category": "Data Science",
-   "date": "2026-11-16T16:30:00.000Z",
-   "summary": "Telling eight base and instruction-tuned open models that the coin is fair and the flips are independent trims their streak bias by only a few points. The post After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th appeared first on Towards Data Science."
-  },
-  {
-   "title": "Oil Cools, But D2C Brands See No Way Out Of Price Hikes",
-   "link": "https://inc42.com/features/oil-cools-but-d2c-brands-see-no-way-out-of-price-hikes/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:20:51.000Z",
-   "summary": "Direct-to-consumer (D2C) startups have been facing mounting cost pressures since the US-Iran conflict drove up global crude prices, making it…"
-  },
-  {
-   "title": "Jensen Huang: The anatomy of a scandal",
-   "link": "https://techcabal.com/2026/11/16/jensen-huang-scandal-anatomy/",
-   "source": "TechCabal",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:18:14.000Z",
-   "summary": "The scandal surrounding Nvidia’s former CEO Jensen Huang has exposed the risks of tying a company’s reputation too closely to its founder. Jessica Hope examines the fallout and what African tech founders can learn about crisis communications, corporate governance, and rebuilding trust."
-  },
-  {
-   "title": "Lookout – One board for Vercel Web Analytics of all your projects",
-   "link": "https://betalist.com/startups/lookout?utm_campaign=startup-202456&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:15:00.000Z",
-   "summary": "Vercel Web Analytics shows one project at a time. Lookout reads the same data and puts every project on one board with visitors, change vs last week, pages per visit, and Core Web Vitals side by side. It grades landing pages from A to D with reasons and next steps, sends drop and spike alerts by email, Slack, or webhoo"
-  },
-  {
-   "title": "Get answers from tables with tabular search in Amazon Bedrock Managed Knowledge Base",
-   "link": "https://aws.amazon.com/blogs/machine-learning/get-answers-from-tables-with-tabular-search-in-amazon-bedrock-managed-knowledge-base/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:12:16.000Z",
-   "summary": "Amazon Bedrock Managed Knowledge Base now supports tabular search, so agentic retrieval can answer questions over CSV, XLSX, and XLS files. It looks up values and runs calculations across every relevant row, then combines the results with facts from related documents to answer multi-step analytical questions."
-  },
-  {
-   "title": "Oprah Gives Everyone in Her Audience a ‘Duo iPhone’",
-   "link": "https://youtu.be/j0Rsv1U3Q7A",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-11-16T16:05:18.000Z",
-   "summary": "The Oprah Podcast: In a special holiday episode Oprah brings back one of her legendary traditions with a live audience: ‘Oprah’s Favorite Things!’ Celebrating the 30th anniversary of the iconic list, Oprah surprises an unsuspecting audience full of caregivers with her must-have gifts for the season. From nurses, hospic"
-  },
-  {
-   "title": "Starling Bank CEO to step down at the end of the year",
-   "link": "https://sifted.eu/articles/starling-ceo-to-step-down/",
-   "source": "Sifted",
-   "category": "Business Ideas",
-   "date": "2026-11-16T16:01:40.000Z",
-   "summary": ""
-  },
-  {
-   "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
-   "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
-   "source": "NVIDIA",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:51.000Z",
-   "summary": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than"
-  },
-  {
-   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
-   "link": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
-   "source": "NVIDIA",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:47.000Z",
-   "summary": "Quantum processor deployments at supercomputing centers have grown nearly sevenfold over the past five years, with nearly 30 supercomputing centers around the world now in the process of deploying over 50 quantum processors. Many of these centers use Slurm to run scientific supercomputing workloads, so expanding its su"
-  },
-  {
-   "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
-   "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-   "source": "NVIDIA",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:25.000Z",
-   "summary": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in th"
-  },
-  {
-   "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
-   "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
-   "source": "NVIDIA",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:16.000Z",
-   "summary": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new "
-  },
-  {
-   "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
-   "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
-   "source": "NVIDIA",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:11.000Z",
-   "summary": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to th"
-  },
-  {
-   "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
-   "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
-   "source": "NVIDIA",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:01.000Z",
-   "summary": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to te"
-  },
-  {
-   "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
-   "link": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain/",
-   "source": "NVIDIA Developer",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:00.000Z",
-   "summary": "Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents... Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agen"
-  },
-  {
-   "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
-   "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0/",
-   "source": "NVIDIA Developer",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:00.000Z",
-   "summary": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool... Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool"
-  },
-  {
-   "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
-   "link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1/",
-   "source": "NVIDIA Developer",
-   "category": "AI & ML",
-   "date": "2026-11-16T16:00:00.000Z",
-   "summary": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf... As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf T"
-  },
-  {
-   "title": "Best practices for writing Denied Topics in Amazon Bedrock Guardrails",
-   "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-writing-denied-topics-in-amazon-bedrock-guardrails/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T15:48:01.000Z",
-   "summary": "With Denied Topics in Amazon Bedrock Guardrails, you block a content category by describing it in plain language, and the guardrail matches by meaning rather than keyword, which can block more than you intend. This post presents eight best practices for writing a topic precisely enough that the guardrail blocks what yo"
-  },
-  {
-   "title": "Customize answers per tenant in Amazon Bedrock Managed Knowledge Base",
-   "link": "https://aws.amazon.com/blogs/machine-learning/customize-answers-per-tenant-in-amazon-bedrock-managed-knowledge-base/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T15:46:28.000Z",
-   "summary": "Retrieval instructions in Amazon Bedrock Managed Knowledge Base set the voice, format, retrieval guidance, and answer policy for each tenant on shared knowledge bases. This post shows how to give each tenant its own answers, keep tenant data apart with metadata filters, scope access with IAM tags, and roll out changes "
-  },
-  {
-   "title": "Use prompt caching with open-weight models on Amazon Bedrock",
-   "link": "https://aws.amazon.com/blogs/machine-learning/use-prompt-caching-with-open-weight-models-on-amazon-bedrock/",
-   "source": "AWS Machine Learning",
-   "category": "AI & ML",
-   "date": "2026-11-16T15:42:41.000Z",
-   "summary": "Many generative AI applications resend the same long context on every request. Prompt caching lets open-weight models on Amazon Bedrock reuse it to reduce input cost and latency. This post shows implicit and explicit caching through the Chat Completions API and applies caching to an OpenCode coding agent session."
-  },
-  {
-   "title": "Robert Pattinson Is the Next James Bond",
-   "link": "https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/",
-   "source": "Daring Fireball",
-   "category": "Tech",
-   "date": "2026-11-16T15:36:52.000Z",
-   "summary": "Variety: It’s Pattinson, Robert Pattinson. The “Batman” and “Odyssey” star has officially been cast as the next James Bond, ending months of rabid speculation about which young actor Amazon MGM and director Denis Villeneuve would hand the keys to the Aston Martin. Solid choice. I endorse. Let’s not cock it up, Villeneu"
-  },
-  {
-   "title": "Fractal Eyes AI Acquisitions Ahead Of Enterprise AI Scale-Up",
-   "link": "https://inc42.com/buzz/fractal-eyes-ai-acquisitions-ahead-of-enterprise-ai-scale-up/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T15:34:00.000Z",
-   "summary": "Fractal Analytics is evaluating acquisitions across healthcare, agentic AI and AI engineering as it looks to strengthen its capabilities ahead…"
-  },
-  {
-   "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
-   "link": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
-   "source": "Search Engine Journal",
-   "category": "Marketing",
-   "date": "2026-11-16T15:00:34.000Z",
-   "summary": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention appeared first on Search Engine Jo"
-  },
-  {
-   "title": "Why Human in the Loop AI Oversight Fails and How to Fix It",
-   "link": "https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/",
-   "source": "Towards Data Science",
-   "category": "Data Science",
-   "date": "2026-11-16T15:00:00.000Z",
-   "summary": "Kahneman's System 1 and System 2, plus the ODPS, ODCS, and Ossie standards, show how to wake reviewers up only when a check fails. The post Why Human in the Loop AI Oversight Fails and How to Fix It appeared first on Towards Data Science."
-  },
-  {
-   "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
-   "link": "https://www.themarginalian.org/2026/11/16/j-r-r-tolkien-on-fairy-stories/",
-   "source": "The Marginalian",
-   "category": "Ideas",
-   "date": "2026-11-16T14:58:00.000Z",
-   "summary": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\""
-  },
-  {
-   "title": "Verla AI – AI academic assistant for writing, research, presentations, and coding",
-   "link": "https://betalist.com/startups/verla-ai?utm_campaign=startup-188479&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:55:00.000Z",
-   "summary": "Verla is an AI academic assistant designed for university and college students. It combines an AI essay writer, research assistant, paper writer, report generator, presentation maker, and code assistant with AI detection and humanizer tools. Students can use Verla to create essays, research papers, literature reviews, "
-  },
-  {
-   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest",
-   "link": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-11-16T14:48:32.000Z",
-   "summary": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling."
-  },
-  {
-   "title": "CERT-In Flags Fresh Vulnerabilities In eMudhra’s emBridge Tool",
-   "link": "https://inc42.com/buzz/cert-in-flags-fresh-vulnerabilities-in-emudhras-embridge-tool/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:33:24.000Z",
-   "summary": "CERT-In (Indian Computer Emergency Response Team) has now flagged new security flaws in eMudhra’s digital signature utility unit, emBridge, weeks…"
-  },
-  {
-   "title": "Founders who’ve raised: did taking investment actually make your life better? I will not promote",
-   "link": "https://www.reddit.com/r/startups/comments/1xxqrfy/founders_whove_raised_did_taking_investment/",
-   "source": "Reddit Startups",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:29:37.000Z",
-   "summary": "Hey there I'm about to go into my first funding round (raising $1-2m), our round is being ran by someone who has raised for other tech companies, and I'd really value hearing from people who've been through it. Some context: I'm a young female founder (uk based) and my co founder is an engineer living in Illinois US (e"
-  },
-  {
-   "title": "Karnataka Halts Green SM Taxi Licensing To Protect Local Interest",
-   "link": "https://inc42.com/buzz/karnataka-halts-green-sm-taxi-licensing-to-protect-local-interest/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:24:09.000Z",
-   "summary": "The Karnataka government has reportedly halted the registration of new taxis operated by Vingroup-backed Green SM days after clearing its…"
-  },
-  {
-   "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-   "link": "https://github.com/mr-anjaneyam/Emittr",
-   "source": "Show HN (Hacker News)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:18:15.000Z",
-   "summary": "Comments"
-  },
-  {
-   "title": "Urban Company opens Rs 2,500 Cr QIP, sets floor price at Rs 161.03 per share",
-   "link": "https://entrackr.com/news/urban-company-opens-rs-2500-cr-qip-sets-floor-price-at-rs-16103-per-share-12814907",
-   "source": "Entrackr",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:17:03.000Z",
-   "summary": "Gurugram-based home services platform Urban Company has opened its qualified institutional placement (QIP) to raise funds from institutional investors, setting the floor price at Rs 161.03 per equity share. In a regulatory filing, the company said its fundraise committee approved the opening of the issue on November 16"
-  },
-  {
-   "title": "BASE Studio",
-   "link": "https://www.producthunt.com/products/base-studio",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:16:03.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-   "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-11-16T14:06:16.000Z",
-   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal."
-  },
-  {
-   "title": "Small team building next to Claude, OpenAI and xAI: niche down or pick a position? (I will not promote)",
-   "link": "https://www.reddit.com/r/startups/comments/1xxq2py/small_team_building_next_to_claude_openai_and_xai/",
-   "source": "Reddit Startups",
-   "category": "Business Ideas",
-   "date": "2026-11-16T14:00:58.000Z",
-   "summary": "Disclosure: I'm the founder, but I'm not going to name or link the product, this is a strategy question. We're a small software company in India. Since May 2026 we've run an AI employee that the whole team shares, instead of a personal assistant for the owner. It takes repetitive work from different people, follows up,"
-  },
-  {
-   "title": "Mercedes' clever new driving assist handles complex traffic like a champ",
-   "link": "https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-11-16T14:00:05.000Z",
-   "summary": "The point-to-point driver assist is coming to the US and Germany in 2027."
-  },
-  {
-   "title": "New Ask Maps features to help with holiday travel and prep",
-   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
-   "source": "Google AI",
-   "category": "AI & ML",
-   "date": "2026-11-16T14:00:00.000Z",
-   "summary": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
-  },
-  {
-   "title": "Give sandboxed agents live web access with the Firecrawl kit for Docker Sandboxes",
-   "link": "https://www.docker.com/blog/docker-sandboxes-firecrawl-web-access/",
-   "source": "Docker",
-   "category": "Software Engineering",
-   "date": "2026-11-16T14:00:00.000Z",
-   "summary": "Give AI coding agents live web access with the Firecrawl kit for Docker Sandboxes. Learn to search, scrape, and crawl websites with network controls."
-  },
-  {
-   "title": "OX212",
-   "link": "https://www.producthunt.com/products/ox212",
-   "source": "Product Hunt",
-   "category": "Business Ideas",
-   "date": "2026-11-16T13:57:19.000Z",
-   "summary": "Discussion | Link"
-  },
-  {
-   "title": "Claude AI for marketing: How teams use it with HubSpot",
-   "link": "https://blog.hubspot.com/marketing/claude-for-marketing",
-   "source": "HubSpot Marketing",
-   "category": "Marketing",
-   "date": "2026-11-16T13:55:04.000Z",
-   "summary": "I’ve been experimenting with Claude AI for marketing workflows over the past year, and it’s now my go-to assistant. In this field, AI use is close to universal: 98% of marketing teams use it in some way, according to HubSpot’s State of AI in Marketing report. For campaign marketers, that might look like turning a produ"
-  },
-  {
-   "title": "AI CRM startup Dreamteam raises $53 Mn from Accel, Premji Invest, others",
-   "link": "https://entrackr.com/news/ai-crm-startup-dreamteam-raises-53-mn-from-accel-premji-invest-others-12814853",
-   "source": "Entrackr",
-   "category": "Business Ideas",
-   "date": "2026-11-16T13:50:53.000Z",
-   "summary": "AI-native CRM startup Dreamteam has raised $53 million in a funding round with participation from Together Fund, Accel and Premji Invest. Headquartered in California, the company plans to extend its platform to other stages of the customer lifecycle, including prospecting, onboarding, customer success and upselling. Fo"
-  },
-  {
-   "title": "African investors are building exits and finding money in new places",
-   "link": "https://techcabal.com/2026/11/16/african-investors-are-building-exits/",
-   "source": "TechCabal",
-   "category": "Business Ideas",
-   "date": "2026-11-16T13:44:35.000Z",
-   "summary": "Earlier this year, investors told us exits do not happen on their own. Over the past four weeks, some showed us how they are making them happen."
-  },
-  {
-   "title": "Cribzv – Verify deliveries with GPS-backed proof and reduce disputes",
-   "link": "https://betalist.com/startups/cribzv?utm_campaign=startup-202406&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T13:35:00.000Z",
-   "summary": "Cribzv provides an AI-powered delivery verification API that logistics companies integrate into their systems to confirm each package reached the correct address. It creates a verifiable delivery record that reduces failed drops, chargebacks, and time spent on disputes. Cribzv serves operators, e-commerce platforms, in"
-  },
-  {
-   "title": "Software engineering after code becomes cheap with Satya Nadella",
-   "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
-   "source": "Pragmatic Engineer",
-   "category": "Software Engineering",
-   "date": "2026-11-16T13:33:48.000Z",
-   "summary": "Microsoft CEO Satya Nadella on AI’s impact on software engineering, code verification, and engineers’ careers."
-  },
-  {
-   "title": "Show HN: Unref – A Python dead code finder built on Ruff's parser",
-   "link": "https://github.com/Apakottur/unref",
-   "source": "Show HN (Hacker News)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T13:30:30.000Z",
-   "summary": "Comments"
-  },
-  {
-   "title": "How to Avoid AI Replacement as an Analytics Professional in 2027",
-   "link": "https://towardsdatascience.com/how-to-avoid-ai-replacement-as-an-analytics-professional-in-2027/",
-   "source": "Towards Data Science",
-   "category": "Data Science",
-   "date": "2026-11-16T13:30:00.000Z",
-   "summary": "Lessons from manufacturing and logistics projects: follow data from input to output, then turn vague requests into deterministic tools teams trust. The post How to Avoid AI Replacement as an Analytics Professional in 2027 appeared first on Towards Data Science."
-  },
-  {
-   "title": "Xpressbees raises Rs 100 Cr in debt from BlackSoil",
-   "link": "https://yourstory.com/2026/11/xpressbees-raises-rs-100-cr-in-debt-from-blacksoil",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-11-16T13:22:37.000Z",
-   "summary": "Xpressbees has raised Rs 100 crore through secured, unlisted NCDs, at a 13.5% coupon over 36 months, to fund its working capital needs."
-  },
-  {
-   "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
-   "source": "Search Engine Journal",
-   "category": "Marketing",
-   "date": "2026-11-16T13:00:58.000Z",
-   "summary": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal."
-  },
-  {
-   "title": "Selling software to companies that still use Gmail and Excel: what worked for you? I will not promote",
-   "link": "https://www.reddit.com/r/startups/comments/1xxo5fd/selling_software_to_companies_that_still_use/",
-   "source": "Reddit Startups",
-   "category": "Business Ideas",
-   "date": "2026-11-16T12:29:49.000Z",
-   "summary": "I'm building a B2B tool for small trucking companies. Many of them have no website, no LinkedIn, and use a generic Gmail address. LinkedIn outreach is useless, so I'm going email, phone and my existing network from 7 years in logistics. For anyone who sold to low-tech industries: how did you get the first 3 customers? "
-  },
-  {
-   "title": "Starship",
-   "link": "https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship",
-   "source": "Marginal Revolution",
-   "category": "Ideas",
-   "date": "2026-11-16T12:18:54.000Z",
-   "summary": "My favorite commentary on SpaceX’s historic catching of Starship was this: …we may be certain of this: for all but a vanishingly brief instant near the dawn of history, the word ‘ship’ will mean ‘spaceship.’ Arthur C. Clarke (1965). Yesterday, this became vividly real to me. Hat tip: @amdreaesposito Addendum: Good post"
-  },
-  {
-   "title": "Kistrl – Email where new senders wait until you decide who gets in",
-   "link": "https://betalist.com/startups/kistrl?utm_campaign=startup-202377&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T12:15:00.000Z",
-   "summary": "Kistrl rebuilds email around what each message asks of you. The Inbox holds conversations and things that need action. Newsletters and routine updates wait in the Feed until you want to read them. Receipts, bookings, and confirmations go to Paper trails. With AI assistance on, Kistrl highlights security alerts and dead"
-  },
-  {
-   "title": "FRND posts Rs 367 Cr revenue in FY26; profit jumps 10X",
-   "link": "https://entrackr.com/news/frnd-posts-rs-367-cr-revenue-in-fy26-profit-jumps-10x-12814582",
-   "source": "Entrackr",
-   "category": "Business Ideas",
-   "date": "2026-11-16T12:08:49.000Z",
-   "summary": "Voice-based social networking platform FRND has reported an 88% year-on-year growth in revenue to Rs 367 crore in FY26, compared to Rs 195 crore in FY25, according to the company's press release. Its net profit jumped nearly 10 times to Rs 19.27 crore during the fiscal year, from Rs 2 crore in the previous fiscal. The "
-  },
-  {
-   "title": "Usable Security at Luxury Hotels",
-   "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-   "source": "Schneier on Security",
-   "category": "Tech",
-   "date": "2026-11-16T12:04:42.000Z",
-   "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why “just don’t click on links” is bad advice. It can’t work when answering strangers’ emails i"
-  },
-  {
-   "title": "Delivery drones are coming. For some with PTSD, that's a terrifying prospect.",
-   "link": "https://arstechnica.com/gadgets/2026/11/the-drone-delivery-boom-could-be-a-nightmare-for-people-traumatized-by-war/",
-   "source": "Ars Technica",
-   "category": "Tech",
-   "date": "2026-11-16T12:00:57.000Z",
-   "summary": "For those who have lived under armed drones, the sound overhead can be distressing."
-  },
-  {
-   "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
-   "link": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
-   "source": "Crunchbase News",
-   "category": "Business Ideas",
-   "date": "2026-11-16T12:00:36.000Z",
-   "summary": "As AI takes over entry-level knowledge work, guest authors Bob Morse of Strattam Capital and Michael Quoia of KSE Leadership argue that these workers should begin their careers managing AI agents, developing skills in delegation, oversight and judgment traditionally learned later."
-  },
-  {
-   "title": "Science at the Frontier: How scientists use ChatGPT",
-   "link": "https://openai.com/index/science-at-the-frontier",
-   "source": "OpenAI",
-   "category": "AI & ML",
-   "date": "2026-11-16T12:00:00.000Z",
-   "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
-  },
-  {
-   "title": "Local LLMs Handle Textbook RAG but Fail on New Research Papers",
-   "link": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/",
-   "source": "Towards Data Science",
-   "category": "Data Science",
-   "date": "2026-11-16T12:00:00.000Z",
-   "summary": "Five setups, one blind grading pack: textbook scores ran 12 to 20 of 20, but a paper published this year dropped them to 0 to 9 of 15. The post Local LLMs Handle Textbook RAG but Fail on New Research Papers appeared first on Towards Data Science."
-  },
-  {
-   "title": "What is an LLM? A practical guide to language models",
-   "link": "https://elevenlabs.io/blog/what-is-an-llm",
-   "source": "ElevenLabs",
-   "category": "AI & ML",
-   "date": "2026-11-16T12:00:00.000Z",
-   "summary": "Learn what a large language model (LLM) is, how LLMs work, how they are trained, the main architectures, real examples, and their limitations."
-  },
-  {
-   "title": "Kotoba is joining ElevenLabs",
-   "link": "https://elevenlabs.io/blog/kotoba",
-   "source": "ElevenLabs",
-   "category": "AI & ML",
-   "date": "2026-11-16T12:00:00.000Z",
-   "summary": "ElevenLabs is acquiring Kotoba, the leading Japanese voice AI lab, to bring natural, culturally fluent AI agents and voice interfaces to Japan."
-  },
-  {
-   "title": "Autotorino automates dealership calls with ElevenAgents",
-   "link": "https://elevenlabs.io/blog/autotorino-agents",
-   "source": "ElevenLabs",
-   "category": "AI & ML",
-   "date": "2026-11-16T12:00:00.000Z",
-   "summary": "Automated call handling more than doubled call volume capacity across the dealer network by using ElevenLabs."
-  },
-  {
-   "title": "The Year of More: $200,000 for what you create next",
-   "link": "https://elevenlabs.io/blog/the-year-of-more",
-   "source": "ElevenLabs",
-   "category": "AI & ML",
-   "date": "2026-11-16T12:00:00.000Z",
-   "summary": "The new ElevenCreative competition rewards work that brings voice, sound, image, and video together."
-  },
-  {
-   "title": "Merge pull request #5192 from NighttWatch/patch-1",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/e7a20696df6357d5a2f89fa37631218b34adb49b",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T11:57:27.000Z",
-   "summary": "Merge pull request #5192 from NighttWatch/patch-1 Add Raff (managed PostgreSQL, MySQL and Valkey)"
-  },
-  {
-   "title": "Fake Allahabad HC Order Row: DoT Orders Unblocking Of 95 Websites",
-   "link": "https://inc42.com/buzz/fake-allahabad-hc-order-row-dot-orders-unblocking-of-95-websites/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T11:53:22.000Z",
-   "summary": "The Department of Telecommunications (DoT) has directed internet service providers (ISPs) to immediately unblock 95 websites and domains that were…"
-  },
-  {
-   "title": "With 6% of its target trained, Nigeria earmarks $3 million to fix 3MTT’s job problem",
-   "link": "https://techcabal.com/2026/11/16/nigeria-3mtt-4-billion-jobs-problem/",
-   "source": "TechCabal",
-   "category": "Business Ideas",
-   "date": "2026-11-16T11:51:01.000Z",
-   "summary": "When the Nigerian government launched the 3 Million Technical Talent (3MTT) programme in 2023, it sought to build a workforce that could support the country’s digital economy, fill technical skills gaps and position Nigeria as a global supplier of technology talent. The ambition was to train three million Nigerians wit"
-  },
-  {
-   "title": "5 lessons from Here, There and Everywhere by Sudha Murty",
-   "link": "https://yourstory.com/2026/11/lessons-sudha-murty",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-11-16T11:50:00.000Z",
-   "summary": "Discover five meaningful lessons from Here, There and Everywhere by Sudha Murty on kindness, humility, relationships, gratitude, and simple living."
-  },
-  {
-   "title": "Update README.md",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/840d5ce032bcceafafc00057cae50e19fa2990f5",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T11:46:15.000Z",
-   "summary": "Update README.md"
-  },
-  {
-   "title": "5 lessons from The Life That's Waiting by Brianna Wiest",
-   "link": "https://yourstory.com/2026/11/lessons-brianna-wiest",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-11-16T11:15:55.000Z",
-   "summary": "Discover five meaningful lessons from The Life That's Waiting by Brianna Wiest on self-discovery, emotional healing, happiness, and personal growth."
-  },
-  {
-   "title": "Four years after walking away, MTN is back for Telkom",
-   "link": "https://techcabal.com/2026/11/16/mtn-reopens-talks-to-acquire-telkom/",
-   "source": "TechCabal",
-   "category": "Business Ideas",
-   "date": "2026-11-16T11:07:50.000Z",
-   "summary": "MTN has reopened talks to acquire Telkom, four years after their previous takeover attempt collapsed. The renewed discussions come as Telkom’s valuation has nearly doubled, raising the stakes for a deal that could reshape South Africa’s telecommunications market."
-  },
-  {
-   "title": "Obituaries",
-   "link": "https://stratechery.com/2026/obituaries/",
-   "source": "Stratechery",
-   "category": "Tech",
-   "date": "2026-11-16T11:02:49.000Z",
-   "summary": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world."
-  },
-  {
-   "title": "The small African lab sounding the alarm on AI bioweapons",
-   "link": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-   "source": "Rest of World",
-   "category": "Business Ideas",
-   "date": "2026-11-16T11:00:23.000Z",
-   "summary": "MinoHealth researchers in Ghana jailbroke their own LLM as a test. What emerged were thousands of toxin recipes—and an urgent push for regulation."
-  },
-  {
-   "title": "Candor – Interview evidence-based synthetic users to test ideas before recruiting",
-   "link": "https://betalist.com/startups/runcandor?utm_campaign=startup-202335&utm_medium=atom&utm_source=newsfeed",
-   "source": "BetaList",
-   "category": "Business Ideas",
-   "date": "2026-11-16T10:55:00.000Z",
-   "summary": "Describe your target audience and Candor builds synthetic participants using published sources like government data, industry reports, research papers, plus your own interview notes, support tickets, or surveys. Every participant attribute shows the evidence behind it. Tell Candor what you want to learn and it recommen"
-  },
-  {
-   "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
-   "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
-   "source": "MarkTechPost",
-   "category": "AI & ML",
-   "date": "2026-11-16T10:39:41.000Z",
-   "summary": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate. The post Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands appeared first"
-  },
-  {
-   "title": "Merge pull request #5191 from hasnain607/patch-22",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/d688d366e59f1bb3a6f6a6eb368be045043693bc",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T10:38:23.000Z",
-   "summary": "Merge pull request #5191 from hasnain607/patch-22 Update AnonAddy link in README.md"
-  },
-  {
-   "title": "The cost of making stablecoins work in Nigeria",
-   "link": "https://techcabal.com/2026/11/16/the-cost-of-making-stablecoins-work-in-nigeria/",
-   "source": "TechCabal",
-   "category": "Business Ideas",
-   "date": "2026-11-16T10:37:16.000Z",
-   "summary": "Nigeria’s new stablecoin regulations are reshaping the economics of issuing digital currencies. With mandatory central bank deposits, tighter investment limits, and stricter reserve requirements, issuers face higher costs and reduced earning potential. Commercial banks, meanwhile, could emerge as the biggest beneficiar"
-  },
-  {
-   "title": "Jio Stops New Signups For Free Google AI Pro Subscription",
-   "link": "https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/",
-   "source": "Inc42",
-   "category": "Business Ideas",
-   "date": "2026-11-16T10:21:02.000Z",
-   "summary": "Reliance Jio has stopped accepting new claims for its free Google AI Pro subscription, which gave eligible users up to…"
-  },
-  {
-   "title": "AI made integrations the vendor’s problem",
-   "link": "https://blog.n8n.io/ai-made-integrations-the-vendors-problem/",
-   "source": "n8n Blog",
-   "category": "AI Agents",
-   "date": "2026-11-16T10:17:32.000Z",
-   "summary": "In the second iteration of the AI Agent Development Tools report, I replaced the integrability axis with enterprise-readiness. I wanted this to signify the departure from 2020-style IPaaS. With MCP getting traction to the point where every vendor offers an MCP server, I said the integration burden now"
-  },
-  {
-   "title": "NGX Group expands into East Africa with 10% stake in Nairobi bourse",
-   "link": "https://techcabal.com/2026/11/16/ngx-group-nairobi-exchange-stake/",
-   "source": "TechCabal",
-   "category": "Business Ideas",
-   "date": "2026-11-16T10:14:33.000Z",
-   "summary": "The Nigerian Exchange Group Plc (NGX Group) has acquired a 10% equity stake in the Nairobi Securities Exchange (NSE) as it pursues a broader pan-African growth strategy."
-  },
-  {
-   "title": "Practical empathy",
-   "link": "https://seths.blog/2026/11/practical-empathy/",
-   "source": "Seth Godin",
-   "category": "Ideas",
-   "date": "2026-11-16T10:03:00.000Z",
-   "summary": "I don’t know what you know. I don’t want what you want, see what you see, believe what you believe. And that’s okay. In fact, it’s the only way to be of service, to make a sale or to cause a change to happen. Of course, we’re more intimate with our ideas, our products and […]"
-  },
-  {
-   "title": "Update README.md",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/45b906ec72f1539839b8af60b3104354a5c08d59",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:59:37.000Z",
-   "summary": "Update README.md"
-  },
-  {
-   "title": "Update AnonAddy link to addy.io",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/1d529975cc945f16bbf2ec608024ff46f7d1fa67",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:55:01.000Z",
-   "summary": "Update AnonAddy link to addy.io"
-  },
-  {
-   "title": "Update OVH link in README for accuracy",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/88bc0efdfda6351d1a1b3e78b3a99da0989300c9",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:50:08.000Z",
-   "summary": "Update OVH link in README for accuracy"
-  },
-  {
-   "title": "Update AnonAddy link in README.md",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/c94f187e7ac8a3b014160df0e1888ae4eb3a0f6e",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:49:06.000Z",
-   "summary": "Update AnonAddy link in README.md"
-  },
-  {
-   "title": "Merge pull request #5190 from hasnain607/patch-21",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/5a6929fdb5a359f8c4020a11f5a585c4a2c808e8",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:46:18.000Z",
-   "summary": "Merge pull request #5190 from hasnain607/patch-21 Update README.md"
-  },
-  {
-   "title": "Update OVH link in README for DDoS protection",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/cdd95bcb24e5514c330a45d3c00e4b013d549051",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:45:34.000Z",
-   "summary": "Update OVH link in README for DDoS protection"
-  },
-  {
-   "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
-   "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
-   "source": "MarkTechPost",
-   "category": "AI & ML",
-   "date": "2026-11-16T09:44:17.000Z",
-   "summary": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%. The post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPost."
-  },
-  {
-   "title": "Update README.md",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/344875425c4c58b30b8b5af58aaf48325ef6b671",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:43:48.000Z",
-   "summary": "Update README.md"
-  },
-  {
-   "title": "Merge pull request #5189 from hasnain607/patch-20",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/ee67e0e36f47825b9c0199ba11cad470cb5a63ed",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:41:02.000Z",
-   "summary": "Merge pull request #5189 from hasnain607/patch-20 Update Notion link in README.md"
-  },
-  {
-   "title": "From funding with own college fees to 1,000+ beds: how oho Living won Tier-2",
-   "link": "https://yourstory.com/2026/11/oho-living-tier-2-managed-rental-housing-startup-founder-story",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-11-16T09:40:19.000Z",
-   "summary": "oho Living, a Tier-2 managed rental startup, grew revenue 25x after its worst year and now runs 1,032 beds across six cities."
-  },
-  {
-   "title": "Fix Zoom link in README.md",
-   "link": "https://github.com/ripienaar/free-for-dev/commit/348662ab49219c01db2993acb2f887e4c1c3b4c9",
-   "source": "Free for Dev (GitHub)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:40:19.000Z",
-   "summary": "Fix Zoom link in README.md"
-  },
-  {
-   "title": "How Revolut raises ambition without lowering the bar",
-   "link": "https://openai.com/business/customer-stories/revolut",
-   "source": "OpenAI",
-   "category": "AI & ML",
-   "date": "2026-11-16T09:30:00.000Z",
-   "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security."
-  },
-  {
-   "title": "Beyond payments: Where venture capital will flow across Indian fintech over the next 24 months",
-   "link": "https://yourstory.com/2026/11/where-venture-capital-will-flow-across-indian-fintech-over-next-24-months",
-   "source": "YourStory",
-   "category": "India",
-   "date": "2026-11-16T09:20:56.000Z",
-   "summary": "India's fintech decade was built on distribution. The next one will be built on infrastructure, advice and intelligence—and capital is already repricing accordingly."
-  },
-  {
-   "title": "Show HN: VennDB: append-only in-memory Rust DB for rows queried using bit flags",
-   "link": "https://github.com/plabayo/venndb",
-   "source": "Show HN (Hacker News)",
-   "category": "Business Ideas",
-   "date": "2026-11-16T09:17:37.000Z",
-   "summary": "Comments"
-  },
-  {
-   "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
-   "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
-   "source": "MarkTechPost",
-   "category": "AI & ML",
-   "date": "2026-11-16T09:08:37.000Z",
-   "summary": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL. The post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTechPost."
-  },
-  {
-   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "link": "https://openai.com/index/lvmh-media-division-partnership",
-   "source": "OpenAI",
-   "category": "AI & ML",
-   "date": "2026-11-16T09:00:00.000Z",
-   "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
   }
  ]
 }
